@@ -4298,3 +4298,296 @@ LogInit: Object subsystem initialized
 [2025.12.02-14.59.08:089][618]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
 		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
 		NumGeometrySegments changed: current: 0 - new: 512
+[2025.12.02-15.02.14:627][250]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3170.727783
+[2025.12.02-15.02.15:626][254]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.02-15.02.15:626][254]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3171.394287, Update Interval: 340.348511
+[2025.12.02-15.08.09:623][978]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.02-15.08.09:624][978]LogWorld: BeginTearingDown for /Game/TopDown/UEDPIE_0_Lvl_TopDown
+[2025.12.02-15.08.09:624][978]LogWorld: UWorld::CleanupWorld for Lvl_TopDown, bSessionEnded=true, bCleanupResources=true
+[2025.12.02-15.08.09:625][978]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.02-15.08.09:625][978]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/TopDown/UEDPIE_0_Lvl_TopDown.Lvl_TopDown
+[2025.12.02-15.08.09:629][978]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.02-15.08.09:633][978]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.02-15.08.09:668][978]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.02-15.08.09:668][978]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 34
+[2025.12.02-15.08.09:668][978]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34, StreamState=4
+[2025.12.02-15.08.09:670][978]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34, StreamState=2
+[2025.12.02-15.08.09:675][978]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.02-15.08.09:678][978]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2025.12.02-15.08.09:783][979]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2025.12.02-15.08.28:731][294]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3544.829590
+[2025.12.02-15.08.29:734][297]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.02-15.08.29:734][297]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3545.503174, Update Interval: 316.492798
+[2025.12.02-15.11.14:972][793]LogDerivedDataCache: C:/Users/skojo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.12.02-15.11.18:010][857]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.02-15.11.18:016][857]LogContentBundle: [Lvl_TopDown(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.12.02-15.11.18:016][857]LogWorldPartition: Display: GenerateStreaming for 'Lvl_TopDown' started...
+[2025.12.02-15.11.18:017][857]LogWorldPartition: Display: GenerateStreaming for 'Lvl_TopDown' took 824 us (total: 33.091 ms)
+[2025.12.02-15.11.18:017][857]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.02-15.11.18:018][857]LogPlayLevel: Creating play world package: /Game/TopDown/UEDPIE_0_Lvl_TopDown
+[2025.12.02-15.11.18:023][857]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.12.02-15.11.18:024][857]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.050 ms (total: 37.357 ms)
+[2025.12.02-15.11.18:024][857]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006577s)
+[2025.12.02-15.11.18:024][857]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Lvl_TopDown.Lvl_TopDown to /Game/TopDown/UEDPIE_0_Lvl_TopDown.Lvl_TopDown (0.006619s)
+[2025.12.02-15.11.18:050][857]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.12.02-15.11.18:052][857]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_TopDown
+[2025.12.02-15.11.18:054][857]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_TopDown)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.12.02-15.11.18:054][857]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.12.02-15.11.18:054][857]LogWorldPartition: UWorldPartition::Initialize : World = /Game/TopDown/UEDPIE_0_Lvl_TopDown.Lvl_TopDown, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.12.02-15.11.18:054][857]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.12.02-15.11.18:056][857]LogWorldPartition: Display: WorldPartition initialize took 1.415 ms (total: 179.243 ms)
+[2025.12.02-15.11.18:056][857]LogPlayLevel: PIE: World Init took: (0.003288s)
+[2025.12.02-15.11.18:056][857]LogAudio: Display: Creating Audio Device:                 Id: 35, Scope: Unique, Realtime: True
+[2025.12.02-15.11.18:056][857]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.02-15.11.18:056][857]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.02-15.11.18:057][857]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.02-15.11.18:057][857]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.02-15.11.18:057][857]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.02-15.11.18:057][857]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.02-15.11.18:057][857]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.02-15.11.18:057][857]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.02-15.11.18:057][857]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.02-15.11.18:057][857]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.02-15.11.18:057][857]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.02-15.11.18:059][857]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.02-15.11.18:154][857]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2025.12.02-15.11.18:155][857]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.02-15.11.18:155][857]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.02-15.11.18:155][857]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.02-15.11.18:159][857]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=35
+[2025.12.02-15.11.18:159][857]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=35
+[2025.12.02-15.11.18:162][857]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=35
+[2025.12.02-15.11.18:162][857]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=35
+[2025.12.02-15.11.18:162][857]LogInit: FAudioDevice initialized with ID 35.
+[2025.12.02-15.11.18:162][857]LogAudio: Display: Audio Device (ID: 35) registered with world 'Lvl_TopDown'.
+[2025.12.02-15.11.18:162][857]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 35
+[2025.12.02-15.11.18:173][857]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2025.12.02-15.11.18:175][857]LogWorld: Bringing World /Game/TopDown/UEDPIE_0_Lvl_TopDown.Lvl_TopDown up for play (max tick rate 60) at 2025.12.02-15.11.18
+[2025.12.02-15.11.18:176][857]LogWorld: Bringing up level for play took: 0.003200
+[2025.12.02-15.11.18:179][857]LogOnline: OSS: Created online subsystem instance for: :Context_40
+[2025.12.02-15.11.18:182][857]PIE: Server logged in
+[2025.12.02-15.11.18:185][857]PIE: Play in editor total start time 0.169 seconds.
+[2025.12.02-15.11.18:242][858]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.12.02-15.11.19:673][937]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.02-15.11.19:674][937]LogWorld: BeginTearingDown for /Game/TopDown/UEDPIE_0_Lvl_TopDown
+[2025.12.02-15.11.19:674][937]LogWorld: UWorld::CleanupWorld for Lvl_TopDown, bSessionEnded=true, bCleanupResources=true
+[2025.12.02-15.11.19:675][937]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.02-15.11.19:675][937]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/TopDown/UEDPIE_0_Lvl_TopDown.Lvl_TopDown
+[2025.12.02-15.11.19:680][937]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.02-15.11.19:687][937]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.02-15.11.19:707][937]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.02-15.11.19:707][937]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 35
+[2025.12.02-15.11.19:707][937]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35, StreamState=4
+[2025.12.02-15.11.19:709][937]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35, StreamState=2
+[2025.12.02-15.11.19:719][937]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2025.12.02-15.11.19:825][938]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2025.12.02-15.11.24:679][224]Cmd: SELECT NONE
+[2025.12.02-15.11.32:285][638]Cmd: DELETE
+[2025.12.02-15.11.32:293][638]Cmd: ACTOR DELETE
+[2025.12.02-15.11.32:300][638]LogEditorActor: Deleted Actor: BP_TopDownCharacter_C
+[2025.12.02-15.11.32:328][638]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.12.02-15.11.32:330][638]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2025.12.02-15.12.08:031][338]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.12.02-15.12.08:036][338]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Lvl_TopDown' took 0.037
+[2025.12.02-15.12.33:139][213]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2025.12.02-15.12.33:139][213]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2025.12.02-15.12.33:139][213]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/TopDown/Lvl_TopDown.Lvl_TopDown:PersistentLevel.StaticMeshActor_1
+[2025.12.02-15.12.33:141][213]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/TopDown/Lvl_TopDown.Lvl_TopDown:PersistentLevel.StaticMeshActor_1
+[2025.12.02-15.12.33:625][237]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.12.02-15.12.33:628][237]LogEditorActor: Deleted 0 Actors (0.032 secs)
+[2025.12.02-15.12.33:634][237]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2025.12.02-15.12.33:634][237]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2025.12.02-15.12.33:636][237]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/TopDown/Lvl_TopDown.Lvl_TopDown:PersistentLevel.StaticMeshActor_UAID_F4C88AAF13BEC3A702_1148905169
+[2025.12.02-15.12.33:637][237]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/TopDown/Lvl_TopDown.Lvl_TopDown:PersistentLevel.StaticMeshActor_UAID_F4C88AAF13BEC3A702_1148905169
+[2025.12.02-15.12.33:725][238]SourceControl: Error: warning: could not open directory 'UProject Files/VerticalJam2025/Content/__ExternalActors__/TopDown/Lvl_TopDown/0/': No such file or directory
+[2025.12.02-15.12.33:817][239]SourceControl: Error: warning: could not open directory 'UProject Files/VerticalJam2025/Content/__ExternalActors__/TopDown/Lvl_TopDown/0/': No such file or directory
+[2025.12.02-15.12.34:721][285]SourceControl: Error: warning: could not open directory 'UProject Files/VerticalJam2025/Content/__ExternalActors__/TopDown/Lvl_TopDown/0/': No such file or directory
+[2025.12.02-15.13.10:993][321]Cmd: EDIT COPY
+[2025.12.02-15.13.11:209][334]Cmd: EDIT PASTE
+[2025.12.02-15.13.46:070][683]LogStreaming: Display: FlushAsyncLoading(574): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.02-15.14.00:851][497]Cmd: TRANSACTION UNDO
+[2025.12.02-15.14.00:851][497]LogEditorTransaction: Undo Clicking on Elements
+[2025.12.02-15.14.01:328][504]Cmd: TRANSACTION UNDO
+[2025.12.02-15.14.01:328][504]LogEditorTransaction: Undo Reset to Default
+[2025.12.02-15.14.01:800][522]Cmd: TRANSACTION UNDO
+[2025.12.02-15.14.01:800][522]LogEditorTransaction: Undo Replace component used material
+[2025.12.02-15.14.02:229][544]Cmd: TRANSACTION UNDO
+[2025.12.02-15.14.02:229][544]LogEditorTransaction: Undo Edit Static Mesh
+[2025.12.02-15.14.02:657][565]Cmd: TRANSACTION UNDO
+[2025.12.02-15.14.02:657][565]LogEditorTransaction: Undo Edit Static Mesh
+[2025.12.02-15.14.33:230][229]LogStreaming: Display: FlushAsyncLoading(575): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.02-15.14.34:708][313]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3910.803223
+[2025.12.02-15.14.34:876][323]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.02-15.14.34:877][323]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3910.954346, Update Interval: 310.814545
+[2025.12.02-15.14.43:031][746]LogStreaming: Display: FlushAsyncLoading(576): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.02-15.14.50:295][104]LogStreaming: Display: FlushAsyncLoading(577): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.02-15.14.50:297][104]LogStaticMesh: Display: Building static mesh SM_DoorFrame_Edge (Required Memory Estimate: 0.06426 MB)...
+[2025.12.02-15.14.50:315][104]LogStaticMesh: Adjacency [0.00s], tris: 36, UVs 1
+[2025.12.02-15.14.50:315][104]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/LevelPrototyping/Interactable/Door/Assets/Meshes/SM_DoorFrame_Edge) ...
+[2025.12.02-15.14.50:315][104]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2025.12.02-15.14.50:315][104]LogStaticMesh: Leaves [0.00s]
+[2025.12.02-15.14.50:315][104]LogStaticMesh: Reduce [0.00s]
+[2025.12.02-15.14.50:315][104]LogStaticMesh: Fallback [0.00s], num tris: 36
+[2025.12.02-15.14.50:315][104]LogStaticMesh: Fallback [0.00s], num tris: 36
+[2025.12.02-15.14.50:315][104]LogStaticMesh: ConstrainClusters:
+[2025.12.02-15.14.50:315][104]LogStaticMesh:   Input: 1 Clusters, 36 Triangles and 48 Vertices
+[2025.12.02-15.14.50:315][104]LogStaticMesh:   Output without splits: 1 Clusters, 36 Triangles and 48 Vertices
+[2025.12.02-15.14.50:315][104]LogStaticMesh:   Output with splits: 1 Clusters, 36 Triangles and 48 Vertices
+[2025.12.02-15.14.50:315][104]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.12.02-15.14.50:315][104]LogStaticMesh: WritePages:
+[2025.12.02-15.14.50:315][104]LogStaticMesh:   Root: GPU size: 720 bytes. 1 Pages. 720.000 bytes per page (2.197% utilization).
+[2025.12.02-15.14.50:315][104]LogStaticMesh:   Streaming: 0 bytes.
+[2025.12.02-15.14.50:315][104]LogStaticMesh:   Page data disk size: 884 bytes. Fixup data size: 24 bytes.
+[2025.12.02-15.14.50:315][104]LogStaticMesh:   Total GPU size: 720 bytes, Total disk size: 908 bytes.
+[2025.12.02-15.14.50:315][104]LogStaticMesh: Encode [0.00s]
+[2025.12.02-15.14.50:315][104]LogStaticMesh: NaniteBuild [0.00s]
+[2025.12.02-15.14.50:318][104]LogStaticMesh: Built static mesh [0.02s] /Game/LevelPrototyping/Interactable/Door/Assets/Meshes/SM_DoorFrame_Edge.SM_DoorFrame_Edge
+[2025.12.02-15.14.55:630][390]Cmd: TRANSACTION UNDO
+[2025.12.02-15.14.55:630][390]LogEditorTransaction: Undo Edit Static Mesh
+[2025.12.02-15.14.58:083][491]LogStreaming: Display: FlushAsyncLoading(578): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.02-15.15.00:244][582]SourceControl: Error: warning: could not open directory 'UProject Files/VerticalJam2025/Content/__ExternalActors__/TopDown/Lvl_TopDown/0/': No such file or directory
+[2025.12.02-15.15.00:254][582]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.02-15.15.00:513][582]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.12.02-15.15.00:544][582]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.12.02-15.15.00:574][582]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.12.02-15.15.00:786][582]SourceControl: Error: Updated 0 paths from the index
+[2025.12.02-15.15.00:950][582]SourceControl: rm 'UProject Files/VerticalJam2025/Content/__ExternalActors__/TopDown/Lvl_TopDown/C/CD/EPZYU3LW1WDJC88R787GUK.uasset'
+[2025.12.02-15.15.00:974][582]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Lvl_TopDown/0/JS/IKA8LMWMTCLCVXP1T14N3Y
+[2025.12.02-15.15.00:974][582]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/IKA8LMWMTCLCVXP1T14N3Y1617555A4A8936E8149034B255E4E1A5.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/__ExternalActors__/TopDown/Lvl_TopDown/0/JS/IKA8LMWMTCLCVXP1T14N3Y.uasset'
+[2025.12.02-15.15.00:986][582]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Lvl_TopDown/9/C4/Y6EJHQ8UKZMPWWI2MPTOMK
+[2025.12.02-15.15.00:986][582]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/Y6EJHQ8UKZMPWWI2MPTOMKEBD278DF43C6D44EA0DAC4A36B9A4510.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/__ExternalActors__/TopDown/Lvl_TopDown/9/C4/Y6EJHQ8UKZMPWWI2MPTOMK.uasset'
+[2025.12.02-15.15.01:236][582]LogFileHelpers: InternalPromptForCheckoutAndSave took 981.679 ms (total: 11.2 sec)
+[2025.12.02-15.15.01:316][582]LogContentValidation: Display: Starting to validate 2 assets
+[2025.12.02-15.15.01:316][582]LogContentValidation: Enabled validators:
+[2025.12.02-15.15.01:316][582]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.02-15.15.01:316][582]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.02-15.15.01:316][582]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.02-15.15.01:316][582]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.02-15.15.01:316][582]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.02-15.15.01:316][582]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.02-15.15.01:317][582]AssetCheck: /Game/TopDown/Lvl_TopDown Validating asset
+[2025.12.02-15.15.31:696][674]LogShaderCompilers: Display: ================================================
+[2025.12.02-15.15.31:696][674]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.12.02-15.15.31:696][674]LogShaderCompilers: Display: Total job queries 506, among them cache hits 49 (9.68%), DDC hits 380 (75.10%), Duplicates 68 (13.44%)
+[2025.12.02-15.15.31:696][674]LogShaderCompilers: Display: Tracking 389 distinct input hashes that result in 286 distinct outputs (73.52%)
+[2025.12.02-15.15.31:696][674]LogShaderCompilers: Display: RAM used: 3.63 MiB of 819.20 MiB budget. Usage: 0.44%
+[2025.12.02-15.15.31:696][674]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.12.02-15.15.31:696][674]LogShaderCompilers: Display: Shaders Compiled: 9
+[2025.12.02-15.15.31:696][674]LogShaderCompilers: Display: Jobs assigned 9, completed 9 (100%)
+[2025.12.02-15.15.31:697][674]LogShaderCompilers: Display: Average time worker was idle: 9.79 s
+[2025.12.02-15.15.31:697][674]LogShaderCompilers: Display: Time job spent in pending queue: average 0.02 s, longest 0.07 s
+[2025.12.02-15.15.31:697][674]LogShaderCompilers: Display: Job execution time: average 1.46 s, max 2.27 s
+[2025.12.02-15.15.31:697][674]LogShaderCompilers: Display: Job life time (pending + execution): average 1.48 s, max 2.28
+[2025.12.02-15.15.31:697][674]LogShaderCompilers: Display: Shader code size: total 73.34 KiB, numShaders 10, average 7.334 KiB, min 2.691 KiB, max 13.836 KiB
+[2025.12.02-15.15.31:697][674]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 5.73 s
+[2025.12.02-15.15.31:697][674]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.12.02-15.15.31:697][674]LogShaderCompilers: Display: Jobs were issued in 9 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.12.02-15.15.31:697][674]LogShaderCompilers: Display: Average processing rate: 1.57 jobs/sec
+[2025.12.02-15.15.31:697][674]LogShaderCompilers: Display: Total thread time: 10.762 s
+[2025.12.02-15.15.31:697][674]LogShaderCompilers: Display: Total thread preprocess time: 13.442 s
+[2025.12.02-15.15.31:697][674]LogShaderCompilers: Display: Percentage time preprocessing: 124.90%
+[2025.12.02-15.15.31:697][674]LogShaderCompilers: Display: Effective parallelization: 1.88 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.234627
+[2025.12.02-15.15.31:697][674]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.12.02-15.15.31:697][674]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    1 times, average 1.89 sec, max 1.89 sec, min 1.89 sec)
+[2025.12.02-15.15.31:697][674]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    1 times, average 1.28 sec, max 1.28 sec, min 1.28 sec)
+[2025.12.02-15.15.31:697][674]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 1.23 sec, max 1.35 sec, min 1.12 sec)
+[2025.12.02-15.15.31:697][674]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    2 times, average 1.05 sec, max 1.21 sec, min 0.89 sec)
+[2025.12.02-15.15.31:697][674]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.88 sec, max 0.88 sec, min 0.88 sec)
+[2025.12.02-15.15.31:697][674]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.12.02-15.15.31:698][674]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 22.87% of total time (compiled    2 times, average 1.23 sec, max 1.35 sec, min 1.12 sec)
+[2025.12.02-15.15.31:698][674]LogShaderCompilers: Display:                                                 FLumenCardPS - 19.45% of total time (compiled    2 times, average 1.05 sec, max 1.21 sec, min 0.89 sec)
+[2025.12.02-15.15.31:698][674]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 17.58% of total time (compiled    1 times, average 1.89 sec, max 1.89 sec, min 1.89 sec)
+[2025.12.02-15.15.31:698][674]LogShaderCompilers: Display:                                                  FVelocityPS - 11.89% of total time (compiled    1 times, average 1.28 sec, max 1.28 sec, min 1.28 sec)
+[2025.12.02-15.15.31:698][674]LogShaderCompilers: Display:                                                 FLumenCardVS - 8.16% of total time (compiled    1 times, average 0.88 sec, max 0.88 sec, min 0.88 sec)
+[2025.12.02-15.15.31:698][674]LogShaderCompilers: Display: === Material stats ===
+[2025.12.02-15.15.31:698][674]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.12.02-15.15.31:698][674]LogShaderCompilers: Display: Materials Translated:    148
+[2025.12.02-15.15.31:698][674]LogShaderCompilers: Display: Material Total Translate Time: 0.22 s
+[2025.12.02-15.15.31:698][674]LogShaderCompilers: Display: Material Translation Only: 0.07 s (30%)
+[2025.12.02-15.15.31:698][674]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.12.02-15.15.31:698][674]LogShaderCompilers: Display: Material Cache Hits: 15 (10%)
+[2025.12.02-15.15.31:698][674]LogShaderCompilers: Display: ================================================
+[2025.12.02-15.15.43:810][746]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.02-15.15.43:814][746]LogContentBundle: [Lvl_TopDown(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.12.02-15.15.43:814][746]LogWorldPartition: Display: GenerateStreaming for 'Lvl_TopDown' started...
+[2025.12.02-15.15.43:815][746]LogWorldPartition: Display: GenerateStreaming for 'Lvl_TopDown' took 702 us (total: 33.794 ms)
+[2025.12.02-15.15.43:815][746]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.02-15.15.43:843][746]LogPlayLevel: Creating play world package: /Game/TopDown/UEDPIE_0_Lvl_TopDown
+[2025.12.02-15.15.43:847][746]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.12.02-15.15.43:848][746]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 923 us (total: 38.281 ms)
+[2025.12.02-15.15.43:848][746]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005730s)
+[2025.12.02-15.15.43:848][746]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Lvl_TopDown.Lvl_TopDown to /Game/TopDown/UEDPIE_0_Lvl_TopDown.Lvl_TopDown (0.005778s)
+[2025.12.02-15.15.43:874][746]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.12.02-15.15.43:877][746]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_TopDown
+[2025.12.02-15.15.43:879][746]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_TopDown)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.12.02-15.15.43:879][746]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.12.02-15.15.43:879][746]LogWorldPartition: UWorldPartition::Initialize : World = /Game/TopDown/UEDPIE_0_Lvl_TopDown.Lvl_TopDown, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.12.02-15.15.43:879][746]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.12.02-15.15.43:880][746]LogWorldPartition: Display: WorldPartition initialize took 1.302 ms (total: 180.545 ms)
+[2025.12.02-15.15.43:880][746]LogPlayLevel: PIE: World Init took: (0.003235s)
+[2025.12.02-15.15.43:882][746]LogAudio: Display: Creating Audio Device:                 Id: 36, Scope: Unique, Realtime: True
+[2025.12.02-15.15.43:882][746]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.02-15.15.43:882][746]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.02-15.15.43:882][746]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.02-15.15.43:882][746]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.02-15.15.43:882][746]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.02-15.15.43:882][746]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.02-15.15.43:882][746]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.02-15.15.43:882][746]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.02-15.15.43:882][746]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.02-15.15.43:882][746]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.02-15.15.43:882][746]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.02-15.15.43:884][746]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.02-15.15.43:977][746]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2025.12.02-15.15.43:978][746]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.02-15.15.43:978][746]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.02-15.15.43:978][746]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.02-15.15.43:979][746]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=36
+[2025.12.02-15.15.43:979][746]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=36
+[2025.12.02-15.15.43:980][746]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=36
+[2025.12.02-15.15.43:980][746]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=36
+[2025.12.02-15.15.43:980][746]LogInit: FAudioDevice initialized with ID 36.
+[2025.12.02-15.15.43:980][746]LogAudio: Display: Audio Device (ID: 36) registered with world 'Lvl_TopDown'.
+[2025.12.02-15.15.43:980][746]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 36
+[2025.12.02-15.15.44:013][746]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2025.12.02-15.15.44:015][746]LogWorld: Bringing World /Game/TopDown/UEDPIE_0_Lvl_TopDown.Lvl_TopDown up for play (max tick rate 60) at 2025.12.02-15.15.44
+[2025.12.02-15.15.44:016][746]LogWorld: Bringing up level for play took: 0.002200
+[2025.12.02-15.15.44:018][746]LogOnline: OSS: Created online subsystem instance for: :Context_41
+[2025.12.02-15.15.44:022][746]PIE: Server logged in
+[2025.12.02-15.15.44:024][746]PIE: Play in editor total start time 0.209 seconds.
+[2025.12.02-15.15.44:078][747]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.12.02-15.15.57:613][552]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.02-15.15.57:613][552]LogWorld: BeginTearingDown for /Game/TopDown/UEDPIE_0_Lvl_TopDown
+[2025.12.02-15.15.57:613][552]LogWorld: UWorld::CleanupWorld for Lvl_TopDown, bSessionEnded=true, bCleanupResources=true
+[2025.12.02-15.15.57:614][552]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.02-15.15.57:614][552]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/TopDown/UEDPIE_0_Lvl_TopDown.Lvl_TopDown
+[2025.12.02-15.15.57:616][552]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.02-15.15.57:619][552]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.02-15.15.57:646][552]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.02-15.15.57:646][552]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 36
+[2025.12.02-15.15.57:646][552]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36, StreamState=4
+[2025.12.02-15.15.57:648][552]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36, StreamState=2
+[2025.12.02-15.15.57:656][552]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.12.02-15.15.57:697][554]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2025.12.02-15.20.37:413][429]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4273.507812
+[2025.12.02-15.20.38:414][432]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.02-15.20.38:414][433]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4274.183105, Update Interval: 327.144379
+[2025.12.02-15.21.00:507][701]Cmd: DELETE
+[2025.12.02-15.21.00:507][701]Cmd: ACTOR DELETE
+[2025.12.02-15.21.00:509][701]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.02-15.21.00:511][701]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.02-15.21.00:535][701]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.12.02-15.21.00:538][701]LogEditorActor: Deleted 2 Actors (0.030 secs)
+[2025.12.02-15.21.22:150][ 63]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.02-15.21.22:393][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.12.02-15.21.22:418][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.12.02-15.21.22:442][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.12.02-15.21.22:660][ 63]SourceControl: Error: error: pathspec 'C:/Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/__ExternalActors__/TopDown/Lvl_TopDown/9/C4/Y6EJHQ8UKZMPWWI2MPTOMK.uasset' did not match any file(s) known to git
+[2025.12.02-15.21.22:660][ 63]SourceControl: Error: error: pathspec 'C:/Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/__ExternalActors__/TopDown/Lvl_TopDown/0/JS/IKA8LMWMTCLCVXP1T14N3Y.uasset' did not match any file(s) known to git
+[2025.12.02-15.21.22:841][ 63]SourceControl: Error: fatal: pathspec 'C:/Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/__ExternalActors__/TopDown/Lvl_TopDown/9/C4/Y6EJHQ8UKZMPWWI2MPTOMK.uasset' did not match any files
+[2025.12.02-15.21.22:845][ 63]LogObjectTools: Warning: SCC failed to open the selected files for deletion.
+[2025.12.02-15.21.22:861][ 63]LogFileHelpers: InternalPromptForCheckoutAndSave took 709.663 ms (total: 11.9 sec)
