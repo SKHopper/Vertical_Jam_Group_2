@@ -1357,3 +1357,31 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.12.02-12.36.55:444][730]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=2
 [2025.12.02-12.36.55:452][730]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
 [2025.12.02-12.36.55:513][731]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2025.12.02-12.38.36:949][514]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 689.604187
+[2025.12.02-12.38.37:132][525]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.02-12.38.37:132][525]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 689.772339, Update Interval: 359.705200
+[2025.12.02-12.38.44:152][913]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.02-12.38.44:216][913]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/Blueprints/BP_TopDownController] ([2] browsable assets)...
+[2025.12.02-12.38.44:217][913]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/BP_TopDownController]
+[2025.12.02-12.38.44:242][913]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_TopDownController
+[2025.12.02-12.38.44:242][913]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/BP_TopDownControllerC1143D2145B8712616C0328744A9CABB.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/TopDown/Blueprints/BP_TopDownController.uasset'
+[2025.12.02-12.38.44:258][913]LogFileHelpers: InternalPromptForCheckoutAndSave took 105.943 ms (total: 199.597 ms)
+[2025.12.02-12.38.44:324][913]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.02-12.38.44:325][913]LogContentValidation: Enabled validators:
+[2025.12.02-12.38.44:325][913]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.02-12.38.44:325][913]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.02-12.38.44:325][913]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.02-12.38.44:325][913]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.02-12.38.44:325][913]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.02-12.38.44:325][913]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.02-12.38.44:325][913]AssetCheck: /Game/TopDown/Blueprints/BP_TopDownController Validating asset
+[2025.12.02-12.39.09:982][452]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (Realtek(R) Audio), InstanceID=1
+[2025.12.02-12.39.09:982][452]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{a2962f03-a33a-4e3e-a7a3-beb9f50aa280}', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2025.12.02-12.39.09:995][453]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [{0.0.0.00000000}.{a2962f03-a33a-4e3e-a7a3-beb9f50aa280}]
+[2025.12.02-12.39.09:996][453]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2025.12.02-12.39.09:996][453]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2025.12.02-12.39.10:314][472]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{a2962f03-a33a-4e3e-a7a3-beb9f50aa280}, Name=Headphones (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=313.10
+[2025.12.02-12.39.10:314][472]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2025.12.02-12.39.10:314][472]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.12.02-12.39.10:318][472]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.12.02-12.39.39:533][223]LogAudioEnumeration: Warning: FWindowsMMDeviceCache: Failed to get Format for active device 'Microphone (USB Audio Device)'
