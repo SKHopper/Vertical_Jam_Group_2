@@ -4776,3 +4776,370 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.12.04-13.29.08:435][ 40]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.12.04-13.29.08:435][ 40]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.12.04-13.29.08:435][ 40]AssetCheck: /Game/animalBPs/AIC_animal Validating asset
+[2025.12.04-13.32.54:464][692]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.12.04-13.32.54:625][692]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.04-13.32.54:713][692]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/AIC_animal] ([2] browsable assets)...
+[2025.12.04-13.32.54:713][692]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/AIC_animal]
+[2025.12.04-13.32.54:731][692]LogSavePackage: Moving output files for package: /Game/animalBPs/AIC_animal
+[2025.12.04-13.32.54:732][692]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AIC_animalA128F8F8416503F555474D87DF26B4F6.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/AIC_animal.uasset'
+[2025.12.04-13.32.54:743][692]LogFileHelpers: InternalPromptForCheckoutAndSave took 117.837 ms (total: 23.8 sec)
+[2025.12.04-13.32.54:815][692]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.04-13.32.54:815][692]LogContentValidation: Enabled validators:
+[2025.12.04-13.32.54:815][692]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.04-13.32.54:815][692]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.04-13.32.54:815][692]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.04-13.32.54:815][692]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.04-13.32.54:815][692]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.04-13.32.54:815][692]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.04-13.32.54:815][692]AssetCheck: /Game/animalBPs/AIC_animal Validating asset
+[2025.12.04-13.33.16:811][  4]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.12.04-13.33.16:962][  4]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.04-13.33.17:035][  4]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/IF_animal] ([2] browsable assets)...
+[2025.12.04-13.33.17:035][  4]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/IF_animal]
+[2025.12.04-13.33.17:046][  4]LogSavePackage: Moving output files for package: /Game/animalBPs/IF_animal
+[2025.12.04-13.33.17:047][  4]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/IF_animalBDBB5D8547A7AB48725D51B16068269E.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/IF_animal.uasset'
+[2025.12.04-13.33.17:057][  4]LogFileHelpers: InternalPromptForCheckoutAndSave took 95.071 ms (total: 23.9 sec)
+[2025.12.04-13.33.17:121][  4]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.04-13.33.17:121][  4]LogContentValidation: Enabled validators:
+[2025.12.04-13.33.17:121][  4]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.04-13.33.17:121][  4]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.04-13.33.17:121][  4]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.04-13.33.17:121][  4]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.04-13.33.17:121][  4]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.04-13.33.17:121][  4]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.04-13.33.17:121][  4]AssetCheck: /Game/animalBPs/IF_animal Validating asset
+[2025.12.04-13.33.25:744][510]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.12.04-13.33.25:851][510]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.04-13.33.25:907][510]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/IF_animal] ([2] browsable assets)...
+[2025.12.04-13.33.25:907][510]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/IF_animal]
+[2025.12.04-13.33.25:918][510]LogSavePackage: Moving output files for package: /Game/animalBPs/IF_animal
+[2025.12.04-13.33.25:919][510]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/IF_animal84F298D043F717A5650FEAB399EDAEE8.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/IF_animal.uasset'
+[2025.12.04-13.33.25:931][510]LogFileHelpers: InternalPromptForCheckoutAndSave took 79.844 ms (total: 23.9 sec)
+[2025.12.04-13.33.25:997][510]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.04-13.33.25:997][510]LogContentValidation: Enabled validators:
+[2025.12.04-13.33.25:997][510]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.04-13.33.25:997][510]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.04-13.33.25:997][510]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.04-13.33.25:997][510]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.04-13.33.25:997][510]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.04-13.33.25:997][510]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.04-13.33.25:997][510]AssetCheck: /Game/animalBPs/IF_animal Validating asset
+[2025.12.04-13.33.30:983][807]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.12.04-13.33.31:098][807]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.04-13.33.31:178][807]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/IF_animal] ([2] browsable assets)...
+[2025.12.04-13.33.31:178][807]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/IF_animal]
+[2025.12.04-13.33.31:190][807]LogSavePackage: Moving output files for package: /Game/animalBPs/IF_animal
+[2025.12.04-13.33.31:191][807]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/IF_animalB7EC634C45B926A2387E86904046E578.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/IF_animal.uasset'
+[2025.12.04-13.33.31:201][807]LogFileHelpers: InternalPromptForCheckoutAndSave took 103.776 ms (total: 24.0 sec)
+[2025.12.04-13.33.31:275][807]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.04-13.33.31:275][807]LogContentValidation: Enabled validators:
+[2025.12.04-13.33.31:275][807]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.04-13.33.31:275][807]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.04-13.33.31:275][807]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.04-13.33.31:275][807]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.04-13.33.31:275][807]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.04-13.33.31:275][807]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.04-13.33.31:275][807]AssetCheck: /Game/animalBPs/IF_animal Validating asset
+[2025.12.04-13.33.40:476][350]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.12.04-13.33.58:028][325]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.12.04-13.33.58:153][325]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.04-13.33.58:207][325]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/AIC_animal] ([2] browsable assets)...
+[2025.12.04-13.33.58:207][325]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/AIC_animal]
+[2025.12.04-13.33.58:223][325]LogSavePackage: Moving output files for package: /Game/animalBPs/AIC_animal
+[2025.12.04-13.33.58:223][325]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AIC_animal61512D1D420880F077FC41B19FE72712.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/AIC_animal.uasset'
+[2025.12.04-13.33.58:225][325]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/BTTask_animal_goToNextTarget] ([2] browsable assets)...
+[2025.12.04-13.33.58:225][325]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/BTTask_animal_goToNextTarget]
+[2025.12.04-13.33.58:238][325]LogSavePackage: Moving output files for package: /Game/animalBPs/BTTask_animal_goToNextTarget
+[2025.12.04-13.33.58:238][325]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/BTTask_animal_goToNextTarget7DE314DA47CB469C1E1F1CAB79D1833B.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/BTTask_animal_goToNextTarget.uasset'
+[2025.12.04-13.33.58:240][325]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/animalBPs/BP_animal_] ([2] browsable assets)...
+[2025.12.04-13.33.58:318][325]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/animalBPs/BP_animal_.BP_animal_]
+[2025.12.04-13.33.58:319][325]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/BP_animal_]
+[2025.12.04-13.33.58:338][325]LogSavePackage: Moving output files for package: /Game/animalBPs/BP_animal_
+[2025.12.04-13.33.58:340][325]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/BP_animal_A76467CA4C31679D858C11B4CD94AD61.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/BP_animal_.uasset'
+[2025.12.04-13.33.58:352][325]LogFileHelpers: InternalPromptForCheckoutAndSave took 199.399 ms (total: 24.2 sec)
+[2025.12.04-13.33.58:412][325]LogContentValidation: Display: Starting to validate 3 assets
+[2025.12.04-13.33.58:413][325]LogContentValidation: Enabled validators:
+[2025.12.04-13.33.58:413][325]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.04-13.33.58:413][325]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.04-13.33.58:413][325]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.04-13.33.58:413][325]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.04-13.33.58:413][325]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.04-13.33.58:413][325]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.04-13.33.58:413][325]AssetCheck: /Game/animalBPs/AIC_animal Validating asset
+[2025.12.04-13.33.58:413][325]AssetCheck: /Game/animalBPs/BTTask_animal_goToNextTarget Validating asset
+[2025.12.04-13.33.58:413][325]AssetCheck: /Game/animalBPs/BP_animal_ Validating asset
+[2025.12.04-13.35.05:769][362]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8581.785156
+[2025.12.04-13.35.05:936][372]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.04-13.35.05:936][373]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8581.934570, Update Interval: 334.822235
+[2025.12.04-13.36.21:120][852]LogEditorTransaction: Undo Rename Variable
+[2025.12.04-13.36.21:643][866]LogEditorTransaction: Undo Promote To Variable
+[2025.12.04-13.36.22:051][888]LogEditorTransaction: Undo Move Node
+[2025.12.04-13.36.23:719][984]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.12.04-13.36.29:824][348]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.12.04-13.36.29:955][348]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.04-13.36.30:019][348]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/IF_animal] ([2] browsable assets)...
+[2025.12.04-13.36.30:019][348]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/IF_animal]
+[2025.12.04-13.36.30:031][348]LogSavePackage: Moving output files for package: /Game/animalBPs/IF_animal
+[2025.12.04-13.36.30:032][348]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/IF_animal865B4B5A4B9E65F508A7679046E23EF9.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/IF_animal.uasset'
+[2025.12.04-13.36.30:044][348]LogFileHelpers: InternalPromptForCheckoutAndSave took 89.931 ms (total: 24.3 sec)
+[2025.12.04-13.36.30:115][348]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.04-13.36.30:115][348]LogContentValidation: Enabled validators:
+[2025.12.04-13.36.30:115][348]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.04-13.36.30:115][348]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.04-13.36.30:115][348]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.04-13.36.30:115][348]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.04-13.36.30:115][348]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.04-13.36.30:116][348]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.04-13.36.30:116][348]AssetCheck: /Game/animalBPs/IF_animal Validating asset
+[2025.12.04-13.37.12:111][837]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.12.04-13.37.12:270][837]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.04-13.37.12:341][837]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/BTTask_animal_goToNextTarget] ([2] browsable assets)...
+[2025.12.04-13.37.12:341][837]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/BTTask_animal_goToNextTarget]
+[2025.12.04-13.37.12:354][837]LogSavePackage: Moving output files for package: /Game/animalBPs/BTTask_animal_goToNextTarget
+[2025.12.04-13.37.12:354][837]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/BTTask_animal_goToNextTarget930DB3D843B642EF5D1E48A9F9492DB8.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/BTTask_animal_goToNextTarget.uasset'
+[2025.12.04-13.37.12:364][837]LogFileHelpers: InternalPromptForCheckoutAndSave took 94.711 ms (total: 24.4 sec)
+[2025.12.04-13.37.12:444][837]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.04-13.37.12:444][837]LogContentValidation: Enabled validators:
+[2025.12.04-13.37.12:444][837]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.04-13.37.12:444][837]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.04-13.37.12:444][837]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.04-13.37.12:444][837]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.04-13.37.12:444][837]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.04-13.37.12:444][837]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.04-13.37.12:444][837]AssetCheck: /Game/animalBPs/BTTask_animal_goToNextTarget Validating asset
+[2025.12.04-13.37.15:808][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.12.04-13.37.15:974][ 32]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.04-13.37.16:055][ 32]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/BTTask_animal_goToNextTarget] ([2] browsable assets)...
+[2025.12.04-13.37.16:055][ 32]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/BTTask_animal_goToNextTarget]
+[2025.12.04-13.37.16:068][ 32]LogSavePackage: Moving output files for package: /Game/animalBPs/BTTask_animal_goToNextTarget
+[2025.12.04-13.37.16:069][ 32]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/BTTask_animal_goToNextTarget57A1D382483D94A80577AFAF5B33DF4D.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/BTTask_animal_goToNextTarget.uasset'
+[2025.12.04-13.37.16:081][ 32]LogFileHelpers: InternalPromptForCheckoutAndSave took 106.614 ms (total: 24.5 sec)
+[2025.12.04-13.37.16:194][ 32]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.04-13.37.16:194][ 32]LogContentValidation: Enabled validators:
+[2025.12.04-13.37.16:194][ 32]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.04-13.37.16:194][ 32]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.04-13.37.16:194][ 32]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.04-13.37.16:194][ 32]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.04-13.37.16:194][ 32]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.04-13.37.16:194][ 32]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.04-13.37.16:194][ 32]AssetCheck: /Game/animalBPs/BTTask_animal_goToNextTarget Validating asset
+[2025.12.04-13.37.23:505][455]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.12.04-13.37.23:649][455]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.04-13.37.23:722][455]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/BTTask_animal_goToNextTarget] ([2] browsable assets)...
+[2025.12.04-13.37.23:723][455]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/BTTask_animal_goToNextTarget]
+[2025.12.04-13.37.23:737][455]LogSavePackage: Moving output files for package: /Game/animalBPs/BTTask_animal_goToNextTarget
+[2025.12.04-13.37.23:738][455]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/BTTask_animal_goToNextTarget9DAE0E6948A7778C5667E0B1AF1AFD17.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/BTTask_animal_goToNextTarget.uasset'
+[2025.12.04-13.37.23:749][455]LogFileHelpers: InternalPromptForCheckoutAndSave took 99.699 ms (total: 24.6 sec)
+[2025.12.04-13.37.23:811][455]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.04-13.37.23:811][455]LogContentValidation: Enabled validators:
+[2025.12.04-13.37.23:811][455]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.04-13.37.23:811][455]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.04-13.37.23:811][455]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.04-13.37.23:811][455]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.04-13.37.23:811][455]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.04-13.37.23:811][455]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.04-13.37.23:811][455]AssetCheck: /Game/animalBPs/BTTask_animal_goToNextTarget Validating asset
+[2025.12.04-13.37.25:113][529]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.12.04-13.37.32:209][951]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.12.04-13.37.32:356][951]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.04-13.37.32:436][951]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/AIC_animal] ([2] browsable assets)...
+[2025.12.04-13.37.32:436][951]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/AIC_animal]
+[2025.12.04-13.37.32:452][951]LogSavePackage: Moving output files for package: /Game/animalBPs/AIC_animal
+[2025.12.04-13.37.32:452][951]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AIC_animal5DD575B140E28E6BBDE791B1E520BFA2.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/AIC_animal.uasset'
+[2025.12.04-13.37.32:467][951]LogFileHelpers: InternalPromptForCheckoutAndSave took 109.756 ms (total: 24.7 sec)
+[2025.12.04-13.37.32:545][951]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.04-13.37.32:545][951]LogContentValidation: Enabled validators:
+[2025.12.04-13.37.32:545][951]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.04-13.37.32:545][951]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.04-13.37.32:545][951]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.04-13.37.32:545][951]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.04-13.37.32:545][951]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.04-13.37.32:545][951]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.04-13.37.32:545][951]AssetCheck: /Game/animalBPs/AIC_animal Validating asset
+[2025.12.04-13.38.57:335][956]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.12.04-13.38.57:463][956]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.04-13.38.57:525][956]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/AIC_animal] ([2] browsable assets)...
+[2025.12.04-13.38.57:525][956]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/AIC_animal]
+[2025.12.04-13.38.57:541][956]LogSavePackage: Moving output files for package: /Game/animalBPs/AIC_animal
+[2025.12.04-13.38.57:542][956]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AIC_animal87BD4C024BA3F63D6C9C8283D3E18574.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/AIC_animal.uasset'
+[2025.12.04-13.38.57:553][956]LogFileHelpers: InternalPromptForCheckoutAndSave took 90.032 ms (total: 24.8 sec)
+[2025.12.04-13.38.57:622][956]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.04-13.38.57:622][956]LogContentValidation: Enabled validators:
+[2025.12.04-13.38.57:622][956]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.04-13.38.57:622][956]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.04-13.38.57:622][956]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.04-13.38.57:622][956]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.04-13.38.57:622][956]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.04-13.38.57:622][956]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.04-13.38.57:622][956]AssetCheck: /Game/animalBPs/AIC_animal Validating asset
+[2025.12.04-13.39.30:804][934]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.12.04-13.39.30:912][934]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.04-13.39.30:988][934]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/AIC_animal] ([2] browsable assets)...
+[2025.12.04-13.39.30:988][934]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/AIC_animal]
+[2025.12.04-13.39.31:005][934]LogSavePackage: Moving output files for package: /Game/animalBPs/AIC_animal
+[2025.12.04-13.39.31:005][934]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AIC_animal08F2721143507BFC3E1E52863309FB30.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/AIC_animal.uasset'
+[2025.12.04-13.39.31:017][934]LogFileHelpers: InternalPromptForCheckoutAndSave took 105.149 ms (total: 24.9 sec)
+[2025.12.04-13.39.31:084][934]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.04-13.39.31:084][934]LogContentValidation: Enabled validators:
+[2025.12.04-13.39.31:084][934]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.04-13.39.31:084][934]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.04-13.39.31:084][934]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.04-13.39.31:084][934]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.04-13.39.31:084][934]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.04-13.39.31:084][934]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.04-13.39.31:084][934]AssetCheck: /Game/animalBPs/AIC_animal Validating asset
+[2025.12.04-13.39.37:122][285]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.04-13.39.37:192][285]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/AIC_animal] ([2] browsable assets)...
+[2025.12.04-13.39.37:192][285]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/AIC_animal]
+[2025.12.04-13.39.37:207][285]LogSavePackage: Moving output files for package: /Game/animalBPs/AIC_animal
+[2025.12.04-13.39.37:208][285]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AIC_animal44F007B240BD02503DBE51B989B301C8.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/AIC_animal.uasset'
+[2025.12.04-13.39.37:219][285]LogFileHelpers: InternalPromptForCheckoutAndSave took 98.267 ms (total: 25.0 sec)
+[2025.12.04-13.39.37:302][285]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.04-13.39.37:302][285]LogContentValidation: Enabled validators:
+[2025.12.04-13.39.37:302][285]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.04-13.39.37:302][285]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.04-13.39.37:302][285]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.04-13.39.37:302][285]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.04-13.39.37:302][285]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.04-13.39.37:302][285]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.04-13.39.37:302][285]AssetCheck: /Game/animalBPs/AIC_animal Validating asset
+[2025.12.04-13.39.40:810][494]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.12.04-13.39.40:938][494]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.04-13.39.41:005][494]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/AIC_animal] ([2] browsable assets)...
+[2025.12.04-13.39.41:005][494]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/AIC_animal]
+[2025.12.04-13.39.41:020][494]LogSavePackage: Moving output files for package: /Game/animalBPs/AIC_animal
+[2025.12.04-13.39.41:021][494]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AIC_animalE7F677574F3E37BB68B0A197CB0C403D.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/AIC_animal.uasset'
+[2025.12.04-13.39.41:033][494]LogFileHelpers: InternalPromptForCheckoutAndSave took 95.604 ms (total: 25.1 sec)
+[2025.12.04-13.39.41:104][494]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.04-13.39.41:104][494]LogContentValidation: Enabled validators:
+[2025.12.04-13.39.41:104][494]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.04-13.39.41:104][494]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.04-13.39.41:104][494]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.04-13.39.41:104][494]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.04-13.39.41:104][494]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.04-13.39.41:104][494]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.04-13.39.41:104][494]AssetCheck: /Game/animalBPs/AIC_animal Validating asset
+[2025.12.04-13.39.45:307][745]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2025.12.04-13.39.45:307][745]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.04-13.39.45:371][745]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.12.04-13.41.11:019][827]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.04-13.41.11:092][827]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/AIC_animal] ([2] browsable assets)...
+[2025.12.04-13.41.11:092][827]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/AIC_animal]
+[2025.12.04-13.41.11:109][827]LogSavePackage: Moving output files for package: /Game/animalBPs/AIC_animal
+[2025.12.04-13.41.11:110][827]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AIC_animal3CDDD8314F7D74C67D9B3D8219580605.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/AIC_animal.uasset'
+[2025.12.04-13.41.11:121][827]LogFileHelpers: InternalPromptForCheckoutAndSave took 101.725 ms (total: 25.2 sec)
+[2025.12.04-13.41.11:193][827]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.04-13.41.11:193][827]LogContentValidation: Enabled validators:
+[2025.12.04-13.41.11:193][827]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.04-13.41.11:193][827]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.04-13.41.11:193][827]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.04-13.41.11:193][827]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.04-13.41.11:193][827]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.04-13.41.11:193][827]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.04-13.41.11:193][827]AssetCheck: /Game/animalBPs/AIC_animal Validating asset
+[2025.12.04-13.41.18:635][273]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8954.241211
+[2025.12.04-13.41.18:802][283]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.04-13.41.18:802][283]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8954.390625, Update Interval: 358.943451
+[2025.12.04-13.41.41:231][627]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.12.04-13.41.41:353][627]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.04-13.41.41:423][627]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/AIC_animal] ([2] browsable assets)...
+[2025.12.04-13.41.41:423][627]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/AIC_animal]
+[2025.12.04-13.41.41:440][627]LogSavePackage: Moving output files for package: /Game/animalBPs/AIC_animal
+[2025.12.04-13.41.41:440][627]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AIC_animalF7C42A4F42836DB031872C8B2A16FE3C.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/AIC_animal.uasset'
+[2025.12.04-13.41.41:453][627]LogFileHelpers: InternalPromptForCheckoutAndSave took 99.605 ms (total: 25.3 sec)
+[2025.12.04-13.41.41:520][627]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.04-13.41.41:520][627]LogContentValidation: Enabled validators:
+[2025.12.04-13.41.41:520][627]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.04-13.41.41:520][627]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.04-13.41.41:520][627]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.04-13.41.41:520][627]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.04-13.41.41:520][627]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.04-13.41.41:520][627]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.04-13.41.41:520][627]AssetCheck: /Game/animalBPs/AIC_animal Validating asset
+[2025.12.04-13.42.49:261][612]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.12.04-13.42.49:396][612]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.04-13.42.49:461][612]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/AIC_animal] ([2] browsable assets)...
+[2025.12.04-13.42.49:461][612]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/AIC_animal]
+[2025.12.04-13.42.49:479][612]LogSavePackage: Moving output files for package: /Game/animalBPs/AIC_animal
+[2025.12.04-13.42.49:479][612]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AIC_animalBCB9CC434E1BC7BBDB3825B6F9C23BCC.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/AIC_animal.uasset'
+[2025.12.04-13.42.49:491][612]LogFileHelpers: InternalPromptForCheckoutAndSave took 95.377 ms (total: 25.4 sec)
+[2025.12.04-13.42.49:557][612]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.04-13.42.49:557][612]LogContentValidation: Enabled validators:
+[2025.12.04-13.42.49:557][612]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.04-13.42.49:557][612]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.04-13.42.49:557][612]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.04-13.42.49:557][612]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.04-13.42.49:557][612]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.04-13.42.49:557][612]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.04-13.42.49:557][612]AssetCheck: /Game/animalBPs/AIC_animal Validating asset
+[2025.12.04-13.43.15:345][138]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.12.04-13.43.15:473][138]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.04-13.43.15:553][138]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/AIC_animal] ([2] browsable assets)...
+[2025.12.04-13.43.15:553][138]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/AIC_animal]
+[2025.12.04-13.43.15:571][138]LogSavePackage: Moving output files for package: /Game/animalBPs/AIC_animal
+[2025.12.04-13.43.15:572][138]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AIC_animalEB9B10AD4ECD6F2C33EFD29429627192.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/AIC_animal.uasset'
+[2025.12.04-13.43.15:584][138]LogFileHelpers: InternalPromptForCheckoutAndSave took 112.176 ms (total: 25.5 sec)
+[2025.12.04-13.43.15:662][138]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.04-13.43.15:662][138]LogContentValidation: Enabled validators:
+[2025.12.04-13.43.15:662][138]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.04-13.43.15:662][138]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.04-13.43.15:662][138]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.04-13.43.15:662][138]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.04-13.43.15:662][138]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.04-13.43.15:662][138]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.04-13.43.15:662][138]AssetCheck: /Game/animalBPs/AIC_animal Validating asset
+[2025.12.04-13.43.44:792][812]LogContentBrowser: Deferred new asset file creation: AC_animal_abstract_Child
+[2025.12.04-13.43.44:802][812]LogContentBrowser: Creating deferred item: AC_animal_abstract_Child
+[2025.12.04-13.43.44:817][813]LogContentBrowser: Renaming the item being created (Deferred Item: AC_animal_abstract_Child).
+[2025.12.04-13.43.55:790][472]LogContentBrowser: Attempting asset rename: AC_animal_abstract_Child -> AC_flight
+[2025.12.04-13.43.55:918][472]LogContentBrowser: End creating deferred item AC_animal_abstract_Child
+[2025.12.04-13.43.56:818][517]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.04-13.43.56:889][517]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/animalUniqueBehaviour/AC_flight] ([2] browsable assets)...
+[2025.12.04-13.43.56:889][517]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/animalUniqueBehaviour/AC_flight]
+[2025.12.04-13.43.56:901][517]LogSavePackage: Moving output files for package: /Game/animalBPs/animalUniqueBehaviour/AC_flight
+[2025.12.04-13.43.56:901][517]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AC_flight9CB6AB394E1267460C31008DC7A0EDF3.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/animalUniqueBehaviour/AC_flight.uasset'
+[2025.12.04-13.43.57:071][517]LogFileHelpers: InternalPromptForCheckoutAndSave took 253.251 ms (total: 25.8 sec)
+[2025.12.04-13.43.57:143][517]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.04-13.43.57:143][517]LogContentValidation: Enabled validators:
+[2025.12.04-13.43.57:143][517]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.04-13.43.57:143][517]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.04-13.43.57:143][517]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.04-13.43.57:143][517]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.04-13.43.57:143][517]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.04-13.43.57:143][517]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.04-13.43.57:143][517]AssetCheck: /Game/animalBPs/animalUniqueBehaviour/AC_flight Validating asset
+[2025.12.04-13.44.03:393][881]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/animalBPs/animalUniqueBehaviour/AC_flight.AC_flight
+[2025.12.04-13.44.03:394][881]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_21
+[2025.12.04-13.44.05:259][961]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.12.04-13.44.12:174][371]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.12.04-13.44.12:326][371]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.04-13.44.12:390][371]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/animalUniqueBehaviour/AC_flight] ([2] browsable assets)...
+[2025.12.04-13.44.12:390][371]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/animalUniqueBehaviour/AC_flight]
+[2025.12.04-13.44.12:401][371]LogSavePackage: Moving output files for package: /Game/animalBPs/animalUniqueBehaviour/AC_flight
+[2025.12.04-13.44.12:401][371]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AC_flight5178FC54464B340FE3BA778D7ECA5E12.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/animalUniqueBehaviour/AC_flight.uasset'
+[2025.12.04-13.44.12:412][371]LogFileHelpers: InternalPromptForCheckoutAndSave took 86.910 ms (total: 25.9 sec)
+[2025.12.04-13.44.12:492][371]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.04-13.44.12:492][371]LogContentValidation: Enabled validators:
+[2025.12.04-13.44.12:492][371]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.04-13.44.12:492][371]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.04-13.44.12:492][371]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.04-13.44.12:492][371]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.04-13.44.12:492][371]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.04-13.44.12:492][371]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.04-13.44.12:492][371]AssetCheck: /Game/animalBPs/animalUniqueBehaviour/AC_flight Validating asset
+[2025.12.04-13.44.13:820][447]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.12.04-13.44.14:452][477]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.04-13.44.14:532][477]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animalBPs/animalUniqueBehaviour/AC_flight] ([2] browsable assets)...
+[2025.12.04-13.44.14:532][477]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/animalUniqueBehaviour/AC_flight]
+[2025.12.04-13.44.14:542][477]LogSavePackage: Moving output files for package: /Game/animalBPs/animalUniqueBehaviour/AC_flight
+[2025.12.04-13.44.14:543][477]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/AC_flight3B69E1C54155ED74545A40A209DD3028.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/animalUniqueBehaviour/AC_flight.uasset'
+[2025.12.04-13.44.14:558][477]LogFileHelpers: InternalPromptForCheckoutAndSave took 106.019 ms (total: 26.0 sec)
+[2025.12.04-13.44.14:620][477]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.04-13.44.14:620][477]LogContentValidation: Enabled validators:
+[2025.12.04-13.44.14:620][477]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.04-13.44.14:620][477]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.04-13.44.14:620][477]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.04-13.44.14:620][477]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.04-13.44.14:620][477]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.04-13.44.14:620][477]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.04-13.44.14:620][477]AssetCheck: /Game/animalBPs/animalUniqueBehaviour/AC_flight Validating asset
