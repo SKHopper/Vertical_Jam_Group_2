@@ -5427,3 +5427,305 @@ Sampler Limit: 32
 [2025.12.04-18.20.18:324][923]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2025.12.04-18.20.18:328][923]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
 [2025.12.04-18.20.18:364][924]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2025.12.04-18.21.01:865][382]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.12.04-18.21.24:007][684]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6596.126465
+[2025.12.04-18.21.24:157][693]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.04-18.21.24:158][693]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6596.259766, Update Interval: 301.424591
+[2025.12.04-18.21.24:738][724]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.12.04-18.21.35:730][366]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.12.04-18.21.36:639][415]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.12.04-18.21.37:611][415]LogSlate: Window 'Save Content' being destroyed
+[2025.12.04-18.21.37:620][415]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.04-18.21.37:655][415]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/pollen_collect/BP_AuraManager_Component] ([2] browsable assets)...
+[2025.12.04-18.21.37:656][415]OBJ SavePackage: Finished generating thumbnails for package [/Game/pollen_collect/BP_AuraManager_Component]
+[2025.12.04-18.21.37:662][415]LogSavePackage: Moving output files for package: /Game/pollen_collect/BP_AuraManager_Component
+[2025.12.04-18.21.37:662][415]LogSavePackage: Moving '../../../../../../Github/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/BP_AuraManager_Component2489347342F9D1C9E5782DB304B85B16.tmp' to '../../../../../../Github/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/pollen_collect/BP_AuraManager_Component.uasset'
+[2025.12.04-18.21.37:673][415]LogFileHelpers: InternalPromptForCheckoutAndSave took 52.049 ms (total: 3.71 sec)
+[2025.12.04-18.21.37:713][415]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.04-18.21.37:713][415]LogContentValidation: Enabled validators:
+[2025.12.04-18.21.37:713][415]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.04-18.21.37:713][415]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.04-18.21.37:713][415]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.04-18.21.37:713][415]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.04-18.21.37:713][415]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.04-18.21.37:713][415]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.04-18.21.37:713][415]AssetCheck: /Game/pollen_collect/BP_AuraManager_Component Validating asset
+[2025.12.04-18.21.47:796][  8]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.12.04-18.21.50:270][152]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.04-18.21.50:278][152]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.04-18.21.50:278][152]LogPlayLevel: Display: Creating online subsystem for client :Context_64
+[2025.12.04-18.21.50:282][152]LogOnline: OSS: Created online subsystem instance for: :Context_64
+[2025.12.04-18.21.50:299][153]LogPlayLevel: Creating play world package: /Game/pollen_collect/UEDPIE_0_Lvl_PollenTest
+[2025.12.04-18.21.50:302][153]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002902s)
+[2025.12.04-18.21.50:302][153]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/pollen_collect/Lvl_PollenTest.Lvl_PollenTest to /Game/pollen_collect/UEDPIE_0_Lvl_PollenTest.Lvl_PollenTest (0.002962s)
+[2025.12.04-18.21.50:328][153]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.12.04-18.21.50:332][153]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_PollenTest
+[2025.12.04-18.21.50:334][153]LogPlayLevel: PIE: World Init took: (0.001798s)
+[2025.12.04-18.21.50:335][153]LogAudio: Display: Creating Audio Device:                 Id: 36, Scope: Unique, Realtime: True
+[2025.12.04-18.21.50:335][153]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.04-18.21.50:335][153]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.04-18.21.50:335][153]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.04-18.21.50:335][153]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.04-18.21.50:335][153]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.04-18.21.50:335][153]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.04-18.21.50:335][153]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.04-18.21.50:335][153]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.04-18.21.50:335][153]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.04-18.21.50:335][153]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.04-18.21.50:335][153]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.04-18.21.50:337][153]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.04-18.21.50:371][153]LogAudioMixer: Display: Using Audio Hardware Device Headphones (HyperX Cloud III)
+[2025.12.04-18.21.50:371][153]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.04-18.21.50:371][153]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.04-18.21.50:371][153]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.04-18.21.50:372][153]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=36
+[2025.12.04-18.21.50:372][153]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=36
+[2025.12.04-18.21.50:375][153]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=36
+[2025.12.04-18.21.50:375][153]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=36
+[2025.12.04-18.21.50:375][153]LogInit: FAudioDevice initialized with ID 36.
+[2025.12.04-18.21.50:375][153]LogAudio: Display: Audio Device (ID: 36) registered with world 'Lvl_PollenTest'.
+[2025.12.04-18.21.50:375][153]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 36
+[2025.12.04-18.21.50:379][153]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2025.12.04-18.21.50:380][153]LogWorld: Bringing World /Game/pollen_collect/UEDPIE_0_Lvl_PollenTest.Lvl_PollenTest up for play (max tick rate 60) at 2025.12.04-18.21.50
+[2025.12.04-18.21.50:380][153]LogWorld: Bringing up level for play took: 0.000912
+[2025.12.04-18.21.50:411][153]PIE: Server logged in
+[2025.12.04-18.21.50:413][153]PIE: Play in editor total start time 0.135 seconds.
+[2025.12.04-18.21.50:462][154]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.12.04-18.22.09:130][269]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.04-18.22.09:130][269]LogWorld: BeginTearingDown for /Game/pollen_collect/UEDPIE_0_Lvl_PollenTest
+[2025.12.04-18.22.09:130][269]LogWorld: UWorld::CleanupWorld for Lvl_PollenTest, bSessionEnded=true, bCleanupResources=true
+[2025.12.04-18.22.09:131][269]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.04-18.22.09:132][269]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.04-18.22.09:138][269]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.04-18.22.09:164][269]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.04-18.22.09:165][269]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 36
+[2025.12.04-18.22.09:165][269]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36, StreamState=4
+[2025.12.04-18.22.09:167][269]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36, StreamState=2
+[2025.12.04-18.22.09:171][269]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.04-18.22.09:174][269]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.12.04-18.22.09:202][270]LogPlayLevel: Display: Destroying online subsystem :Context_64
+[2025.12.04-18.22.11:421][340]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.12.04-18.22.30:888][420]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2025.12.04-18.22.34:902][644]LogEditorTransaction: Undo Edit Z
+[2025.12.04-18.22.38:444][830]LogEditorTransaction: Undo Edit Y
+[2025.12.04-18.22.38:905][841]LogEditorTransaction: Undo Edit X
+[2025.12.04-18.22.44:512][156]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.12.04-18.23.32:406][907]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.12.04-18.23.59:991][514]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.12.04-18.24.27:880][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.12.04-18.24.30:222][222]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.04-18.24.30:228][222]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.04-18.24.30:229][222]LogPlayLevel: Display: Creating online subsystem for client :Context_65
+[2025.12.04-18.24.30:231][222]LogOnline: OSS: Created online subsystem instance for: :Context_65
+[2025.12.04-18.24.30:247][223]LogPlayLevel: Creating play world package: /Game/pollen_collect/UEDPIE_0_Lvl_PollenTest
+[2025.12.04-18.24.30:249][223]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002116s)
+[2025.12.04-18.24.30:249][223]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/pollen_collect/Lvl_PollenTest.Lvl_PollenTest to /Game/pollen_collect/UEDPIE_0_Lvl_PollenTest.Lvl_PollenTest (0.002189s)
+[2025.12.04-18.24.30:278][223]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2025.12.04-18.24.30:284][223]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_PollenTest
+[2025.12.04-18.24.30:286][223]LogPlayLevel: PIE: World Init took: (0.001975s)
+[2025.12.04-18.24.30:286][223]LogAudio: Display: Creating Audio Device:                 Id: 37, Scope: Unique, Realtime: True
+[2025.12.04-18.24.30:286][223]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.04-18.24.30:286][223]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.04-18.24.30:286][223]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.04-18.24.30:287][223]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.04-18.24.30:287][223]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.04-18.24.30:287][223]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.04-18.24.30:287][223]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.04-18.24.30:287][223]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.04-18.24.30:287][223]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.04-18.24.30:287][223]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.04-18.24.30:287][223]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.04-18.24.30:288][223]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.04-18.24.30:319][223]LogAudioMixer: Display: Using Audio Hardware Device Headphones (HyperX Cloud III)
+[2025.12.04-18.24.30:319][223]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.04-18.24.30:319][223]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.04-18.24.30:319][223]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.04-18.24.30:321][223]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=37
+[2025.12.04-18.24.30:321][223]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=37
+[2025.12.04-18.24.30:323][223]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=37
+[2025.12.04-18.24.30:323][223]LogInit: FAudioDevice initialized with ID 37.
+[2025.12.04-18.24.30:323][223]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=37
+[2025.12.04-18.24.30:323][223]LogAudio: Display: Audio Device (ID: 37) registered with world 'Lvl_PollenTest'.
+[2025.12.04-18.24.30:323][223]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 37
+[2025.12.04-18.24.30:327][223]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2025.12.04-18.24.30:327][223]LogWorld: Bringing World /Game/pollen_collect/UEDPIE_0_Lvl_PollenTest.Lvl_PollenTest up for play (max tick rate 60) at 2025.12.04-18.24.30
+[2025.12.04-18.24.30:329][223]LogWorld: Bringing up level for play took: 0.000890
+[2025.12.04-18.24.30:360][223]PIE: Server logged in
+[2025.12.04-18.24.30:362][223]PIE: Play in editor total start time 0.134 seconds.
+[2025.12.04-18.24.30:412][224]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.12.04-18.24.44:023][ 37]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.04-18.24.44:023][ 37]LogWorld: BeginTearingDown for /Game/pollen_collect/UEDPIE_0_Lvl_PollenTest
+[2025.12.04-18.24.44:023][ 37]LogWorld: UWorld::CleanupWorld for Lvl_PollenTest, bSessionEnded=true, bCleanupResources=true
+[2025.12.04-18.24.44:023][ 37]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.04-18.24.44:025][ 37]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.04-18.24.44:030][ 37]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.04-18.24.44:055][ 37]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.04-18.24.44:057][ 37]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 37
+[2025.12.04-18.24.44:057][ 37]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37, StreamState=4
+[2025.12.04-18.24.44:059][ 37]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37, StreamState=2
+[2025.12.04-18.24.44:063][ 37]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.04-18.24.44:067][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.12.04-18.24.44:106][ 38]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2025.12.04-18.25.03:690][122]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.12.04-18.25.08:034][353]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.12.04-18.25.17:937][920]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.04-18.25.17:943][920]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.04-18.25.17:943][920]LogPlayLevel: Display: Creating online subsystem for client :Context_66
+[2025.12.04-18.25.17:946][920]LogOnline: OSS: Created online subsystem instance for: :Context_66
+[2025.12.04-18.25.17:963][921]LogPlayLevel: Creating play world package: /Game/pollen_collect/UEDPIE_0_Lvl_PollenTest
+[2025.12.04-18.25.17:965][921]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001961s)
+[2025.12.04-18.25.17:965][921]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/pollen_collect/Lvl_PollenTest.Lvl_PollenTest to /Game/pollen_collect/UEDPIE_0_Lvl_PollenTest.Lvl_PollenTest (0.002007s)
+[2025.12.04-18.25.17:994][921]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.12.04-18.25.18:001][921]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_PollenTest
+[2025.12.04-18.25.18:003][921]LogPlayLevel: PIE: World Init took: (0.001816s)
+[2025.12.04-18.25.18:004][921]LogAudio: Display: Creating Audio Device:                 Id: 38, Scope: Unique, Realtime: True
+[2025.12.04-18.25.18:004][921]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.04-18.25.18:004][921]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.04-18.25.18:004][921]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.04-18.25.18:004][921]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.04-18.25.18:004][921]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.04-18.25.18:004][921]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.04-18.25.18:004][921]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.04-18.25.18:004][921]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.04-18.25.18:004][921]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.04-18.25.18:004][921]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.04-18.25.18:004][921]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.04-18.25.18:006][921]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.04-18.25.18:037][921]LogAudioMixer: Display: Using Audio Hardware Device Headphones (HyperX Cloud III)
+[2025.12.04-18.25.18:037][921]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.04-18.25.18:037][921]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.04-18.25.18:037][921]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.04-18.25.18:037][921]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=38
+[2025.12.04-18.25.18:037][921]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=38
+[2025.12.04-18.25.18:039][921]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=38
+[2025.12.04-18.25.18:039][921]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=38
+[2025.12.04-18.25.18:039][921]LogInit: FAudioDevice initialized with ID 38.
+[2025.12.04-18.25.18:039][921]LogAudio: Display: Audio Device (ID: 38) registered with world 'Lvl_PollenTest'.
+[2025.12.04-18.25.18:039][921]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 38
+[2025.12.04-18.25.18:044][921]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2025.12.04-18.25.18:045][921]LogWorld: Bringing World /Game/pollen_collect/UEDPIE_0_Lvl_PollenTest.Lvl_PollenTest up for play (max tick rate 60) at 2025.12.04-18.25.18
+[2025.12.04-18.25.18:045][921]LogWorld: Bringing up level for play took: 0.000867
+[2025.12.04-18.25.18:077][921]PIE: Server logged in
+[2025.12.04-18.25.18:079][921]PIE: Play in editor total start time 0.136 seconds.
+[2025.12.04-18.25.18:127][922]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.12.04-18.25.41:599][325]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.04-18.25.41:599][325]LogWorld: BeginTearingDown for /Game/pollen_collect/UEDPIE_0_Lvl_PollenTest
+[2025.12.04-18.25.41:600][325]LogWorld: UWorld::CleanupWorld for Lvl_PollenTest, bSessionEnded=true, bCleanupResources=true
+[2025.12.04-18.25.41:600][325]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.04-18.25.41:601][325]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.04-18.25.41:607][325]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.04-18.25.41:631][325]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.04-18.25.41:632][325]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 38
+[2025.12.04-18.25.41:632][325]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38, StreamState=4
+[2025.12.04-18.25.41:634][325]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38, StreamState=2
+[2025.12.04-18.25.41:638][325]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.04-18.25.41:642][325]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2025.12.04-18.25.41:676][326]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2025.12.04-18.25.43:852][407]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.12.04-18.25.46:642][548]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.12.04-18.26.16:842][163]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.12.04-18.26.20:422][368]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.12.04-18.26.21:276][368]LogSlate: Window 'Save Content' being destroyed
+[2025.12.04-18.26.21:285][368]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.04-18.26.21:318][368]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/pollen_collect/BP_AuraManager_Component] ([2] browsable assets)...
+[2025.12.04-18.26.21:318][368]OBJ SavePackage: Finished generating thumbnails for package [/Game/pollen_collect/BP_AuraManager_Component]
+[2025.12.04-18.26.21:324][368]LogSavePackage: Moving output files for package: /Game/pollen_collect/BP_AuraManager_Component
+[2025.12.04-18.26.21:324][368]LogSavePackage: Moving '../../../../../../Github/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/BP_AuraManager_ComponentD58EC91F410C139DC0A32DB7C7B52325.tmp' to '../../../../../../Github/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/pollen_collect/BP_AuraManager_Component.uasset'
+[2025.12.04-18.26.21:325][368]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/pollen_collect/Pollen/BP_PollenAura] ([2] browsable assets)...
+[2025.12.04-18.26.21:325][368]OBJ SavePackage: Finished generating thumbnails for package [/Game/pollen_collect/Pollen/BP_PollenAura]
+[2025.12.04-18.26.21:357][368]LogSavePackage: Moving output files for package: /Game/pollen_collect/Pollen/BP_PollenAura
+[2025.12.04-18.26.21:357][368]LogSavePackage: Moving '../../../../../../Github/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/BP_PollenAura843632034F499AF8C5CF12A00F98FCEE.tmp' to '../../../../../../Github/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/pollen_collect/Pollen/BP_PollenAura.uasset'
+[2025.12.04-18.26.21:365][368]LogFileHelpers: InternalPromptForCheckoutAndSave took 80.335 ms (total: 3.79 sec)
+[2025.12.04-18.26.21:394][368]LogContentValidation: Display: Starting to validate 2 assets
+[2025.12.04-18.26.21:394][368]LogContentValidation: Enabled validators:
+[2025.12.04-18.26.21:394][368]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.04-18.26.21:394][368]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.04-18.26.21:394][368]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.04-18.26.21:394][368]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.04-18.26.21:394][368]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.04-18.26.21:394][368]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.04-18.26.21:394][368]AssetCheck: /Game/pollen_collect/BP_AuraManager_Component Validating asset
+[2025.12.04-18.26.21:394][368]AssetCheck: /Game/pollen_collect/Pollen/BP_PollenAura Validating asset
+[2025.12.04-18.26.26:216][649]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.12.04-18.26.38:970][399]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.12.04-18.26.46:076][812]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.04-18.26.46:083][812]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.04-18.26.46:083][812]LogPlayLevel: Display: Creating online subsystem for client :Context_67
+[2025.12.04-18.26.46:086][812]LogOnline: OSS: Created online subsystem instance for: :Context_67
+[2025.12.04-18.26.46:103][813]LogPlayLevel: Creating play world package: /Game/pollen_collect/UEDPIE_0_Lvl_PollenTest
+[2025.12.04-18.26.46:105][813]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002565s)
+[2025.12.04-18.26.46:105][813]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/pollen_collect/Lvl_PollenTest.Lvl_PollenTest to /Game/pollen_collect/UEDPIE_0_Lvl_PollenTest.Lvl_PollenTest (0.002615s)
+[2025.12.04-18.26.46:134][813]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.12.04-18.26.46:138][813]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_PollenTest
+[2025.12.04-18.26.46:139][813]LogPlayLevel: PIE: World Init took: (0.001743s)
+[2025.12.04-18.26.46:140][813]LogAudio: Display: Creating Audio Device:                 Id: 39, Scope: Unique, Realtime: True
+[2025.12.04-18.26.46:140][813]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.04-18.26.46:140][813]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.04-18.26.46:140][813]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.04-18.26.46:140][813]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.04-18.26.46:140][813]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.04-18.26.46:140][813]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.04-18.26.46:140][813]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.04-18.26.46:140][813]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.04-18.26.46:140][813]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.04-18.26.46:140][813]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.04-18.26.46:142][813]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.04-18.26.46:143][813]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.04-18.26.46:178][813]LogAudioMixer: Display: Using Audio Hardware Device Headphones (HyperX Cloud III)
+[2025.12.04-18.26.46:178][813]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.04-18.26.46:178][813]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.04-18.26.46:178][813]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.04-18.26.46:178][813]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=39
+[2025.12.04-18.26.46:178][813]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=39
+[2025.12.04-18.26.46:182][813]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=39
+[2025.12.04-18.26.46:182][813]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=39
+[2025.12.04-18.26.46:182][813]LogInit: FAudioDevice initialized with ID 39.
+[2025.12.04-18.26.46:182][813]LogAudio: Display: Audio Device (ID: 39) registered with world 'Lvl_PollenTest'.
+[2025.12.04-18.26.46:182][813]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 39
+[2025.12.04-18.26.46:185][813]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2025.12.04-18.26.46:186][813]LogWorld: Bringing World /Game/pollen_collect/UEDPIE_0_Lvl_PollenTest.Lvl_PollenTest up for play (max tick rate 60) at 2025.12.04-18.26.46
+[2025.12.04-18.26.46:186][813]LogWorld: Bringing up level for play took: 0.000902
+[2025.12.04-18.26.46:219][813]PIE: Server logged in
+[2025.12.04-18.26.46:221][813]PIE: Play in editor total start time 0.139 seconds.
+[2025.12.04-18.26.46:272][814]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.12.04-18.27.20:807][883]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6952.906738
+[2025.12.04-18.27.20:957][892]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.04-18.27.20:957][892]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6953.041992, Update Interval: 329.682312
+[2025.12.04-18.28.18:312][330]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.04-18.28.18:312][330]LogWorld: BeginTearingDown for /Game/pollen_collect/UEDPIE_0_Lvl_PollenTest
+[2025.12.04-18.28.18:312][330]LogWorld: UWorld::CleanupWorld for Lvl_PollenTest, bSessionEnded=true, bCleanupResources=true
+[2025.12.04-18.28.18:312][330]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.04-18.28.18:315][330]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.04-18.28.18:321][330]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.04-18.28.18:349][330]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.04-18.28.18:350][330]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 39
+[2025.12.04-18.28.18:350][330]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39, StreamState=4
+[2025.12.04-18.28.18:352][330]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39, StreamState=2
+[2025.12.04-18.28.18:357][330]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.04-18.28.18:362][330]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2025.12.04-18.28.18:399][331]LogPlayLevel: Display: Destroying online subsystem :Context_67
+[2025.12.04-18.28.20:867][473]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.12.04-18.28.21:615][473]LogSlate: Window 'Save Content' being destroyed
+[2025.12.04-18.28.21:638][473]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.04-18.28.21:673][473]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/pollen_collect/Pollen/BP_PollenAura] ([2] browsable assets)...
+[2025.12.04-18.28.21:673][473]OBJ SavePackage: Finished generating thumbnails for package [/Game/pollen_collect/Pollen/BP_PollenAura]
+[2025.12.04-18.28.21:705][473]LogSavePackage: Moving output files for package: /Game/pollen_collect/Pollen/BP_PollenAura
+[2025.12.04-18.28.21:705][473]LogSavePackage: Moving '../../../../../../Github/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/BP_PollenAura1C6AFFAA4920627EEF19ABB3239136DD.tmp' to '../../../../../../Github/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/pollen_collect/Pollen/BP_PollenAura.uasset'
+[2025.12.04-18.28.21:715][473]LogFileHelpers: InternalPromptForCheckoutAndSave took 77.220 ms (total: 3.86 sec)
+[2025.12.04-18.28.21:755][473]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.04-18.28.21:755][473]LogContentValidation: Enabled validators:
+[2025.12.04-18.28.21:755][473]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.04-18.28.21:755][473]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.04-18.28.21:755][473]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.04-18.28.21:755][473]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.04-18.28.21:755][473]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.04-18.28.21:755][473]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.04-18.28.21:755][473]AssetCheck: /Game/pollen_collect/Pollen/BP_PollenAura Validating asset
