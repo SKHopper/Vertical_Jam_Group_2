@@ -1572,3 +1572,8 @@ LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
 [2025.12.08-22.06.33:902][  1]LogD3D12RHI: Compiled PathTracingMainRG for RTPSO in 181050.89 ms.
 [2025.12.08-22.07.26:276][  1]LogD3D12RHI: Compiled PathTracingMainRG for RTPSO in 236785.61 ms.
 [2025.12.08-22.08.10:466][  1]LogEditorDataStorage: Deinitializing
+[2025.12.08-22.08.30:658][  1]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.12.08-22.08.31:498][  1]LogExit: Editor shut down
+[2025.12.08-22.08.31:546][  1]LogExit: Transaction tracking system shut down
+[2025.12.08-22.08.32:941][  1]LogExit: Object subsystem successfully closed.
+[2025.12.08-22.08.33:083][  1]LogShaderCompilers: Display: Shaders left to compile 0
