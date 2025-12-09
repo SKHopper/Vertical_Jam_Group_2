@@ -2874,3 +2874,935 @@ Otherwise assets can be missing from cooked builds. Continue with rename?
 [2025.12.09-12.54.57:475][400]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3280.662598
 [2025.12.09-12.54.58:458][403]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.12.09-12.54.58:458][403]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3281.321777, Update Interval: 331.700195
+[2025.12.09-12.55.25:244][710]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2025.12.09-12.55.25:262][710]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2025.12.09-12.55.25:276][710]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2025.12.09-12.55.25:314][712]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2025.12.09-12.55.36:033][356]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> UW_win
+[2025.12.09-12.55.36:040][356]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2025.12.09-12.55.36:548][383]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.12.09-12.55.36:553][383]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.09-12.55.36:616][383]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/winDeathScreen/win/UW_win] ([2] browsable assets)...
+[2025.12.09-12.55.36:620][383]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/winDeathScreen/win/UW_win.UW_win]
+[2025.12.09-12.55.36:620][383]OBJ SavePackage: Finished generating thumbnails for package [/Game/winDeathScreen/win/UW_win]
+[2025.12.09-12.55.36:631][383]LogSavePackage: Moving output files for package: /Game/winDeathScreen/win/UW_win
+[2025.12.09-12.55.36:631][383]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/UW_winEED04FBD4E3FD89752E0EEB365118E68.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/winDeathScreen/win/UW_win.uasset'
+[2025.12.09-12.55.36:645][383]LogFileHelpers: InternalPromptForCheckoutAndSave took 92.529 ms (total: 18.1 sec)
+[2025.12.09-12.55.36:710][383]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.09-12.55.36:711][383]LogContentValidation: Enabled validators:
+[2025.12.09-12.55.36:711][383]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.09-12.55.36:711][383]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.09-12.55.36:711][383]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.09-12.55.36:711][383]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.09-12.55.36:711][383]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.09-12.55.36:711][383]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.09-12.55.36:711][383]AssetCheck: /Game/winDeathScreen/win/UW_win Validating asset
+[2025.12.09-12.55.36:734][383]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.09-12.55.38:160][465]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/winDeathScreen/win/UW_win.UW_win
+[2025.12.09-12.55.38:160][465]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_41
+[2025.12.09-12.55.38:178][465]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_42
+[2025.12.09-12.56.27:206][277]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2025.12.09-12.56.27:207][277]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.09-12.56.27:215][277]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2025.12.09-12.56.27:215][277]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.09-12.56.27:330][277]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2025.12.09-12.56.31:348][512]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.12.09-12.56.33:200][512]LogSlate: Window 'Delete Assets' being destroyed
+[2025.12.09-12.56.33:266][512]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.12.09-12.56.33:298][512]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.12.09-12.56.33:327][512]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.12.09-12.56.43:176][971]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2025.12.09-12.56.43:191][971]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2025.12.09-12.56.43:199][971]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2025.12.09-12.56.43:224][973]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2025.12.09-12.56.46:551][173]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> UW_win
+[2025.12.09-12.56.46:556][173]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2025.12.09-12.56.46:948][193]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2025.12.09-12.56.46:955][193]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.09-12.56.47:028][193]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/winDeathScreen/win/UW_win] ([2] browsable assets)...
+[2025.12.09-12.56.47:032][193]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/winDeathScreen/win/UW_win.UW_win]
+[2025.12.09-12.56.47:032][193]OBJ SavePackage: Finished generating thumbnails for package [/Game/winDeathScreen/win/UW_win]
+[2025.12.09-12.56.47:042][193]LogSavePackage: Moving output files for package: /Game/winDeathScreen/win/UW_win
+[2025.12.09-12.56.47:042][193]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/UW_win55AE8E3247151E777AAC208C868C0C8E.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/winDeathScreen/win/UW_win.uasset'
+[2025.12.09-12.56.47:056][193]LogFileHelpers: InternalPromptForCheckoutAndSave took 101.611 ms (total: 18.2 sec)
+[2025.12.09-12.56.47:119][193]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.09-12.56.47:119][193]LogContentValidation: Enabled validators:
+[2025.12.09-12.56.47:119][193]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.09-12.56.47:119][193]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.09-12.56.47:119][193]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.09-12.56.47:119][193]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.09-12.56.47:119][193]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.09-12.56.47:119][193]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.09-12.56.47:119][193]AssetCheck: /Game/winDeathScreen/win/UW_win Validating asset
+[2025.12.09-12.56.47:903][240]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/winDeathScreen/win/UW_win.UW_win
+[2025.12.09-12.56.47:903][240]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_44
+[2025.12.09-12.56.47:916][240]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_45
+[2025.12.09-12.57.04:456][795]LogStreaming: Display: FlushAsyncLoading(527): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.09-12.57.04:463][795]LogInterchangeEngine: [Pending] Importing
+[2025.12.09-12.57.04:464][795]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/Asset Files/UI/deathOrWin/20251209_031303945_iOS.png]
+[2025.12.09-12.57.04:465][795]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.12.09-12.57.04:465][795]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/Asset Files/UI/deathOrWin/Win_UI.jpg]
+[2025.12.09-12.57.05:161][797]LogStreaming: Display: FlushAsyncLoading(529): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.09-12.57.05:161][797]LogInterchangeImport: JPEG file [C:/Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/Asset Files/UI/deathOrWin/Win_UI.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2025.12.09-12.57.05:174][798]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.12.09-12.57.05:472][798]LogTexture: Display: Building textures: /Game/winDeathScreen/win/20251209_031303945_iOS.20251209_031303945_iOS (BGRA8, 1398x640 x1x1x1) (Required Memory Estimate: 31.717773 MB), EncodeSpeed: Fast
+[2025.12.09-12.57.05:499][799]LogTexture: Display: Building textures: /Game/winDeathScreen/win/Win_UI.Win_UI (TFO_AutoDXT, 1920x1080 x1x1x1) (Required Memory Estimate: 157.943359 MB), EncodeSpeed: Fast
+[2025.12.09-12.57.05:822][799]LogInterchangeEngine: Display: Interchange import completed [C:/Users/skojo/OneDr... Files/UI/deathOrWin/20251209_031303945_iOS.png]
+[2025.12.09-12.57.05:822][799]LogInterchangeEngine: [Pending] Importing -  (1)
+[2025.12.09-12.57.05:823][799]LogInterchangeEngine: Display: Interchange import completed [C:/Users/skojo/OneDr... Files/UI/deathOrWin/Win_UI.jpg]
+[2025.12.09-12.57.05:834][799]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.12.09-12.57.05:834][799]LogInterchangeEngine: [Success] Import Done
+[2025.12.09-12.57.27:122][349]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.12.09-12.57.27:126][349]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.09-12.57.27:216][349]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/winDeathScreen/win/UW_win] ([2] browsable assets)...
+[2025.12.09-12.57.27:220][349]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/winDeathScreen/win/UW_win.UW_win]
+[2025.12.09-12.57.27:220][349]OBJ SavePackage: Finished generating thumbnails for package [/Game/winDeathScreen/win/UW_win]
+[2025.12.09-12.57.27:232][349]LogSavePackage: Moving output files for package: /Game/winDeathScreen/win/UW_win
+[2025.12.09-12.57.27:232][349]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/UW_win6FE3037347098B0498690EA1FF9C43D2.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/winDeathScreen/win/UW_win.uasset'
+[2025.12.09-12.57.27:234][349]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/winDeathScreen/win/20251209_031303945_iOS] ([1] browsable assets)...
+[2025.12.09-12.57.27:236][349]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/winDeathScreen/win/20251209_031303945_iOS.20251209_031303945_iOS]
+[2025.12.09-12.57.27:236][349]OBJ SavePackage: Finished generating thumbnails for package [/Game/winDeathScreen/win/20251209_031303945_iOS]
+[2025.12.09-12.57.27:257][349]LogSavePackage: Moving output files for package: /Game/winDeathScreen/win/20251209_031303945_iOS
+[2025.12.09-12.57.27:257][349]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/20251209_031303945_iOSB4FFE6F0420ED7117FBB268EFCA797AF.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/winDeathScreen/win/20251209_031303945_iOS.uasset'
+[2025.12.09-12.57.27:261][349]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/winDeathScreen/win/Win_UI] ([1] browsable assets)...
+[2025.12.09-12.57.27:264][349]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/winDeathScreen/win/Win_UI.Win_UI]
+[2025.12.09-12.57.27:264][349]OBJ SavePackage: Finished generating thumbnails for package [/Game/winDeathScreen/win/Win_UI]
+[2025.12.09-12.57.27:274][349]LogSavePackage: Moving output files for package: /Game/winDeathScreen/win/Win_UI
+[2025.12.09-12.57.27:274][349]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/Win_UI7B1ADE7441DD19DCE93C65BB2B75BFCE.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/winDeathScreen/win/Win_UI.uasset'
+[2025.12.09-12.57.27:288][349]LogFileHelpers: InternalPromptForCheckoutAndSave took 160.246 ms (total: 18.3 sec)
+[2025.12.09-12.57.27:357][349]LogContentValidation: Display: Starting to validate 3 assets
+[2025.12.09-12.57.27:357][349]LogContentValidation: Enabled validators:
+[2025.12.09-12.57.27:357][349]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.09-12.57.27:357][349]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.09-12.57.27:357][349]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.09-12.57.27:357][349]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.09-12.57.27:357][349]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.09-12.57.27:357][349]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.09-12.57.27:358][349]AssetCheck: /Game/winDeathScreen/win/UW_win Validating asset
+[2025.12.09-12.57.27:358][349]AssetCheck: /Game/winDeathScreen/win/20251209_031303945_iOS Validating asset
+[2025.12.09-12.57.27:358][349]AssetCheck: /Game/winDeathScreen/win/Win_UI Validating asset
+[2025.12.09-12.57.27:379][349]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.09-12.57.32:460][642]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.12.09-12.57.32:464][642]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.09-12.57.32:556][642]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/winDeathScreen/win/UW_win] ([2] browsable assets)...
+[2025.12.09-12.57.32:561][642]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/winDeathScreen/win/UW_win.UW_win]
+[2025.12.09-12.57.32:561][642]OBJ SavePackage: Finished generating thumbnails for package [/Game/winDeathScreen/win/UW_win]
+[2025.12.09-12.57.32:572][642]LogSavePackage: Moving output files for package: /Game/winDeathScreen/win/UW_win
+[2025.12.09-12.57.32:573][642]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/UW_winA49B71AA4DF1BAEB517993B00478076D.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/winDeathScreen/win/UW_win.uasset'
+[2025.12.09-12.57.32:586][642]LogFileHelpers: InternalPromptForCheckoutAndSave took 121.747 ms (total: 18.5 sec)
+[2025.12.09-12.57.32:650][642]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.09-12.57.32:650][642]LogContentValidation: Enabled validators:
+[2025.12.09-12.57.32:650][642]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.09-12.57.32:650][642]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.09-12.57.32:650][642]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.09-12.57.32:650][642]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.09-12.57.32:650][642]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.09-12.57.32:650][642]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.09-12.57.32:650][642]AssetCheck: /Game/winDeathScreen/win/UW_win Validating asset
+[2025.12.09-12.57.52:249][774]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.12.09-12.58.05:812][451]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/winDeathScreen/win/20251209_031303945_iOS.20251209_031303945_iOS
+[2025.12.09-12.58.20:664][298]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.12.09-12.58.20:670][298]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.09-12.58.20:740][298]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/winDeathScreen/win/UW_win] ([2] browsable assets)...
+[2025.12.09-12.58.20:744][298]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/winDeathScreen/win/UW_win.UW_win]
+[2025.12.09-12.58.20:744][298]OBJ SavePackage: Finished generating thumbnails for package [/Game/winDeathScreen/win/UW_win]
+[2025.12.09-12.58.20:756][298]LogSavePackage: Moving output files for package: /Game/winDeathScreen/win/UW_win
+[2025.12.09-12.58.20:757][298]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/UW_win0A612BF64C7CC0A75ECC8FA6698049F3.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/winDeathScreen/win/UW_win.uasset'
+[2025.12.09-12.58.20:768][298]LogFileHelpers: InternalPromptForCheckoutAndSave took 97.285 ms (total: 18.6 sec)
+[2025.12.09-12.58.20:832][298]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.09-12.58.20:833][298]LogContentValidation: Enabled validators:
+[2025.12.09-12.58.20:833][298]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.09-12.58.20:833][298]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.09-12.58.20:833][298]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.09-12.58.20:833][298]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.09-12.58.20:833][298]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.09-12.58.20:833][298]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.09-12.58.20:833][298]AssetCheck: /Game/winDeathScreen/win/UW_win Validating asset
+[2025.12.09-12.58.38:400][347]LogEditorTransaction: Undo Edit Right
+[2025.12.09-12.58.38:946][358]LogEditorTransaction: Undo Reset to Default
+[2025.12.09-12.58.39:569][386]LogEditorTransaction: Undo Edit Top
+[2025.12.09-12.58.56:584][387]LogEditorTransaction: Undo Edit Right
+[2025.12.09-12.58.57:159][400]LogEditorTransaction: Undo Edit Bottom
+[2025.12.09-12.59.17:976][291]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.12.09-12.59.17:981][291]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.09-12.59.18:076][291]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/winDeathScreen/win/UW_win] ([2] browsable assets)...
+[2025.12.09-12.59.18:081][291]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/winDeathScreen/win/UW_win.UW_win]
+[2025.12.09-12.59.18:081][291]OBJ SavePackage: Finished generating thumbnails for package [/Game/winDeathScreen/win/UW_win]
+[2025.12.09-12.59.18:095][291]LogSavePackage: Moving output files for package: /Game/winDeathScreen/win/UW_win
+[2025.12.09-12.59.18:095][291]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/UW_winDA252A69485E258D09FC078B377650C8.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/winDeathScreen/win/UW_win.uasset'
+[2025.12.09-12.59.18:107][291]LogFileHelpers: InternalPromptForCheckoutAndSave took 126.071 ms (total: 18.7 sec)
+[2025.12.09-12.59.18:205][291]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.09-12.59.18:205][291]LogContentValidation: Enabled validators:
+[2025.12.09-12.59.18:205][291]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.09-12.59.18:205][291]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.09-12.59.18:205][291]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.09-12.59.18:205][291]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.09-12.59.18:205][291]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.09-12.59.18:205][291]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.09-12.59.18:205][291]AssetCheck: /Game/winDeathScreen/win/UW_win Validating asset
+[2025.12.09-13.00.07:877][576]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.12.09-13.00.07:881][576]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.09-13.00.07:954][576]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/winDeathScreen/win/UW_win] ([2] browsable assets)...
+[2025.12.09-13.00.07:957][576]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/winDeathScreen/win/UW_win.UW_win]
+[2025.12.09-13.00.07:957][576]OBJ SavePackage: Finished generating thumbnails for package [/Game/winDeathScreen/win/UW_win]
+[2025.12.09-13.00.07:969][576]LogSavePackage: Moving output files for package: /Game/winDeathScreen/win/UW_win
+[2025.12.09-13.00.07:970][576]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/UW_win61C558E34030BCE58F4BCF93D645E811.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/winDeathScreen/win/UW_win.uasset'
+[2025.12.09-13.00.07:979][576]LogFileHelpers: InternalPromptForCheckoutAndSave took 97.849 ms (total: 18.8 sec)
+[2025.12.09-13.00.08:041][576]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.09-13.00.08:041][576]LogContentValidation: Enabled validators:
+[2025.12.09-13.00.08:041][576]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.09-13.00.08:041][576]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.09-13.00.08:041][576]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.09-13.00.08:041][576]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.09-13.00.08:041][576]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.09-13.00.08:041][576]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.09-13.00.08:043][576]AssetCheck: /Game/winDeathScreen/win/UW_win Validating asset
+[2025.12.09-13.00.28:978][612]LogEditorTransaction: Undo Edit Bottom
+[2025.12.09-13.00.47:848][467]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.12.09-13.00.47:852][467]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.09-13.00.47:922][467]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/winDeathScreen/win/UW_win] ([2] browsable assets)...
+[2025.12.09-13.00.47:925][467]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/winDeathScreen/win/UW_win.UW_win]
+[2025.12.09-13.00.47:925][467]OBJ SavePackage: Finished generating thumbnails for package [/Game/winDeathScreen/win/UW_win]
+[2025.12.09-13.00.47:936][467]LogSavePackage: Moving output files for package: /Game/winDeathScreen/win/UW_win
+[2025.12.09-13.00.47:936][467]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/UW_win58CC95FE44EB465C40D126AC1B2B976A.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/winDeathScreen/win/UW_win.uasset'
+[2025.12.09-13.00.47:947][467]LogFileHelpers: InternalPromptForCheckoutAndSave took 94.834 ms (total: 18.9 sec)
+[2025.12.09-13.00.48:013][467]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.09-13.00.48:013][467]LogContentValidation: Enabled validators:
+[2025.12.09-13.00.48:013][467]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.09-13.00.48:013][467]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.09-13.00.48:013][467]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.09-13.00.48:013][467]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.09-13.00.48:013][467]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.09-13.00.48:014][467]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.09-13.00.48:014][467]AssetCheck: /Game/winDeathScreen/win/UW_win Validating asset
+[2025.12.09-13.00.54:284][822]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.12.09-13.00.54:290][822]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.09-13.00.54:364][822]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/winDeathScreen/win/UW_win] ([2] browsable assets)...
+[2025.12.09-13.00.54:366][822]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/winDeathScreen/win/UW_win.UW_win]
+[2025.12.09-13.00.54:366][822]OBJ SavePackage: Finished generating thumbnails for package [/Game/winDeathScreen/win/UW_win]
+[2025.12.09-13.00.54:379][822]LogSavePackage: Moving output files for package: /Game/winDeathScreen/win/UW_win
+[2025.12.09-13.00.54:380][822]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/UW_winBC457AA54C5EEC204CF75795F32CB066.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/winDeathScreen/win/UW_win.uasset'
+[2025.12.09-13.00.54:390][822]LogFileHelpers: InternalPromptForCheckoutAndSave took 100.751 ms (total: 19.0 sec)
+[2025.12.09-13.00.54:452][822]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.09-13.00.54:452][822]LogContentValidation: Enabled validators:
+[2025.12.09-13.00.54:452][822]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.09-13.00.54:452][822]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.09-13.00.54:452][822]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.09-13.00.54:452][822]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.09-13.00.54:452][822]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.09-13.00.54:452][822]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.09-13.00.54:452][822]AssetCheck: /Game/winDeathScreen/win/UW_win Validating asset
+[2025.12.09-13.01.05:785][476]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2025.12.09-13.01.05:791][476]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.09-13.01.05:868][476]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/winDeathScreen/win/UW_win] ([2] browsable assets)...
+[2025.12.09-13.01.05:871][476]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/winDeathScreen/win/UW_win.UW_win]
+[2025.12.09-13.01.05:871][476]OBJ SavePackage: Finished generating thumbnails for package [/Game/winDeathScreen/win/UW_win]
+[2025.12.09-13.01.05:884][476]LogSavePackage: Moving output files for package: /Game/winDeathScreen/win/UW_win
+[2025.12.09-13.01.05:885][476]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/UW_win7FFDF44C44B9AA5A3F7A1BA2849088D8.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/winDeathScreen/win/UW_win.uasset'
+[2025.12.09-13.01.05:896][476]LogFileHelpers: InternalPromptForCheckoutAndSave took 104.854 ms (total: 19.1 sec)
+[2025.12.09-13.01.05:956][476]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.09-13.01.05:956][476]LogContentValidation: Enabled validators:
+[2025.12.09-13.01.05:956][476]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.09-13.01.05:956][476]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.09-13.01.05:956][476]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.09-13.01.05:956][476]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.09-13.01.05:956][476]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.09-13.01.05:956][476]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.09-13.01.05:956][476]AssetCheck: /Game/winDeathScreen/win/UW_win Validating asset
+[2025.12.09-13.01.13:708][916]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2025.12.09-13.01.13:718][916]LogContentBrowser: Creating deferred item: NewWorld
+[2025.12.09-13.01.13:730][917]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2025.12.09-13.01.16:578][ 88]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3659.756836
+[2025.12.09-13.01.16:778][100]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.09-13.01.16:778][100]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3659.939697, Update Interval: 345.070953
+[2025.12.09-13.01.24:205][546]LogContentBrowser: Attempting asset rename: NewWorld -> L_win
+[2025.12.09-13.01.24:206][546]LogChaosDD: Creating Chaos Debug Draw Scene for world L_win
+[2025.12.09-13.01.24:209][546]LogContentBrowser: End creating deferred item NewWorld
+[2025.12.09-13.01.24:611][568]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.12.09-13.01.24:616][568]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.09-13.01.24:717][568]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.12.09-13.01.24:729][568]LogSavePackage: Moving output files for package: /Game/winDeathScreen/win/L_win
+[2025.12.09-13.01.24:729][568]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/L_winE7E1FFC74E66FCA541039ABF01B43DEE.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/winDeathScreen/win/L_win.umap'
+[2025.12.09-13.01.24:736][568]LogFileHelpers: Saving map 'L_win' took 0.049
+[2025.12.09-13.01.24:748][568]LogFileHelpers: InternalPromptForCheckoutAndSave took 131.795 ms (total: 19.2 sec)
+[2025.12.09-13.01.24:826][568]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.09-13.01.24:826][568]LogContentValidation: Enabled validators:
+[2025.12.09-13.01.24:826][568]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.09-13.01.24:826][568]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.09-13.01.24:826][568]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.09-13.01.24:826][568]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.09-13.01.24:826][568]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.09-13.01.24:826][568]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.09-13.01.24:826][568]AssetCheck: /Game/winDeathScreen/win/L_win Validating asset
+[2025.12.09-13.01.24:845][568]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.09-13.01.25:559][610]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.12.09-13.01.25:561][610]LogAssetEditorSubsystem: Opening Asset editor for World /Game/winDeathScreen/win/L_win.L_win
+[2025.12.09-13.01.25:616][610]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2025.12.09-13.01.25:616][610]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.09-13.01.25:646][610]LogWorld: UWorld::CleanupWorld for L_died, bSessionEnded=true, bCleanupResources=true
+[2025.12.09-13.01.25:648][610]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.09-13.01.25:671][610]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.09-13.01.25:675][610]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.12.09-13.01.25:682][610]LogWorld: UWorld::CleanupWorld for L_win, bSessionEnded=true, bCleanupResources=true
+[2025.12.09-13.01.25:682][610]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.09-13.01.25:746][610]LogWorld: UWorld::CleanupWorld for L_main, bSessionEnded=true, bCleanupResources=true
+[2025.12.09-13.01.25:746][610]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.09-13.01.25:775][610]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.12.09-13.01.25:802][610]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.12.09-13.01.25:803][610]LogStreaming: Display: FlushAsyncLoading(531): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.09-13.01.25:804][610]LogAudio: Display: Audio Device (ID: 1) registered with world 'L_win'.
+[2025.12.09-13.01.25:804][610]LogChaosDD: Creating Chaos Debug Draw Scene for world L_win
+[2025.12.09-13.01.25:829][610]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.12.09-13.01.25:857][610]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.12.09-13.01.25:867][610]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.12.09-13.01.25:867][610]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.065ms to complete.
+[2025.12.09-13.01.25:915][610]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.12.09-13.01.29:316][807]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.12.09-13.01.51:125][ 78]LogDerivedDataCache: C:/Users/skojo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.12.09-13.02.03:849][833]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.12.09-13.02.03:853][833]Cmd: MAP LOAD FILE="../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/winDeathScreen/L_died.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.12.09-13.02.03:879][833]LogWorld: UWorld::CleanupWorld for L_win, bSessionEnded=true, bCleanupResources=true
+[2025.12.09-13.02.03:879][833]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.09-13.02.03:906][833]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.09-13.02.03:908][833]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.12.09-13.02.03:910][833]LogStreaming: Display: FlushAsyncLoading(532): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.09-13.02.03:945][833]LogAudio: Display: Audio Device (ID: 1) registered with world 'L_died'.
+[2025.12.09-13.02.03:945][833]LogChaosDD: Creating Chaos Debug Draw Scene for world L_died
+[2025.12.09-13.02.03:974][833]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.12.09-13.02.04:002][833]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.12.09-13.02.04:014][833]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.12.09-13.02.04:014][833]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.069ms to complete.
+[2025.12.09-13.02.04:015][833]LogSlate: Window 'Open Level' being destroyed
+[2025.12.09-13.02.04:041][833]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.12.09-13.02.05:914][933]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/winDeathScreen/L_died.L_died:PersistentLevel.L_died
+[2025.12.09-13.02.05:915][933]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_54
+[2025.12.09-13.02.11:636][244]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.12.09-13.02.11:639][244]LogStreaming: Display: FlushAsyncLoading(533): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.09-13.02.11:640][244]LogChaosDD: Creating Chaos Debug Draw Scene for world L_win
+[2025.12.09-13.02.11:641][244]LogAssetEditorSubsystem: Opening Asset editor for World /Game/winDeathScreen/win/L_win.L_win
+[2025.12.09-13.02.11:692][244]LogWorld: UWorld::CleanupWorld for World_54, bSessionEnded=true, bCleanupResources=true
+[2025.12.09-13.02.11:692][244]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.09-13.02.11:717][244]LogWorld: UWorld::CleanupWorld for L_died, bSessionEnded=true, bCleanupResources=true
+[2025.12.09-13.02.11:717][244]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.09-13.02.11:743][244]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.09-13.02.11:745][244]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.12.09-13.02.11:749][244]LogWorld: UWorld::CleanupWorld for L_win, bSessionEnded=true, bCleanupResources=true
+[2025.12.09-13.02.11:749][244]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.09-13.02.11:775][244]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.12.09-13.02.11:892][244]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.12.09-13.02.11:895][244]LogAudio: Display: Audio Device (ID: 1) registered with world 'L_win'.
+[2025.12.09-13.02.11:895][244]LogChaosDD: Creating Chaos Debug Draw Scene for world L_win
+[2025.12.09-13.02.11:919][244]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.12.09-13.02.11:945][244]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.12.09-13.02.11:955][244]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.12.09-13.02.11:956][244]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.07ms to complete.
+[2025.12.09-13.02.12:006][244]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.12.09-13.02.13:187][304]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.12.09-13.02.14:779][386]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/winDeathScreen/win/L_win.L_win:PersistentLevel.L_win
+[2025.12.09-13.02.14:779][386]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_55
+[2025.12.09-13.02.19:659][634]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.12.09-13.02.19:663][634]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.09-13.02.19:794][634]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.12.09-13.02.19:807][634]LogSavePackage: Moving output files for package: /Game/winDeathScreen/win/L_win
+[2025.12.09-13.02.19:808][634]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/L_winAA2A0EBD4186EEACF5493CAC1A9C5530.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/winDeathScreen/win/L_win.umap'
+[2025.12.09-13.02.19:819][634]LogFileHelpers: Saving map 'L_win' took 0.078
+[2025.12.09-13.02.19:830][634]LogFileHelpers: InternalPromptForCheckoutAndSave took 168.188 ms (total: 19.4 sec)
+[2025.12.09-13.02.19:902][634]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.09-13.02.19:902][634]LogContentValidation: Enabled validators:
+[2025.12.09-13.02.19:902][634]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.09-13.02.19:902][634]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.09-13.02.19:902][634]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.09-13.02.19:902][634]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.09-13.02.19:902][634]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.09-13.02.19:902][634]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.09-13.02.19:902][634]AssetCheck: /Game/winDeathScreen/win/L_win Validating asset
+[2025.12.09-13.02.25:641][978]LogEditorTransaction: Undo Move Nodes
+[2025.12.09-13.02.25:958][987]LogEditorTransaction: Undo Move Nodes
+[2025.12.09-13.02.26:496][ 12]LogEditorTransaction: Undo Paste clipboard contents
+[2025.12.09-13.02.35:109][521]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2025.12.09-13.02.35:114][521]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.09-13.02.35:312][521]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.12.09-13.02.35:323][521]LogSavePackage: Moving output files for package: /Game/winDeathScreen/win/L_win
+[2025.12.09-13.02.35:324][521]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/L_win8E9FDDE1491001BDDCF53084E3BAA9B6.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/winDeathScreen/win/L_win.umap'
+[2025.12.09-13.02.35:335][521]LogFileHelpers: Saving map 'L_win' took 0.076
+[2025.12.09-13.02.35:347][521]LogFileHelpers: InternalPromptForCheckoutAndSave took 232.624 ms (total: 19.6 sec)
+[2025.12.09-13.02.35:416][521]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.09-13.02.35:416][521]LogContentValidation: Enabled validators:
+[2025.12.09-13.02.35:416][521]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.09-13.02.35:416][521]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.09-13.02.35:416][521]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.09-13.02.35:416][521]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.09-13.02.35:416][521]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.09-13.02.35:416][521]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.09-13.02.35:416][521]AssetCheck: /Game/winDeathScreen/win/L_win Validating asset
+[2025.12.09-13.02.38:759][719]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.12.09-13.02.38:763][719]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.09-13.02.38:878][719]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.12.09-13.02.38:891][719]LogSavePackage: Moving output files for package: /Game/winDeathScreen/win/L_win
+[2025.12.09-13.02.38:892][719]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/L_win28E43C4E454FB9C53EDC2E9839C953BE.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/winDeathScreen/win/L_win.umap'
+[2025.12.09-13.02.38:903][719]LogFileHelpers: Saving map 'L_win' took 0.076
+[2025.12.09-13.02.38:912][719]LogFileHelpers: InternalPromptForCheckoutAndSave took 148.801 ms (total: 19.8 sec)
+[2025.12.09-13.02.38:984][719]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.09-13.02.38:984][719]LogContentValidation: Enabled validators:
+[2025.12.09-13.02.38:984][719]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.09-13.02.38:984][719]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.09-13.02.38:984][719]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.09-13.02.38:984][719]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.09-13.02.38:984][719]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.09-13.02.38:984][719]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.09-13.02.38:985][719]AssetCheck: /Game/winDeathScreen/win/L_win Validating asset
+[2025.12.09-13.03.12:633][649]LogSlate: Window 'Widget Reflector' being destroyed
+[2025.12.09-13.03.21:419][169]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.12.09-13.03.27:292][513]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2025.12.09-13.03.27:298][513]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.09-13.03.27:415][513]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.12.09-13.03.27:431][513]LogSavePackage: Moving output files for package: /Game/winDeathScreen/win/L_win
+[2025.12.09-13.03.27:431][513]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/L_winD4E89F9E42DBB66CC48A83963C90AD5C.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/winDeathScreen/win/L_win.umap'
+[2025.12.09-13.03.27:444][513]LogFileHelpers: Saving map 'L_win' took 0.082
+[2025.12.09-13.03.27:454][513]LogFileHelpers: InternalPromptForCheckoutAndSave took 156.143 ms (total: 19.9 sec)
+[2025.12.09-13.03.27:514][513]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.09-13.03.27:514][513]LogContentValidation: Enabled validators:
+[2025.12.09-13.03.27:514][513]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.09-13.03.27:514][513]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.09-13.03.27:514][513]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.09-13.03.27:514][513]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.09-13.03.27:514][513]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.09-13.03.27:514][513]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.09-13.03.27:514][513]AssetCheck: /Game/winDeathScreen/win/L_win Validating asset
+[2025.12.09-13.03.32:549][810]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.12.09-13.03.32:558][810]LogPlayLevel: [PlayLevel] Compiling L_win before play...
+[2025.12.09-13.03.32:623][810]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.12.09-13.03.32:625][810]LogPlayLevel: PlayLevel: Blueprint regeneration took 67 ms (1 blueprints)
+[2025.12.09-13.03.32:625][810]LogPlayLevel: Creating play world package: /Game/winDeathScreen/win/UEDPIE_0_L_win
+[2025.12.09-13.03.32:627][810]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001391s)
+[2025.12.09-13.03.32:627][810]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/winDeathScreen/win/L_win.L_win to /Game/winDeathScreen/win/UEDPIE_0_L_win.L_win (0.001431s)
+[2025.12.09-13.03.32:653][810]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.12.09-13.03.32:654][810]LogChaosDD: Creating Chaos Debug Draw Scene for world L_win
+[2025.12.09-13.03.32:656][810]LogPlayLevel: PIE: World Init took: (0.001614s)
+[2025.12.09-13.03.32:656][810]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2025.12.09-13.03.32:656][810]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.09-13.03.32:657][810]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.09-13.03.32:657][810]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.09-13.03.32:657][810]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.09-13.03.32:657][810]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.09-13.03.32:657][810]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.09-13.03.32:657][810]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.09-13.03.32:657][810]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.09-13.03.32:657][810]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.09-13.03.32:657][810]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.09-13.03.32:657][810]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.09-13.03.32:659][810]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.09-13.03.32:754][810]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.12.09-13.03.32:755][810]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.09-13.03.32:755][810]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.09-13.03.32:755][810]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.09-13.03.32:759][810]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2025.12.09-13.03.32:759][810]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2025.12.09-13.03.32:762][810]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2025.12.09-13.03.32:763][810]LogInit: FAudioDevice initialized with ID 8.
+[2025.12.09-13.03.32:763][810]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2025.12.09-13.03.32:763][810]LogAudio: Display: Audio Device (ID: 8) registered with world 'L_win'.
+[2025.12.09-13.03.32:763][810]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2025.12.09-13.03.32:822][810]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.09-13.03.32:823][810]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2025.12.09-13.03.32:824][810]LogWorld: Bringing World /Game/winDeathScreen/win/UEDPIE_0_L_win.L_win up for play (max tick rate 60) at 2025.12.09-13.03.32
+[2025.12.09-13.03.32:825][810]LogWorld: Bringing up level for play took: 0.000810
+[2025.12.09-13.03.32:829][810]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2025.12.09-13.03.32:842][810]PIE: Server logged in
+[2025.12.09-13.03.32:846][810]PIE: Play in editor total start time 0.289 seconds.
+[2025.12.09-13.03.32:910][811]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.12.09-13.03.34:559][899]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.09-13.03.34:559][899]LogWorld: BeginTearingDown for /Game/winDeathScreen/win/UEDPIE_0_L_win
+[2025.12.09-13.03.34:559][899]LogSlate: Window 'VerticalJam2025 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.12.09-13.03.34:579][899]LogWorld: UWorld::CleanupWorld for L_win, bSessionEnded=true, bCleanupResources=true
+[2025.12.09-13.03.34:579][899]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.09-13.03.34:582][899]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.09-13.03.34:591][899]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.09-13.03.34:621][899]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2025.12.09-13.03.34:621][899]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=4
+[2025.12.09-13.03.34:624][899]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=2
+[2025.12.09-13.03.34:677][899]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2025.12.09-13.03.34:711][900]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2025.12.09-13.03.38:886][136]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.12.09-13.03.38:891][136]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.09-13.03.39:003][136]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.12.09-13.03.39:017][136]LogSavePackage: Moving output files for package: /Game/winDeathScreen/win/L_win
+[2025.12.09-13.03.39:018][136]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/L_win87C6DCAE4D029BC7CC7BA29CC2DFEE92.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/winDeathScreen/win/L_win.umap'
+[2025.12.09-13.03.39:030][136]LogFileHelpers: Saving map 'L_win' took 0.078
+[2025.12.09-13.03.39:041][136]LogFileHelpers: InternalPromptForCheckoutAndSave took 150.151 ms (total: 20.1 sec)
+[2025.12.09-13.03.39:102][136]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.09-13.03.39:102][136]LogContentValidation: Enabled validators:
+[2025.12.09-13.03.39:102][136]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.09-13.03.39:102][136]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.09-13.03.39:102][136]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.09-13.03.39:102][136]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.09-13.03.39:102][136]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.09-13.03.39:102][136]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.09-13.03.39:103][136]AssetCheck: /Game/winDeathScreen/win/L_win Validating asset
+[2025.12.09-13.03.39:789][177]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.12.09-13.03.39:797][177]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.09-13.03.39:797][177]LogPlayLevel: Creating play world package: /Game/winDeathScreen/win/UEDPIE_0_L_win
+[2025.12.09-13.03.39:799][177]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001329s)
+[2025.12.09-13.03.39:799][177]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/winDeathScreen/win/L_win.L_win to /Game/winDeathScreen/win/UEDPIE_0_L_win.L_win (0.001370s)
+[2025.12.09-13.03.39:831][177]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.12.09-13.03.39:832][177]LogChaosDD: Creating Chaos Debug Draw Scene for world L_win
+[2025.12.09-13.03.39:834][177]LogPlayLevel: PIE: World Init took: (0.001598s)
+[2025.12.09-13.03.39:834][177]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2025.12.09-13.03.39:834][177]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.09-13.03.39:834][177]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.09-13.03.39:834][177]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.09-13.03.39:834][177]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.09-13.03.39:834][177]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.09-13.03.39:834][177]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.09-13.03.39:834][177]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.09-13.03.39:834][177]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.09-13.03.39:834][177]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.09-13.03.39:834][177]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.09-13.03.39:834][177]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.09-13.03.39:836][177]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.09-13.03.39:934][177]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.12.09-13.03.39:934][177]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.09-13.03.39:934][177]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.09-13.03.39:934][177]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.09-13.03.39:935][177]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2025.12.09-13.03.39:935][177]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2025.12.09-13.03.39:938][177]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2025.12.09-13.03.39:938][177]LogInit: FAudioDevice initialized with ID 9.
+[2025.12.09-13.03.39:938][177]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2025.12.09-13.03.39:938][177]LogAudio: Display: Audio Device (ID: 9) registered with world 'L_win'.
+[2025.12.09-13.03.39:938][177]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2025.12.09-13.03.39:997][177]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.09-13.03.39:997][177]LogLoad: Game class is 'GameMode'
+[2025.12.09-13.03.39:997][177]LogWorld: Bringing World /Game/winDeathScreen/win/UEDPIE_0_L_win.L_win up for play (max tick rate 60) at 2025.12.09-13.03.39
+[2025.12.09-13.03.39:998][177]LogWorld: Bringing up level for play took: 0.000626
+[2025.12.09-13.03.40:003][177]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2025.12.09-13.03.40:004][177]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2025.12.09-13.03.40:004][177]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2025.12.09-13.03.40:004][177]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2025.12.09-13.03.40:008][177]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2025.12.09-13.03.40:016][177]PIE: Server logged in
+[2025.12.09-13.03.40:019][177]PIE: Play in editor total start time 0.223 seconds.
+[2025.12.09-13.03.40:099][178]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.12.09-13.03.43:838][399]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2025.12.09-13.03.43:838][399]LogGameState: Match State Changed from InProgress to LeavingMap
+[2025.12.09-13.03.43:838][399]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/main_menu/L_mainMenu"
+[2025.12.09-13.03.43:838][399]LogNet: Browse: /Game/main_menu/L_mainMenu
+[2025.12.09-13.03.43:838][399]LogLoad: LoadMap: /Game/main_menu/L_mainMenu
+[2025.12.09-13.03.43:838][399]LogWorld: BeginTearingDown for /Game/winDeathScreen/win/UEDPIE_0_L_win
+[2025.12.09-13.03.43:839][399]LogWorld: UWorld::CleanupWorld for L_win, bSessionEnded=true, bCleanupResources=true
+[2025.12.09-13.03.43:839][399]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.09-13.03.43:863][399]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.09-13.03.43:866][399]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.12.09-13.03.43:868][399]LogStreaming: Display: FlushAsyncLoading(535): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.09-13.03.43:869][399]LogAudio: Display: Audio Device (ID: 9) registered with world 'L_mainMenu'.
+[2025.12.09-13.03.43:869][399]LogChaosDD: Creating Chaos Debug Draw Scene for world L_mainMenu
+[2025.12.09-13.03.43:870][399]LogPlayLevel: PIE: World Init took: (0.001574s)
+[2025.12.09-13.03.43:870][399]LogLoad: Game class is 'GM_mainMenu_C'
+[2025.12.09-13.03.43:871][399]LogWorld: Bringing World /Game/main_menu/UEDPIE_0_L_mainMenu.L_mainMenu up for play (max tick rate 60) at 2025.12.09-13.03.43
+[2025.12.09-13.03.43:871][399]LogWorld: Bringing up level for play took: 0.000507
+[2025.12.09-13.03.43:871][399]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.12.09-13.03.43:873][399]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.12.09-13.03.43:873][399]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2025.12.09-13.03.43:873][399]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2025.12.09-13.03.43:873][399]LogLoad: Took 0.035380 seconds to LoadMap(/Game/main_menu/L_mainMenu)
+[2025.12.09-13.03.43:873][399]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/main_menu/L_mainMenu
+[2025.12.09-13.03.43:876][399]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.12.09-13.03.44:729][449]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.09-13.03.44:730][449]LogWorld: BeginTearingDown for /Game/main_menu/UEDPIE_0_L_mainMenu
+[2025.12.09-13.03.44:730][449]LogSlate: Window 'VerticalJam2025 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.12.09-13.03.44:755][449]LogWorld: UWorld::CleanupWorld for L_mainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.12.09-13.03.44:755][449]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.09-13.03.44:758][449]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.09-13.03.44:766][449]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.09-13.03.44:797][449]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2025.12.09-13.03.44:797][449]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=4
+[2025.12.09-13.03.44:800][449]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=2
+[2025.12.09-13.03.44:813][449]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2025.12.09-13.03.44:844][450]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2025.12.09-13.03.45:859][509]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.12.09-13.03.45:866][509]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.09-13.03.45:867][509]LogPlayLevel: Creating play world package: /Game/winDeathScreen/win/UEDPIE_0_L_win
+[2025.12.09-13.03.45:869][509]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001678s)
+[2025.12.09-13.03.45:869][509]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/winDeathScreen/win/L_win.L_win to /Game/winDeathScreen/win/UEDPIE_0_L_win.L_win (0.001715s)
+[2025.12.09-13.03.45:898][509]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.12.09-13.03.45:900][509]LogChaosDD: Creating Chaos Debug Draw Scene for world L_win
+[2025.12.09-13.03.45:901][509]LogPlayLevel: PIE: World Init took: (0.001606s)
+[2025.12.09-13.03.45:902][509]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2025.12.09-13.03.45:902][509]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.09-13.03.45:902][509]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.09-13.03.45:902][509]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.09-13.03.45:902][509]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.09-13.03.45:902][509]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.09-13.03.45:902][509]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.09-13.03.45:902][509]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.09-13.03.45:902][509]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.09-13.03.45:902][509]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.09-13.03.45:902][509]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.09-13.03.45:902][509]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.09-13.03.45:904][509]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.09-13.03.46:004][509]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.12.09-13.03.46:006][509]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.09-13.03.46:006][509]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.09-13.03.46:006][509]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.09-13.03.46:007][509]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2025.12.09-13.03.46:008][509]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2025.12.09-13.03.46:014][509]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2025.12.09-13.03.46:014][509]LogInit: FAudioDevice initialized with ID 10.
+[2025.12.09-13.03.46:014][509]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2025.12.09-13.03.46:014][509]LogAudio: Display: Audio Device (ID: 10) registered with world 'L_win'.
+[2025.12.09-13.03.46:014][509]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2025.12.09-13.03.46:088][509]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.09-13.03.46:090][509]LogLoad: Game class is 'GameMode'
+[2025.12.09-13.03.46:090][509]LogWorld: Bringing World /Game/winDeathScreen/win/UEDPIE_0_L_win.L_win up for play (max tick rate 60) at 2025.12.09-13.03.46
+[2025.12.09-13.03.46:090][509]LogWorld: Bringing up level for play took: 0.000675
+[2025.12.09-13.03.46:095][509]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2025.12.09-13.03.46:097][509]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2025.12.09-13.03.46:097][509]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2025.12.09-13.03.46:097][509]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2025.12.09-13.03.46:099][509]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2025.12.09-13.03.46:105][509]PIE: Server logged in
+[2025.12.09-13.03.46:110][509]PIE: Play in editor total start time 0.244 seconds.
+[2025.12.09-13.03.46:173][510]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.12.09-13.03.48:715][655]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2025.12.09-13.03.48:715][655]LogGameState: Match State Changed from InProgress to LeavingMap
+[2025.12.09-13.03.48:715][655]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/main_level/L_main"
+[2025.12.09-13.03.48:715][655]LogNet: Browse: /Game/main_level/L_main
+[2025.12.09-13.03.48:715][655]LogLoad: LoadMap: /Game/main_level/L_main
+[2025.12.09-13.03.48:715][655]LogWorld: BeginTearingDown for /Game/winDeathScreen/win/UEDPIE_0_L_win
+[2025.12.09-13.03.48:716][655]LogWorld: UWorld::CleanupWorld for L_win, bSessionEnded=true, bCleanupResources=true
+[2025.12.09-13.03.48:716][655]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.09-13.03.48:778][655]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.09-13.03.48:779][655]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.12.09-13.03.48:781][655]LogStreaming: Display: FlushAsyncLoading(536): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.09-13.03.48:786][655]LogAudio: Display: Audio Device (ID: 10) registered with world 'L_main'.
+[2025.12.09-13.03.48:786][655]LogChaosDD: Creating Chaos Debug Draw Scene for world L_main
+[2025.12.09-13.03.48:788][655]LogPlayLevel: PIE: World Init took: (0.001531s)
+[2025.12.09-13.03.48:788][655]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2025.12.09-13.03.48:792][655]LogWorld: Bringing World /Game/main_level/UEDPIE_0_L_main.L_main up for play (max tick rate 60) at 2025.12.09-13.03.48
+[2025.12.09-13.03.48:792][655]LogWorld: Bringing up level for play took: 0.003813
+[2025.12.09-13.03.48:794][655]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_0.groundLeaves has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.09-13.03.48:794][655]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_0 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_0.groundLeaves 
+[2025.12.09-13.03.48:794][655]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_0.stem has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.09-13.03.48:794][655]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_0 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_0.stem 
+[2025.12.09-13.03.48:794][655]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_0.flower has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.09-13.03.48:794][655]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_0 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_0.flower 
+[2025.12.09-13.03.48:795][655]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_0.groundLeaves has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.09-13.03.48:795][655]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_0 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_0.groundLeaves 
+[2025.12.09-13.03.48:795][655]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_0.stem has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.09-13.03.48:795][655]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_0 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_0.stem 
+[2025.12.09-13.03.48:795][655]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_0.flower has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.09-13.03.48:795][655]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_0 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_0.flower 
+[2025.12.09-13.03.48:795][655]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_1.groundLeaves has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.09-13.03.48:795][655]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_1 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_1.groundLeaves 
+[2025.12.09-13.03.48:795][655]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_1.stem has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.09-13.03.48:795][655]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_1 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_1.stem 
+[2025.12.09-13.03.48:795][655]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_1.flower has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.09-13.03.48:795][655]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_1 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_1.flower 
+[2025.12.09-13.03.48:795][655]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_1.groundLeaves has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.09-13.03.48:795][655]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_1 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_1.groundLeaves 
+[2025.12.09-13.03.48:795][655]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_1.stem has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.09-13.03.48:795][655]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_1 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_1.stem 
+[2025.12.09-13.03.48:795][655]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_1.flower has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.09-13.03.48:796][655]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_1 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_1.flower 
+[2025.12.09-13.03.48:796][655]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_2.groundLeaves has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.09-13.03.48:796][655]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_2 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_2.groundLeaves 
+[2025.12.09-13.03.48:796][655]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_2.stem has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.09-13.03.48:796][655]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_2 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_2.stem 
+[2025.12.09-13.03.48:796][655]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_2.flower has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.09-13.03.48:796][655]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_2 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_2.flower 
+[2025.12.09-13.03.48:796][655]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_2.groundLeaves has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.09-13.03.48:796][655]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_2 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_2.groundLeaves 
+[2025.12.09-13.03.48:796][655]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_2.stem has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.09-13.03.48:796][655]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_2 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_2.stem 
+[2025.12.09-13.03.48:796][655]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_2.flower has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.09-13.03.48:796][655]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_2 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_2.flower 
+[2025.12.09-13.03.48:796][655]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_3.groundLeaves has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.09-13.03.48:796][655]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_3 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_3.groundLeaves 
+[2025.12.09-13.03.48:796][655]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_3.stem has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.09-13.03.48:796][655]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_3 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_3.stem 
+[2025.12.09-13.03.48:796][655]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_3.flower has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.09-13.03.48:796][655]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_3 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_3.flower 
+[2025.12.09-13.03.48:796][655]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_3.groundLeaves has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.09-13.03.48:796][655]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_3 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_3.groundLeaves 
+[2025.12.09-13.03.48:796][655]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_3.stem has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.09-13.03.48:796][655]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_3 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_3.stem 
+[2025.12.09-13.03.48:796][655]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_3.flower has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.09-13.03.48:796][655]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_3 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_3.flower 
+[2025.12.09-13.03.48:798][655]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_4.groundLeaves has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.09-13.03.48:798][655]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_4 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_4.groundLeaves 
+[2025.12.09-13.03.48:798][655]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_4.stem has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.09-13.03.48:798][655]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_4 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_4.stem 
+[2025.12.09-13.03.48:798][655]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_4.flower has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.09-13.03.48:798][655]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_4 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_4.flower 
+[2025.12.09-13.03.48:798][655]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_4.groundLeaves has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.09-13.03.48:798][655]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_4 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_4.groundLeaves 
+[2025.12.09-13.03.48:798][655]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_4.stem has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.09-13.03.48:798][655]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_4 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_4.stem 
+[2025.12.09-13.03.48:798][655]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_4.flower has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.09-13.03.48:798][655]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_4 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_4.flower 
+[2025.12.09-13.03.48:798][655]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_5.groundLeaves has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.09-13.03.48:798][655]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_5 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_5.groundLeaves 
+[2025.12.09-13.03.48:798][655]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_5.stem has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.09-13.03.48:798][655]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_5 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_5.stem 
+[2025.12.09-13.03.48:798][655]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_5.flower has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.09-13.03.48:798][655]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_5 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_5.flower 
+[2025.12.09-13.03.48:799][655]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_5.groundLeaves has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.09-13.03.48:799][655]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_5 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_5.groundLeaves 
+[2025.12.09-13.03.48:799][655]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_5.stem has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.09-13.03.48:799][655]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_5 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_5.stem 
+[2025.12.09-13.03.48:799][655]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_5.flower has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.09-13.03.48:799][655]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_5 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_5.flower 
+[2025.12.09-13.03.48:799][655]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_6.groundLeaves has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.09-13.03.48:799][655]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_6 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_6.groundLeaves 
+[2025.12.09-13.03.48:799][655]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_6.stem has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.09-13.03.48:799][655]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_6 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_6.stem 
+[2025.12.09-13.03.48:799][655]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_6.flower has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.09-13.03.48:799][655]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_6 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_6.flower 
+[2025.12.09-13.03.48:799][655]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_6.groundLeaves has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.09-13.03.48:799][655]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_6 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_6.groundLeaves 
+[2025.12.09-13.03.48:799][655]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_6.stem has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.09-13.03.48:799][655]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_6 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_6.stem 
+[2025.12.09-13.03.48:799][655]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_6.flower has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.09-13.03.48:800][655]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_6 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_6.flower 
+[2025.12.09-13.03.48:800][655]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_7.groundLeaves has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.09-13.03.48:800][655]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_7 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_7.groundLeaves 
+[2025.12.09-13.03.48:800][655]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_7.stem has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.09-13.03.48:800][655]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_7 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_7.stem 
+[2025.12.09-13.03.48:800][655]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_7.flower has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.09-13.03.48:800][655]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_7 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_7.flower 
+[2025.12.09-13.03.48:800][655]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_7.groundLeaves has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.09-13.03.48:800][655]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_7 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_7.groundLeaves 
+[2025.12.09-13.03.48:800][655]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_7.stem has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.09-13.03.48:800][655]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_7 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_7.stem 
+[2025.12.09-13.03.48:800][655]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_7.flower has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.09-13.03.48:800][655]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_7 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_7.flower 
+[2025.12.09-13.03.48:801][655]LogLoad: Took 0.085966 seconds to LoadMap(/Game/main_level/L_main)
+[2025.12.09-13.03.48:801][655]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/main_level/L_main
+[2025.12.09-13.03.48:802][655]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_0.groundLeaves.
+[2025.12.09-13.03.48:802][655]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_0.stem.
+[2025.12.09-13.03.48:802][655]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_0.flower.
+[2025.12.09-13.03.48:802][655]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_1.groundLeaves.
+[2025.12.09-13.03.48:802][655]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_1.stem.
+[2025.12.09-13.03.48:802][655]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_1.flower.
+[2025.12.09-13.03.48:802][655]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_2.groundLeaves.
+[2025.12.09-13.03.48:802][655]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_2.stem.
+[2025.12.09-13.03.48:802][655]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_2.flower.
+[2025.12.09-13.03.48:802][655]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_3.groundLeaves.
+[2025.12.09-13.03.48:802][655]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_3.stem.
+[2025.12.09-13.03.48:802][655]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_3.flower.
+[2025.12.09-13.03.48:802][655]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_4.groundLeaves.
+[2025.12.09-13.03.48:802][655]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_4.stem.
+[2025.12.09-13.03.48:802][655]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_4.flower.
+[2025.12.09-13.03.48:802][655]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_5.groundLeaves.
+[2025.12.09-13.03.48:802][655]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_5.stem.
+[2025.12.09-13.03.48:802][655]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_5.flower.
+[2025.12.09-13.03.48:802][655]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_6.groundLeaves.
+[2025.12.09-13.03.48:802][655]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_6.stem.
+[2025.12.09-13.03.48:802][655]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_6.flower.
+[2025.12.09-13.03.48:802][655]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_7.groundLeaves.
+[2025.12.09-13.03.48:802][655]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_7.stem.
+[2025.12.09-13.03.48:802][655]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_7.flower.
+[2025.12.09-13.03.48:810][655]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.12.09-13.03.50:919][758]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.09-13.03.50:919][758]LogWorld: BeginTearingDown for /Game/main_level/UEDPIE_0_L_main
+[2025.12.09-13.03.50:920][758]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.12.09-13.03.50:920][758]LogSlate: Window 'VerticalJam2025 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.12.09-13.03.50:963][758]LogWorld: UWorld::CleanupWorld for L_main, bSessionEnded=true, bCleanupResources=true
+[2025.12.09-13.03.50:964][758]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.09-13.03.50:966][758]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.09-13.03.50:972][758]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.09-13.03.51:006][758]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2025.12.09-13.03.51:006][758]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=4
+[2025.12.09-13.03.51:008][758]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=2
+[2025.12.09-13.03.51:020][758]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.12.09-13.03.51:054][759]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2025.12.09-13.03.57:461][133]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.12.09-13.03.57:465][133]Cmd: MAP LOAD FILE="../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/winDeathScreen/L_died.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.12.09-13.03.57:517][133]LogWorld: UWorld::CleanupWorld for World_55, bSessionEnded=true, bCleanupResources=true
+[2025.12.09-13.03.57:517][133]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.09-13.03.57:546][133]LogWorld: UWorld::CleanupWorld for L_win, bSessionEnded=true, bCleanupResources=true
+[2025.12.09-13.03.57:546][133]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.09-13.03.57:572][133]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.09-13.03.57:574][133]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.12.09-13.03.57:576][133]LogStreaming: Display: FlushAsyncLoading(537): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.09-13.03.57:608][133]LogAudio: Display: Audio Device (ID: 1) registered with world 'L_died'.
+[2025.12.09-13.03.57:608][133]LogChaosDD: Creating Chaos Debug Draw Scene for world L_died
+[2025.12.09-13.03.57:636][133]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.12.09-13.03.57:663][133]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.12.09-13.03.57:674][133]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.12.09-13.03.57:674][133]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.065ms to complete.
+[2025.12.09-13.03.57:675][133]LogSlate: Window 'Open Level' being destroyed
+[2025.12.09-13.03.57:723][133]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.12.09-13.03.57:763][134]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.12.09-13.03.58:799][191]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.12.09-13.03.58:807][191]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.09-13.03.58:808][191]LogPlayLevel: Creating play world package: /Game/winDeathScreen/UEDPIE_0_L_died
+[2025.12.09-13.03.58:809][191]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001688s)
+[2025.12.09-13.03.58:809][191]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/winDeathScreen/L_died.L_died to /Game/winDeathScreen/UEDPIE_0_L_died.L_died (0.001728s)
+[2025.12.09-13.03.58:834][191]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.12.09-13.03.58:837][191]LogChaosDD: Creating Chaos Debug Draw Scene for world L_died
+[2025.12.09-13.03.58:838][191]LogPlayLevel: PIE: World Init took: (0.001600s)
+[2025.12.09-13.03.58:839][191]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2025.12.09-13.03.58:839][191]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.09-13.03.58:839][191]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.09-13.03.58:839][191]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.09-13.03.58:839][191]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.09-13.03.58:839][191]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.09-13.03.58:839][191]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.09-13.03.58:839][191]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.09-13.03.58:839][191]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.09-13.03.58:839][191]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.09-13.03.58:839][191]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.09-13.03.58:839][191]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.09-13.03.58:842][191]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.09-13.03.58:932][191]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.12.09-13.03.58:932][191]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.09-13.03.58:932][191]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.09-13.03.58:932][191]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.09-13.03.58:933][191]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2025.12.09-13.03.58:933][191]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2025.12.09-13.03.58:935][191]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2025.12.09-13.03.58:935][191]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2025.12.09-13.03.58:935][191]LogInit: FAudioDevice initialized with ID 11.
+[2025.12.09-13.03.58:936][191]LogAudio: Display: Audio Device (ID: 11) registered with world 'L_died'.
+[2025.12.09-13.03.58:936][191]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2025.12.09-13.03.59:026][191]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.09-13.03.59:026][191]LogLoad: Game class is 'GameMode'
+[2025.12.09-13.03.59:026][191]LogWorld: Bringing World /Game/winDeathScreen/UEDPIE_0_L_died.L_died up for play (max tick rate 60) at 2025.12.09-13.03.59
+[2025.12.09-13.03.59:027][191]LogWorld: Bringing up level for play took: 0.000390
+[2025.12.09-13.03.59:029][191]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2025.12.09-13.03.59:029][191]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2025.12.09-13.03.59:029][191]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2025.12.09-13.03.59:030][191]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2025.12.09-13.03.59:031][191]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2025.12.09-13.03.59:038][191]PIE: Server logged in
+[2025.12.09-13.03.59:042][191]PIE: Play in editor total start time 0.235 seconds.
+[2025.12.09-13.03.59:104][192]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.12.09-13.04.11:289][916]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.09-13.04.11:289][916]LogWorld: BeginTearingDown for /Game/winDeathScreen/UEDPIE_0_L_died
+[2025.12.09-13.04.11:289][916]LogSlate: Window 'VerticalJam2025 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.12.09-13.04.11:302][916]LogWorld: UWorld::CleanupWorld for L_died, bSessionEnded=true, bCleanupResources=true
+[2025.12.09-13.04.11:302][916]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.09-13.04.11:306][916]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.09-13.04.11:314][916]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.09-13.04.11:346][916]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2025.12.09-13.04.11:346][916]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11, StreamState=4
+[2025.12.09-13.04.11:348][916]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11, StreamState=2
+[2025.12.09-13.04.11:361][916]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.12.09-13.04.11:392][917]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2025.12.09-13.04.22:501][569]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/winDeathScreen/L_died.L_died:PersistentLevel.L_died
+[2025.12.09-13.04.22:501][569]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_57
+[2025.12.09-13.05.07:824][209]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.12.09-13.05.07:828][209]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.09-13.05.07:949][209]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.12.09-13.05.07:966][209]LogSavePackage: Moving output files for package: /Game/winDeathScreen/L_died
+[2025.12.09-13.05.07:966][209]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/L_died9A68D2384A95BE2946D70FB579F8BA1A.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/winDeathScreen/L_died.umap'
+[2025.12.09-13.05.07:979][209]LogFileHelpers: Saving map 'L_died' took 0.081
+[2025.12.09-13.05.07:989][209]LogFileHelpers: InternalPromptForCheckoutAndSave took 160.320 ms (total: 20.2 sec)
+[2025.12.09-13.05.08:073][209]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.09-13.05.08:073][209]LogContentValidation: Enabled validators:
+[2025.12.09-13.05.08:073][209]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.09-13.05.08:073][209]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.09-13.05.08:073][209]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.09-13.05.08:073][209]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.09-13.05.08:073][209]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.09-13.05.08:073][209]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.09-13.05.08:075][209]AssetCheck: /Game/winDeathScreen/L_died Validating asset
+[2025.12.09-13.05.09:818][310]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.12.09-13.05.09:828][310]LogPlayLevel: [PlayLevel] Compiling L_died before play...
+[2025.12.09-13.05.09:883][310]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.12.09-13.05.09:885][310]LogPlayLevel: PlayLevel: Blueprint regeneration took 57 ms (1 blueprints)
+[2025.12.09-13.05.09:885][310]LogPlayLevel: Creating play world package: /Game/winDeathScreen/UEDPIE_0_L_died
+[2025.12.09-13.05.09:887][310]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001392s)
+[2025.12.09-13.05.09:887][310]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/winDeathScreen/L_died.L_died to /Game/winDeathScreen/UEDPIE_0_L_died.L_died (0.001429s)
+[2025.12.09-13.05.09:911][310]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.12.09-13.05.09:913][310]LogChaosDD: Creating Chaos Debug Draw Scene for world L_died
+[2025.12.09-13.05.09:914][310]LogPlayLevel: PIE: World Init took: (0.001714s)
+[2025.12.09-13.05.09:916][310]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2025.12.09-13.05.09:916][310]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.09-13.05.09:916][310]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.09-13.05.09:916][310]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.09-13.05.09:916][310]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.09-13.05.09:916][310]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.09-13.05.09:916][310]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.09-13.05.09:916][310]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.09-13.05.09:916][310]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.09-13.05.09:916][310]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.09-13.05.09:916][310]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.09-13.05.09:916][310]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.09-13.05.09:918][310]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.09-13.05.10:014][310]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.12.09-13.05.10:014][310]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.09-13.05.10:014][310]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.09-13.05.10:014][310]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.09-13.05.10:015][310]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2025.12.09-13.05.10:015][310]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2025.12.09-13.05.10:017][310]LogInit: FAudioDevice initialized with ID 12.
+[2025.12.09-13.05.10:017][310]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2025.12.09-13.05.10:017][310]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2025.12.09-13.05.10:017][310]LogAudio: Display: Audio Device (ID: 12) registered with world 'L_died'.
+[2025.12.09-13.05.10:017][310]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2025.12.09-13.05.10:074][310]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.09-13.05.10:075][310]LogLoad: Game class is 'GameMode'
+[2025.12.09-13.05.10:075][310]LogWorld: Bringing World /Game/winDeathScreen/UEDPIE_0_L_died.L_died up for play (max tick rate 60) at 2025.12.09-13.05.10
+[2025.12.09-13.05.10:075][310]LogWorld: Bringing up level for play took: 0.000431
+[2025.12.09-13.05.10:080][310]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2025.12.09-13.05.10:082][310]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2025.12.09-13.05.10:082][310]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2025.12.09-13.05.10:082][310]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2025.12.09-13.05.10:084][310]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.12.09-13.05.10:084][310]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2025.12.09-13.05.10:084][310]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2025.12.09-13.05.10:089][310]PIE: Server logged in
+[2025.12.09-13.05.10:093][310]PIE: Play in editor total start time 0.266 seconds.
+[2025.12.09-13.05.10:153][311]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.12.09-13.05.37:280][470]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.09-13.05.37:280][470]LogWorld: BeginTearingDown for /Game/winDeathScreen/UEDPIE_0_L_died
+[2025.12.09-13.05.37:280][470]LogSlate: Window 'VerticalJam2025 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.12.09-13.05.37:296][470]LogWorld: UWorld::CleanupWorld for L_died, bSessionEnded=true, bCleanupResources=true
+[2025.12.09-13.05.37:296][470]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.09-13.05.37:300][470]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.09-13.05.37:307][470]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.09-13.05.37:343][470]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2025.12.09-13.05.37:343][470]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12, StreamState=4
+[2025.12.09-13.05.37:345][470]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12, StreamState=2
+[2025.12.09-13.05.37:358][470]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.12.09-13.05.37:393][471]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2025.12.09-13.05.54:171][474]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.12.09-13.05.54:177][474]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.09-13.05.54:304][474]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.12.09-13.05.54:318][474]LogSavePackage: Moving output files for package: /Game/winDeathScreen/L_died
+[2025.12.09-13.05.54:319][474]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/L_diedA404DC2A4D6B6950191969B4A524EC31.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/winDeathScreen/L_died.umap'
+[2025.12.09-13.05.54:331][474]LogFileHelpers: Saving map 'L_died' took 0.083
+[2025.12.09-13.05.54:341][474]LogFileHelpers: InternalPromptForCheckoutAndSave took 164.943 ms (total: 20.4 sec)
+[2025.12.09-13.05.54:412][474]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.09-13.05.54:412][474]LogContentValidation: Enabled validators:
+[2025.12.09-13.05.54:412][474]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.09-13.05.54:412][474]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.09-13.05.54:412][474]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.09-13.05.54:412][474]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.09-13.05.54:412][474]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.09-13.05.54:412][474]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.09-13.05.54:412][474]AssetCheck: /Game/winDeathScreen/L_died Validating asset
