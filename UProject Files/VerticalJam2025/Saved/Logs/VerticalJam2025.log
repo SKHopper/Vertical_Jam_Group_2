@@ -7635,3 +7635,103 @@ Sampler Limit: 32
 [2025.12.10-21.01.48:411][516]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.12.10-21.01.48:411][516]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.12.10-21.01.48:411][516]AssetCheck: /Game/pollen_collect/ResourceManager/BP_ResourceManager Validating asset
+[2025.12.10-21.03.05:302][739]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.12.10-21.03.05:304][739]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/main_level/L_main' took 0.035
+[2025.12.10-21.03.05:304][739]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/pollen_collect/ResourceManager/BP_ResourceManager] ([2] browsable assets)...
+[2025.12.10-21.03.05:304][739]OBJ SavePackage: Finished generating thumbnails for package [/Game/pollen_collect/ResourceManager/BP_ResourceManager]
+[2025.12.10-21.03.05:332][739]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/pollen_collect/ResourceManager/BP_ResourceManager_Auto2
+[2025.12.10-21.03.05:332][739]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/BP_ResourceManager_Auto2BAEC951148EFE4AEB077BBADC9EA58F9.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/Autosaves/Game/pollen_collect/ResourceManager/BP_ResourceManager_Auto2.uasset'
+[2025.12.10-21.03.05:333][739]LogFileHelpers: Auto-saving content packages took 0.030
+[2025.12.10-21.04.15:434][878]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.12.10-21.04.15:439][878]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-21.04.15:505][878]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/pollen_collect/ResourceManager/BP_ResourceManager] ([2] browsable assets)...
+[2025.12.10-21.04.15:505][878]OBJ SavePackage: Finished generating thumbnails for package [/Game/pollen_collect/ResourceManager/BP_ResourceManager]
+[2025.12.10-21.04.15:534][878]LogSavePackage: Moving output files for package: /Game/pollen_collect/ResourceManager/BP_ResourceManager
+[2025.12.10-21.04.15:535][878]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/BP_ResourceManagerB0DD5B844441D45E69A34380A3730526.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/pollen_collect/ResourceManager/BP_ResourceManager.uasset'
+[2025.12.10-21.04.15:537][878]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDown/Blueprints/BP_TopDownCharacter] ([2] browsable assets)...
+[2025.12.10-21.04.15:662][878]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDown/Blueprints/BP_TopDownCharacter.BP_TopDownCharacter]
+[2025.12.10-21.04.15:662][878]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/BP_TopDownCharacter]
+[2025.12.10-21.04.15:709][878]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_TopDownCharacter
+[2025.12.10-21.04.15:710][878]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/BP_TopDownCharacterDF0DD24B45623E71B2FC2D8EFDC7F061.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset'
+[2025.12.10-21.04.15:733][878]LogFileHelpers: InternalPromptForCheckoutAndSave took 294.381 ms (total: 2.83 sec)
+[2025.12.10-21.04.15:798][878]LogContentValidation: Display: Starting to validate 2 assets
+[2025.12.10-21.04.15:799][878]LogContentValidation: Enabled validators:
+[2025.12.10-21.04.15:799][878]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-21.04.15:799][878]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-21.04.15:799][878]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-21.04.15:799][878]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-21.04.15:799][878]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-21.04.15:799][878]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-21.04.15:799][878]AssetCheck: /Game/pollen_collect/ResourceManager/BP_ResourceManager Validating asset
+[2025.12.10-21.04.15:799][878]AssetCheck: /Game/TopDown/Blueprints/BP_TopDownCharacter Validating asset
+[2025.12.10-21.04.29:419][665]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.12.10-21.04.29:425][665]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-21.04.29:498][665]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDown/Blueprints/BP_TopDownCharacter] ([2] browsable assets)...
+[2025.12.10-21.04.29:585][665]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDown/Blueprints/BP_TopDownCharacter.BP_TopDownCharacter]
+[2025.12.10-21.04.29:585][665]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/BP_TopDownCharacter]
+[2025.12.10-21.04.29:621][665]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_TopDownCharacter
+[2025.12.10-21.04.29:622][665]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/BP_TopDownCharacter7065E33B4B3DD0DC88E16DA7DF1A96F0.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset'
+[2025.12.10-21.04.29:636][665]LogFileHelpers: InternalPromptForCheckoutAndSave took 211.855 ms (total: 3.04 sec)
+[2025.12.10-21.04.29:726][665]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-21.04.29:726][665]LogContentValidation: Enabled validators:
+[2025.12.10-21.04.29:726][665]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-21.04.29:726][665]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-21.04.29:726][665]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-21.04.29:726][665]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-21.04.29:726][665]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-21.04.29:726][665]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-21.04.29:726][665]AssetCheck: /Game/TopDown/Blueprints/BP_TopDownCharacter Validating asset
+[2025.12.10-21.04.42:579][434]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2836.141113
+[2025.12.10-21.04.42:825][445]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-21.04.42:825][445]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2836.306152, Update Interval: 352.624298
+[2025.12.10-21.04.51:425][931]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.12.10-21.04.51:429][931]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-21.04.51:530][931]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDown/Blueprints/BP_TopDownCharacter] ([2] browsable assets)...
+[2025.12.10-21.04.51:679][931]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDown/Blueprints/BP_TopDownCharacter.BP_TopDownCharacter]
+[2025.12.10-21.04.51:679][931]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/BP_TopDownCharacter]
+[2025.12.10-21.04.51:711][931]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_TopDownCharacter
+[2025.12.10-21.04.51:713][931]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/BP_TopDownCharacter3FFD595D432919D4C2C7F5913E5B35F2.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset'
+[2025.12.10-21.04.51:730][931]LogFileHelpers: InternalPromptForCheckoutAndSave took 301.415 ms (total: 3.34 sec)
+[2025.12.10-21.04.51:804][931]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-21.04.51:806][931]LogContentValidation: Enabled validators:
+[2025.12.10-21.04.51:806][931]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-21.04.51:806][931]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-21.04.51:806][931]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-21.04.51:806][931]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-21.04.51:806][931]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-21.04.51:806][931]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-21.04.51:806][931]AssetCheck: /Game/TopDown/Blueprints/BP_TopDownCharacter Validating asset
+[2025.12.10-21.05.06:476][783]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.12.10-21.05.06:480][783]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-21.05.06:555][783]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDown/Blueprints/BP_TopDownCharacter] ([2] browsable assets)...
+[2025.12.10-21.05.06:698][783]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDown/Blueprints/BP_TopDownCharacter.BP_TopDownCharacter]
+[2025.12.10-21.05.06:698][783]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/BP_TopDownCharacter]
+[2025.12.10-21.05.06:741][783]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_TopDownCharacter
+[2025.12.10-21.05.06:741][783]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/BP_TopDownCharacterBDC8B79F41590246203CAD88E9220EC1.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset'
+[2025.12.10-21.05.06:756][783]LogFileHelpers: InternalPromptForCheckoutAndSave took 275.953 ms (total: 3.61 sec)
+[2025.12.10-21.05.06:838][783]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-21.05.06:838][783]LogContentValidation: Enabled validators:
+[2025.12.10-21.05.06:838][783]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-21.05.06:838][783]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-21.05.06:838][783]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-21.05.06:838][783]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-21.05.06:838][783]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-21.05.06:838][783]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-21.05.06:838][783]AssetCheck: /Game/TopDown/Blueprints/BP_TopDownCharacter Validating asset
+[2025.12.10-21.05.31:692][144]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.12.10-21.05.31:697][144]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-21.05.31:771][144]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDown/Blueprints/BP_TopDownCharacter] ([2] browsable assets)...
+[2025.12.10-21.05.31:885][144]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDown/Blueprints/BP_TopDownCharacter.BP_TopDownCharacter]
+[2025.12.10-21.05.31:886][144]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/BP_TopDownCharacter]
+[2025.12.10-21.05.31:941][144]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_TopDownCharacter
+[2025.12.10-21.05.31:943][144]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/BP_TopDownCharacterB32522CD451F8A7458A05086D60E1918.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset'
+[2025.12.10-21.05.31:955][144]LogFileHelpers: InternalPromptForCheckoutAndSave took 257.975 ms (total: 3.87 sec)
+[2025.12.10-21.05.32:029][144]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-21.05.32:029][144]LogContentValidation: Enabled validators:
+[2025.12.10-21.05.32:029][144]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-21.05.32:029][144]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-21.05.32:029][144]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-21.05.32:029][144]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-21.05.32:029][144]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-21.05.32:029][144]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-21.05.32:029][144]AssetCheck: /Game/TopDown/Blueprints/BP_TopDownCharacter Validating asset
