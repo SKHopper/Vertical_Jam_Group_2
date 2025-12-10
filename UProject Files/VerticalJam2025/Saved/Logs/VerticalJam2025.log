@@ -26870,3 +26870,1482 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.12.10-11.31.50:645][989]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2048.921875
 [2025.12.10-11.31.51:654][992]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.12.10-11.31.51:654][992]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2049.609131, Update Interval: 307.857300
+[2025.12.10-11.35.46:494][388]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2025.12.10-11.35.46:503][388]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-11.35.46:584][388]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDown/Blueprints/BP_TopDownCharacter] ([2] browsable assets)...
+[2025.12.10-11.35.46:603][388]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDown/Blueprints/BP_TopDownCharacter.BP_TopDownCharacter]
+[2025.12.10-11.35.46:603][388]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/BP_TopDownCharacter]
+[2025.12.10-11.35.46:642][388]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_TopDownCharacter
+[2025.12.10-11.35.46:644][388]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/BP_TopDownCharacter57F107F241A4B83D154F5688041E0698.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset'
+[2025.12.10-11.35.46:660][388]LogFileHelpers: InternalPromptForCheckoutAndSave took 156.527 ms (total: 2.47 sec)
+[2025.12.10-11.35.46:733][388]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-11.35.46:734][388]LogContentValidation: Enabled validators:
+[2025.12.10-11.35.46:734][388]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-11.35.46:734][388]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-11.35.46:734][388]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-11.35.46:734][388]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-11.35.46:734][388]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-11.35.46:734][388]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-11.35.46:734][388]AssetCheck: /Game/TopDown/Blueprints/BP_TopDownCharacter Validating asset
+[2025.12.10-11.35.48:937][506]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.12.10-11.35.48:951][506]LogPlayLevel: [PlayLevel] Compiling BP_TopDownCharacter before play...
+[2025.12.10-11.35.48:951][506]LogPlayLevel: [PlayLevel]   Compiling pauseTestChar as a dependent...
+[2025.12.10-11.35.49:111][506]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2025.12.10-11.35.49:114][506]LogPlayLevel: PlayLevel: Blueprint regeneration took 168 ms (2 blueprints)
+[2025.12.10-11.35.49:114][506]LogPlayLevel: Creating play world package: /Game/main_level/UEDPIE_0_L_main
+[2025.12.10-11.35.49:120][506]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005691s)
+[2025.12.10-11.35.49:120][506]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/main_level/L_main.L_main to /Game/main_level/UEDPIE_0_L_main.L_main (0.005753s)
+[2025.12.10-11.35.49:156][506]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2025.12.10-11.35.49:158][506]LogChaosDD: Creating Chaos Debug Draw Scene for world L_main
+[2025.12.10-11.35.49:161][506]LogPlayLevel: PIE: World Init took: (0.002540s)
+[2025.12.10-11.35.49:162][506]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2025.12.10-11.35.49:162][506]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.10-11.35.49:162][506]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.10-11.35.49:162][506]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.10-11.35.49:162][506]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.10-11.35.49:162][506]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.10-11.35.49:162][506]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.10-11.35.49:162][506]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.10-11.35.49:162][506]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.10-11.35.49:162][506]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.10-11.35.49:162][506]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.10-11.35.49:162][506]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.10-11.35.49:166][506]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.10-11.35.49:215][506]LogAudioMixer: Display: Using Audio Hardware Device Speakers (USB Audio)
+[2025.12.10-11.35.49:216][506]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.10-11.35.49:216][506]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.10-11.35.49:216][506]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.10-11.35.49:216][506]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2025.12.10-11.35.49:216][506]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2025.12.10-11.35.49:220][506]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2025.12.10-11.35.49:220][506]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2025.12.10-11.35.49:220][506]LogInit: FAudioDevice initialized with ID 17.
+[2025.12.10-11.35.49:220][506]LogAudio: Display: Audio Device (ID: 17) registered with world 'L_main'.
+[2025.12.10-11.35.49:220][506]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2025.12.10-11.35.49:273][506]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.10-11.35.49:274][506]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2025.12.10-11.35.49:277][506]LogWorld: Bringing World /Game/main_level/UEDPIE_0_L_main.L_main up for play (max tick rate 60) at 2025.12.10-11.35.49
+[2025.12.10-11.35.49:278][506]LogWorld: Bringing up level for play took: 0.003588
+[2025.12.10-11.35.49:285][506]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2025.12.10-11.35.49:293][506]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_0.groundLeaves has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.49:294][506]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_0 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_0.groundLeaves 
+[2025.12.10-11.35.49:294][506]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_0.stem has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.49:294][506]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_0 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_0.stem 
+[2025.12.10-11.35.49:294][506]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_0.flower has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.49:294][506]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_0 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_0.flower 
+[2025.12.10-11.35.49:295][506]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_0.groundLeaves has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.49:295][506]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_0 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_0.groundLeaves 
+[2025.12.10-11.35.49:295][506]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_0.stem has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.49:295][506]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_0 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_0.stem 
+[2025.12.10-11.35.49:295][506]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_0.flower has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.49:295][506]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_0 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_0.flower 
+[2025.12.10-11.35.49:296][506]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_1.groundLeaves has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.49:296][506]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_1 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_1.groundLeaves 
+[2025.12.10-11.35.49:296][506]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_1.stem has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.49:296][506]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_1 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_1.stem 
+[2025.12.10-11.35.49:296][506]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_1.flower has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.49:297][506]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_1 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_1.flower 
+[2025.12.10-11.35.49:298][506]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_1.groundLeaves has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.49:298][506]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_1 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_1.groundLeaves 
+[2025.12.10-11.35.49:298][506]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_1.stem has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.49:298][506]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_1 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_1.stem 
+[2025.12.10-11.35.49:300][506]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_1.flower has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.49:300][506]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_1 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_1.flower 
+[2025.12.10-11.35.49:301][506]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_2.groundLeaves has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.49:301][506]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_2 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_2.groundLeaves 
+[2025.12.10-11.35.49:301][506]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_2.stem has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.49:301][506]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_2 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_2.stem 
+[2025.12.10-11.35.49:302][506]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_2.flower has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.49:302][506]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_2 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_2.flower 
+[2025.12.10-11.35.49:303][506]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_2.groundLeaves has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.49:303][506]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_2 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_2.groundLeaves 
+[2025.12.10-11.35.49:303][506]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_2.stem has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.49:303][506]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_2 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_2.stem 
+[2025.12.10-11.35.49:303][506]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_2.flower has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.49:303][506]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_2 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_2.flower 
+[2025.12.10-11.35.49:304][506]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_3.groundLeaves has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.49:305][506]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_3 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_3.groundLeaves 
+[2025.12.10-11.35.49:305][506]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_3.stem has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.49:305][506]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_3 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_3.stem 
+[2025.12.10-11.35.49:305][506]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_3.flower has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.49:305][506]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_3 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_3.flower 
+[2025.12.10-11.35.49:306][506]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_3.groundLeaves has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.49:306][506]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_3 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_3.groundLeaves 
+[2025.12.10-11.35.49:306][506]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_3.stem has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.49:306][506]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_3 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_3.stem 
+[2025.12.10-11.35.49:306][506]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_3.flower has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.49:306][506]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_3 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_3.flower 
+[2025.12.10-11.35.49:307][506]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_4.groundLeaves has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.49:307][506]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_4 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_4.groundLeaves 
+[2025.12.10-11.35.49:307][506]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_4.stem has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.49:307][506]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_4 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_4.stem 
+[2025.12.10-11.35.49:308][506]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_4.flower has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.49:308][506]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_4 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_4.flower 
+[2025.12.10-11.35.49:309][506]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_4.groundLeaves has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.49:309][506]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_4 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_4.groundLeaves 
+[2025.12.10-11.35.49:310][506]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_4.stem has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.49:310][506]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_4 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_4.stem 
+[2025.12.10-11.35.49:310][506]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_4.flower has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.49:310][506]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_4 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_4.flower 
+[2025.12.10-11.35.49:310][506]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_5.groundLeaves has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.49:310][506]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_5 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_5.groundLeaves 
+[2025.12.10-11.35.49:311][506]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_5.stem has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.49:311][506]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_5 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_5.stem 
+[2025.12.10-11.35.49:311][506]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_5.flower has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.49:311][506]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_5 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_5.flower 
+[2025.12.10-11.35.49:311][506]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_5.groundLeaves has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.49:311][506]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_5 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_5.groundLeaves 
+[2025.12.10-11.35.49:311][506]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_5.stem has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.49:311][506]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_5 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_5.stem 
+[2025.12.10-11.35.49:311][506]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_5.flower has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.49:311][506]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_5 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_5.flower 
+[2025.12.10-11.35.49:312][506]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_6.groundLeaves has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.49:312][506]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_6 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_6.groundLeaves 
+[2025.12.10-11.35.49:312][506]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_6.stem has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.49:312][506]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_6 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_6.stem 
+[2025.12.10-11.35.49:312][506]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_6.flower has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.49:312][506]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_6 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_6.flower 
+[2025.12.10-11.35.49:312][506]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_6.groundLeaves has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.49:312][506]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_6 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_6.groundLeaves 
+[2025.12.10-11.35.49:312][506]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_6.stem has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.49:312][506]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_6 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_6.stem 
+[2025.12.10-11.35.49:312][506]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_6.flower has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.49:312][506]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_6 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_6.flower 
+[2025.12.10-11.35.49:313][506]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_7.groundLeaves has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.49:313][506]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_7 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_7.groundLeaves 
+[2025.12.10-11.35.49:313][506]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_7.stem has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.49:313][506]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_7 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_7.stem 
+[2025.12.10-11.35.49:313][506]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_7.flower has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.49:313][506]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_7 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_7.flower 
+[2025.12.10-11.35.49:313][506]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_7.groundLeaves has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.49:313][506]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_7 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_7.groundLeaves 
+[2025.12.10-11.35.49:313][506]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_7.stem has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.49:313][506]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_7 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_7.stem 
+[2025.12.10-11.35.49:313][506]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_7.flower has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.49:313][506]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_7 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_7.flower 
+[2025.12.10-11.35.49:324][506]PIE: Server logged in
+[2025.12.10-11.35.49:329][506]PIE: Play in editor total start time 0.383 seconds.
+[2025.12.10-11.35.49:330][506]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_0.groundLeaves.
+[2025.12.10-11.35.49:330][506]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_0.stem.
+[2025.12.10-11.35.49:330][506]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_0.flower.
+[2025.12.10-11.35.49:330][506]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_1.groundLeaves.
+[2025.12.10-11.35.49:330][506]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_1.stem.
+[2025.12.10-11.35.49:330][506]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_1.flower.
+[2025.12.10-11.35.49:330][506]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_2.groundLeaves.
+[2025.12.10-11.35.49:330][506]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_2.stem.
+[2025.12.10-11.35.49:330][506]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_2.flower.
+[2025.12.10-11.35.49:330][506]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_3.groundLeaves.
+[2025.12.10-11.35.49:330][506]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_3.stem.
+[2025.12.10-11.35.49:330][506]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_3.flower.
+[2025.12.10-11.35.49:330][506]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_4.groundLeaves.
+[2025.12.10-11.35.49:330][506]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_4.stem.
+[2025.12.10-11.35.49:330][506]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_4.flower.
+[2025.12.10-11.35.49:330][506]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_5.groundLeaves.
+[2025.12.10-11.35.49:330][506]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_5.stem.
+[2025.12.10-11.35.49:330][506]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_5.flower.
+[2025.12.10-11.35.49:330][506]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_6.groundLeaves.
+[2025.12.10-11.35.49:330][506]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_6.stem.
+[2025.12.10-11.35.49:330][506]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_6.flower.
+[2025.12.10-11.35.49:330][506]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_7.groundLeaves.
+[2025.12.10-11.35.49:330][506]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_7.stem.
+[2025.12.10-11.35.49:330][506]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_7.flower.
+[2025.12.10-11.35.49:416][507]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.12.10-11.35.54:129][678]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.016
+[2025.12.10-11.35.54:156][679]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.505
+[2025.12.10-11.35.54:191][680]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=1.751
+[2025.12.10-11.35.54:224][681]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=3.515
+[2025.12.10-11.35.54:264][682]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=6.457
+[2025.12.10-11.35.54:289][683]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=8.703
+[2025.12.10-11.35.54:319][684]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=11.727
+[2025.12.10-11.35.54:345][685]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=14.757
+[2025.12.10-11.35.54:369][686]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=17.710
+[2025.12.10-11.35.54:398][687]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=21.585
+[2025.12.10-11.35.54:421][688]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=24.796
+[2025.12.10-11.35.54:441][689]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=27.675
+[2025.12.10-11.35.54:465][690]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=31.233
+[2025.12.10-11.35.54:485][691]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=34.328
+[2025.12.10-11.35.54:505][692]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=37.435
+[2025.12.10-11.35.54:527][693]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=40.966
+[2025.12.10-11.35.54:550][694]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=44.139
+[2025.12.10-11.35.54:577][695]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=48.668
+[2025.12.10-11.35.54:603][696]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=52.512
+[2025.12.10-11.35.54:625][697]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=55.744
+[2025.12.10-11.35.54:647][698]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=58.881
+[2025.12.10-11.35.54:671][699]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=62.218
+[2025.12.10-11.35.54:690][700]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=64.669
+[2025.12.10-11.35.54:711][701]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=67.211
+[2025.12.10-11.35.54:734][702]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=69.674
+[2025.12.10-11.35.54:762][703]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=72.436
+[2025.12.10-11.35.54:784][704]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.54:808][705]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.54:834][706]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.54:860][707]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.54:888][708]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.54:911][709]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.54:936][710]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.54:959][711]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.54:980][712]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.55:005][713]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.55:027][714]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.55:047][715]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.55:077][716]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.55:108][717]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=3.881
+[2025.12.10-11.35.55:142][718]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=7.000
+[2025.12.10-11.35.55:174][719]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=8.497
+[2025.12.10-11.35.55:204][720]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=9.226
+[2025.12.10-11.35.55:234][721]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=8.674
+[2025.12.10-11.35.55:265][722]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=6.965
+[2025.12.10-11.35.55:292][723]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=4.505
+[2025.12.10-11.35.55:323][724]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.586
+[2025.12.10-11.35.55:348][725]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-3.408
+[2025.12.10-11.35.55:370][726]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-7.489
+[2025.12.10-11.35.55:393][727]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-11.462
+[2025.12.10-11.35.55:415][728]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-15.223
+[2025.12.10-11.35.55:436][729]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-18.767
+[2025.12.10-11.35.55:459][730]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-22.583
+[2025.12.10-11.35.55:479][731]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-25.834
+[2025.12.10-11.35.55:508][732]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-30.421
+[2025.12.10-11.35.55:531][733]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-33.936
+[2025.12.10-11.35.55:556][734]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-37.616
+[2025.12.10-11.35.55:578][735]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-40.722
+[2025.12.10-11.35.55:607][736]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-44.609
+[2025.12.10-11.35.55:631][737]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-47.632
+[2025.12.10-11.35.55:652][738]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.55:677][739]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.55:701][740]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.55:721][741]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.55:744][742]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.55:768][743]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.55:793][744]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.55:817][745]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.55:845][746]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.55:869][747]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.55:892][748]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.55:911][749]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.55:947][750]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.55:971][751]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.55:990][752]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.56:013][753]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.56:034][754]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.56:064][755]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.56:086][756]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.56:127][757]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.56:157][758]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.56:187][759]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.56:217][760]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.56:248][761]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.56:283][762]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.56:316][763]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.56:350][764]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.56:381][765]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.56:409][766]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.56:435][767]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.56:463][768]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.56:497][769]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-0.593
+[2025.12.10-11.35.56:523][770]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-0.141
+[2025.12.10-11.35.56:549][771]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=1.114
+[2025.12.10-11.35.56:581][772]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=3.774
+[2025.12.10-11.35.56:608][773]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=6.881
+[2025.12.10-11.35.56:631][774]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=10.256
+[2025.12.10-11.35.56:654][775]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=14.085
+[2025.12.10-11.35.56:680][776]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=19.010
+[2025.12.10-11.35.56:703][777]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=24.097
+[2025.12.10-11.35.56:729][778]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=30.523
+[2025.12.10-11.35.56:755][779]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=37.124
+[2025.12.10-11.35.56:775][780]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=40.307
+[2025.12.10-11.35.56:794][781]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=42.897
+[2025.12.10-11.35.56:829][782]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=47.387
+[2025.12.10-11.35.56:858][783]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=50.807
+[2025.12.10-11.35.56:883][784]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=53.521
+[2025.12.10-11.35.56:909][785]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=56.101
+[2025.12.10-11.35.56:939][786]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=58.754
+[2025.12.10-11.35.56:970][787]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=61.114
+[2025.12.10-11.35.56:996][788]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=62.784
+[2025.12.10-11.35.57:031][789]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=64.572
+[2025.12.10-11.35.57:057][790]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=65.550
+[2025.12.10-11.35.57:077][791]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=66.096
+[2025.12.10-11.35.57:106][792]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=66.566
+[2025.12.10-11.35.57:135][793]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=66.652
+[2025.12.10-11.35.57:171][794]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=66.225
+[2025.12.10-11.35.57:204][795]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=65.317
+[2025.12.10-11.35.57:241][796]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=63.720
+[2025.12.10-11.35.57:277][797]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=61.659
+[2025.12.10-11.35.57:309][798]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=59.241
+[2025.12.10-11.35.57:341][799]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=56.567
+[2025.12.10-11.35.57:376][800]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=52.996
+[2025.12.10-11.35.57:404][801]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=49.892
+[2025.12.10-11.35.57:427][802]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=47.140
+[2025.12.10-11.35.57:456][803]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=43.429
+[2025.12.10-11.35.57:482][804]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=39.888
+[2025.12.10-11.35.57:510][805]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=35.869
+[2025.12.10-11.35.57:535][806]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=32.270
+[2025.12.10-11.35.57:563][807]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=27.752
+[2025.12.10-11.35.57:590][808]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.57:615][809]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.57:641][810]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.57:665][811]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.57:686][812]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.57:715][813]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.57:736][814]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.57:761][815]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.57:787][816]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.57:813][817]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.57:840][818]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.57:866][819]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.57:898][820]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.57:925][821]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.57:950][822]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.57:977][823]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.58:010][824]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.58:038][825]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.58:063][826]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.58:088][827]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.58:113][828]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.58:146][829]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.58:177][830]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.58:209][831]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.58:243][832]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.58:276][833]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.58:314][834]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.58:346][835]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.58:379][836]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.58:410][837]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.58:436][838]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-5.683
+[2025.12.10-11.35.58:462][839]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-10.693
+[2025.12.10-11.35.58:488][840]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-15.874
+[2025.12.10-11.35.58:511][841]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-20.643
+[2025.12.10-11.35.58:534][842]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-24.054
+[2025.12.10-11.35.58:561][843]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-28.155
+[2025.12.10-11.35.58:587][844]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-31.193
+[2025.12.10-11.35.58:610][845]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-33.545
+[2025.12.10-11.35.58:635][846]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-35.359
+[2025.12.10-11.35.58:659][847]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-36.394
+[2025.12.10-11.35.58:686][848]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-36.852
+[2025.12.10-11.35.58:711][849]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-35.722
+[2025.12.10-11.35.58:739][850]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-31.503
+[2025.12.10-11.35.58:764][851]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-27.752
+[2025.12.10-11.35.58:788][852]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-23.728
+[2025.12.10-11.35.58:810][853]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-20.103
+[2025.12.10-11.35.58:838][854]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-15.563
+[2025.12.10-11.35.58:861][855]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-11.462
+[2025.12.10-11.35.58:887][856]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-6.969
+[2025.12.10-11.35.58:911][857]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-2.792
+[2025.12.10-11.35.58:933][858]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=1.047
+[2025.12.10-11.35.58:955][859]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=4.883
+[2025.12.10-11.35.58:980][860]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=9.221
+[2025.12.10-11.35.59:002][861]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=13.006
+[2025.12.10-11.35.59:025][862]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=16.917
+[2025.12.10-11.35.59:050][863]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=21.098
+[2025.12.10-11.35.59:074][864]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=25.028
+[2025.12.10-11.35.59:099][865]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=29.015
+[2025.12.10-11.35.59:124][866]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=32.879
+[2025.12.10-11.35.59:152][867]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=37.038
+[2025.12.10-11.35.59:176][868]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=40.445
+[2025.12.10-11.35.59:244][869]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=49.073
+[2025.12.10-11.35.59:283][870]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=53.521
+[2025.12.10-11.35.59:327][871]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=57.735
+[2025.12.10-11.35.59:351][872]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=59.714
+[2025.12.10-11.35.59:377][873]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=61.592
+[2025.12.10-11.35.59:399][874]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=62.958
+[2025.12.10-11.35.59:425][875]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=64.304
+[2025.12.10-11.35.59:447][876]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=65.210
+[2025.12.10-11.35.59:469][877]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=65.873
+[2025.12.10-11.35.59:489][878]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=66.337
+[2025.12.10-11.35.59:510][879]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.59:531][880]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.59:564][881]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.59:585][882]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.59:608][883]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.59:637][884]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.59:660][885]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.59:683][886]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.59:711][887]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.59:736][888]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.59:756][889]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.59:781][890]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.59:807][891]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.59:840][892]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.59:864][893]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.59:892][894]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.59:919][895]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.59:940][896]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.59:963][897]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.35.59:992][898]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.00:026][899]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.00:061][900]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.00:066][900]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.011
+[2025.12.10-11.36.00:096][901]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.610
+[2025.12.10-11.36.00:096][901]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.00:138][902]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=2.349
+[2025.12.10-11.36.00:138][902]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.00:167][903]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=4.103
+[2025.12.10-11.36.00:167][903]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.00:195][904]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=6.197
+[2025.12.10-11.36.00:195][904]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.00:222][905]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=8.604
+[2025.12.10-11.36.00:222][905]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.00:254][906]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=11.880
+[2025.12.10-11.36.00:254][906]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.00:281][907]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=15.021
+[2025.12.10-11.36.00:281][907]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.00:309][908]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=18.515
+[2025.12.10-11.36.00:309][908]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.00:332][909]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=21.538
+[2025.12.10-11.36.00:333][909]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-2.586
+[2025.12.10-11.36.00:365][910]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=26.276
+[2025.12.10-11.36.00:365][910]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-7.448
+[2025.12.10-11.36.00:385][911]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=29.285
+[2025.12.10-11.36.00:385][911]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-10.915
+[2025.12.10-11.36.00:410][912]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=33.087
+[2025.12.10-11.36.00:410][912]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-15.626
+[2025.12.10-11.36.00:437][913]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=37.158
+[2025.12.10-11.36.00:437][913]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-21.152
+[2025.12.10-11.36.00:461][914]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=40.924
+[2025.12.10-11.36.00:461][914]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-26.441
+[2025.12.10-11.36.00:483][915]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=44.334
+[2025.12.10-11.36.00:483][915]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-31.604
+[2025.12.10-11.36.00:506][916]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=48.076
+[2025.12.10-11.36.00:506][916]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-37.638
+[2025.12.10-11.36.00:526][917]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=51.234
+[2025.12.10-11.36.00:526][917]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-42.955
+[2025.12.10-11.36.00:547][918]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=54.344
+[2025.12.10-11.36.00:547][918]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-48.396
+[2025.12.10-11.36.00:569][919]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=57.567
+[2025.12.10-11.36.00:569][919]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-54.308
+[2025.12.10-11.36.00:595][920]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=60.915
+[2025.12.10-11.36.00:595][920]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-60.814
+[2025.12.10-11.36.00:614][921]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=63.809
+[2025.12.10-11.36.00:614][921]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-63.771
+[2025.12.10-11.36.00:639][922]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=66.928
+[2025.12.10-11.36.00:640][922]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-64.905
+[2025.12.10-11.36.00:659][923]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=69.237
+[2025.12.10-11.36.00:660][923]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-65.644
+[2025.12.10-11.36.00:683][924]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=71.682
+[2025.12.10-11.36.00:683][924]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-66.225
+[2025.12.10-11.36.00:711][925]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.00:711][925]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-66.608
+[2025.12.10-11.36.00:730][926]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.00:730][926]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-66.665
+[2025.12.10-11.36.00:749][927]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.00:749][927]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-66.556
+[2025.12.10-11.36.00:769][928]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.00:769][928]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-66.264
+[2025.12.10-11.36.00:798][929]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.00:798][929]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-65.518
+[2025.12.10-11.36.00:821][930]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.00:821][930]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-64.658
+[2025.12.10-11.36.00:844][931]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.00:844][931]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-63.564
+[2025.12.10-11.36.00:865][932]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.00:865][932]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-62.363
+[2025.12.10-11.36.00:897][933]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.00:898][933]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-60.172
+[2025.12.10-11.36.00:924][934]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.00:924][934]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-57.995
+[2025.12.10-11.36.00:946][935]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.00:946][935]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-56.006
+[2025.12.10-11.36.00:973][936]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.00:973][936]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-53.312
+[2025.12.10-11.36.00:998][937]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.00:998][937]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-50.580
+[2025.12.10-11.36.01:027][938]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=3.695
+[2025.12.10-11.36.01:027][938]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-47.140
+[2025.12.10-11.36.01:068][939]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=7.926
+[2025.12.10-11.36.01:068][939]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-41.819
+[2025.12.10-11.36.01:102][940]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=9.725
+[2025.12.10-11.36.01:102][940]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-37.038
+[2025.12.10-11.36.01:128][941]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=10.385
+[2025.12.10-11.36.01:128][941]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-33.182
+[2025.12.10-11.36.01:167][942]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=9.716
+[2025.12.10-11.36.01:167][942]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-27.116
+[2025.12.10-11.36.01:203][943]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=7.496
+[2025.12.10-11.36.01:203][943]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.01:240][944]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=3.613
+[2025.12.10-11.36.01:240][944]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.01:267][945]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=-0.321
+[2025.12.10-11.36.01:268][945]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.01:300][946]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=-6.100
+[2025.12.10-11.36.01:300][946]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.01:326][947]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.01:326][947]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.01:348][948]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.01:348][948]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.01:373][949]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.01:373][949]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.01:407][950]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.01:407][950]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.01:434][951]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.01:435][951]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.01:454][952]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.01:454][952]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.01:476][953]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.01:476][953]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.01:503][954]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.01:503][954]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.01:524][955]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.01:524][955]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.01:548][956]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.01:548][956]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.01:574][957]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.01:574][957]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.01:601][958]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.01:601][958]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.01:626][959]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.01:626][959]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.01:648][960]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.01:648][960]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.01:672][961]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.01:672][961]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.01:705][962]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.01:705][962]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.01:729][963]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.01:730][963]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.01:757][964]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.01:757][964]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.01:782][965]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.01:782][965]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.01:808][966]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.01:808][966]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.01:833][967]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.01:833][967]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.01:861][968]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.01:861][968]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.01:897][969]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.01:897][969]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.01:930][970]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.01:930][970]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.01:958][971]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.01:958][971]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.01:987][972]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.01:987][972]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.02:014][973]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.02:014][973]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.02:044][974]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.02:044][974]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=6.223
+[2025.12.10-11.36.02:071][975]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.02:071][975]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=11.504
+[2025.12.10-11.36.02:104][976]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.02:104][976]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=18.236
+[2025.12.10-11.36.02:133][977]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.02:133][977]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=23.031
+[2025.12.10-11.36.02:167][978]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=-5.441
+[2025.12.10-11.36.02:167][978]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=27.956
+[2025.12.10-11.36.02:203][979]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=-9.935
+[2025.12.10-11.36.02:203][979]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=31.899
+[2025.12.10-11.36.02:240][980]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=-13.446
+[2025.12.10-11.36.02:240][980]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=34.843
+[2025.12.10-11.36.02:279][981]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=-15.467
+[2025.12.10-11.36.02:279][981]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=36.212
+[2025.12.10-11.36.02:315][982]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=-15.814
+[2025.12.10-11.36.02:316][982]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=35.130
+[2025.12.10-11.36.02:349][983]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=-14.755
+[2025.12.10-11.36.02:350][983]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=29.955
+[2025.12.10-11.36.02:386][984]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=-11.767
+[2025.12.10-11.36.02:386][984]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=24.054
+[2025.12.10-11.36.02:411][985]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=-8.948
+[2025.12.10-11.36.02:411][985]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=19.936
+[2025.12.10-11.36.02:434][986]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=-5.405
+[2025.12.10-11.36.02:434][986]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=16.072
+[2025.12.10-11.36.02:455][987]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=-1.745
+[2025.12.10-11.36.02:456][987]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=12.492
+[2025.12.10-11.36.02:480][988]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=2.617
+[2025.12.10-11.36.02:480][988]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=8.182
+[2025.12.10-11.36.02:503][989]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=6.621
+[2025.12.10-11.36.02:503][989]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=4.186
+[2025.12.10-11.36.02:530][990]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=11.290
+[2025.12.10-11.36.02:530][990]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-0.524
+[2025.12.10-11.36.02:554][991]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=15.393
+[2025.12.10-11.36.02:555][991]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-4.708
+[2025.12.10-11.36.02:580][992]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=19.769
+[2025.12.10-11.36.02:580][992]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-9.221
+[2025.12.10-11.36.02:605][993]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=23.891
+[2025.12.10-11.36.02:605][993]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-13.519
+[2025.12.10-11.36.02:630][994]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=27.911
+[2025.12.10-11.36.02:630][994]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-17.760
+[2025.12.10-11.36.02:660][995]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=32.575
+[2025.12.10-11.36.02:660][995]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-22.747
+[2025.12.10-11.36.02:686][996]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=36.456
+[2025.12.10-11.36.02:686][996]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-26.956
+[2025.12.10-11.36.02:706][997]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=39.327
+[2025.12.10-11.36.02:706][997]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-30.110
+[2025.12.10-11.36.02:728][998]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=42.360
+[2025.12.10-11.36.02:729][998]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-33.484
+[2025.12.10-11.36.02:751][999]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=45.253
+[2025.12.10-11.36.02:751][999]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-36.893
+[2025.12.10-11.36.02:775][  0]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=48.358
+[2025.12.10-11.36.02:775][  0]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-40.307
+[2025.12.10-11.36.02:810][  1]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=52.354
+[2025.12.10-11.36.02:810][  1]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-44.996
+[2025.12.10-11.36.02:839][  2]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=55.334
+[2025.12.10-11.36.02:839][  2]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-48.598
+[2025.12.10-11.36.02:860][  3]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=57.294
+[2025.12.10-11.36.02:860][  3]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-51.032
+[2025.12.10-11.36.02:885][  4]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=59.400
+[2025.12.10-11.36.02:885][  4]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-53.729
+[2025.12.10-11.36.02:906][  5]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=60.974
+[2025.12.10-11.36.02:907][  5]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-55.816
+[2025.12.10-11.36.02:933][  6]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=62.666
+[2025.12.10-11.36.02:933][  6]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-58.251
+[2025.12.10-11.36.02:957][  7]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=64.020
+[2025.12.10-11.36.02:957][  7]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-60.172
+[2025.12.10-11.36.02:983][  8]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=65.136
+[2025.12.10-11.36.02:983][  8]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-61.985
+[2025.12.10-11.36.03:019][  9]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=66.184
+[2025.12.10-11.36.03:019][  9]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-64.020
+[2025.12.10-11.36.03:045][ 10]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=66.575
+[2025.12.10-11.36.03:045][ 10]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-65.136
+[2025.12.10-11.36.03:066][ 11]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=66.666
+[2025.12.10-11.36.03:066][ 11]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-65.818
+[2025.12.10-11.36.03:090][ 12]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=66.524
+[2025.12.10-11.36.03:090][ 12]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-66.354
+[2025.12.10-11.36.03:110][ 13]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=66.205
+[2025.12.10-11.36.03:110][ 13]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-66.601
+[2025.12.10-11.36.03:130][ 14]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=65.704
+[2025.12.10-11.36.03:131][ 14]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.03:157][ 15]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=64.742
+[2025.12.10-11.36.03:158][ 15]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.03:190][ 16]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.03:190][ 16]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.03:218][ 17]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.03:218][ 17]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.03:250][ 18]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.03:250][ 18]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.03:282][ 19]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.03:282][ 19]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.03:316][ 20]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.03:316][ 20]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.03:345][ 21]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.03:345][ 21]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.03:375][ 22]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.03:375][ 22]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.03:403][ 23]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.03:403][ 23]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.03:435][ 24]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.03:435][ 24]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.03:460][ 25]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.03:460][ 25]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.03:491][ 26]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.03:491][ 26]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.03:517][ 27]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.03:517][ 27]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.03:540][ 28]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.03:540][ 28]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.03:561][ 29]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.03:561][ 29]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.03:586][ 30]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.03:587][ 30]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.03:613][ 31]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.03:613][ 31]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.03:643][ 32]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.03:643][ 32]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.03:668][ 33]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.03:668][ 33]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.03:694][ 34]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.03:694][ 34]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.03:725][ 35]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.03:725][ 35]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.03:748][ 36]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.03:748][ 36]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.03:768][ 37]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.03:769][ 37]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.03:792][ 38]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.03:793][ 38]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.03:813][ 39]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.03:813][ 39]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.03:837][ 40]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.03:838][ 40]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.03:860][ 41]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.03:860][ 41]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.03:886][ 42]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.03:886][ 42]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.03:910][ 43]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.03:910][ 43]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.03:933][ 44]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.03:933][ 44]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.03:951][ 45]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.03:951][ 45]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.03:971][ 46]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.03:971][ 46]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.03:993][ 47]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=-3.837
+[2025.12.10-11.36.03:993][ 47]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.04:018][ 48]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=-8.541
+[2025.12.10-11.36.04:018][ 48]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.04:046][ 49]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=-14.299
+[2025.12.10-11.36.04:046][ 49]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.04:080][ 50]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=-22.018
+[2025.12.10-11.36.04:080][ 50]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.04:100][ 51]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=-27.013
+[2025.12.10-11.36.04:100][ 51]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.04:127][ 52]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=-33.215
+[2025.12.10-11.36.04:127][ 52]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.04:168][ 53]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=-43.192
+[2025.12.10-11.36.04:168][ 53]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.04:200][ 54]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=-51.158
+[2025.12.10-11.36.04:200][ 54]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.04:231][ 55]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=-58.419
+[2025.12.10-11.36.04:231][ 55]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.04:267][ 56]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=-66.666
+[2025.12.10-11.36.04:267][ 56]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.04:295][ 57]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=-66.461
+[2025.12.10-11.36.04:295][ 57]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.04:332][ 58]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=-65.644
+[2025.12.10-11.36.04:332][ 58]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.04:364][ 59]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=-64.485
+[2025.12.10-11.36.04:364][ 59]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.04:398][ 60]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=-62.725
+[2025.12.10-11.36.04:398][ 60]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.04:429][ 61]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=-60.616
+[2025.12.10-11.36.04:429][ 61]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.04:459][ 62]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=-58.251
+[2025.12.10-11.36.04:459][ 62]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.04:481][ 63]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=-56.289
+[2025.12.10-11.36.04:481][ 63]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.04:505][ 64]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=-53.934
+[2025.12.10-11.36.04:506][ 64]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.04:534][ 65]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=-50.807
+[2025.12.10-11.36.04:534][ 65]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.04:566][ 66]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=-47.017
+[2025.12.10-11.36.04:566][ 66]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.04:598][ 67]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=-42.897
+[2025.12.10-11.36.04:598][ 67]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.04:621][ 68]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=-39.748
+[2025.12.10-11.36.04:621][ 68]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.04:649][ 69]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=-35.722
+[2025.12.10-11.36.04:649][ 69]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.04:670][ 70]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=-32.575
+[2025.12.10-11.36.04:670][ 70]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.04:691][ 71]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=-29.329
+[2025.12.10-11.36.04:691][ 71]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.04:718][ 72]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=-25.028
+[2025.12.10-11.36.04:718][ 72]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.04:738][ 73]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=-21.760
+[2025.12.10-11.36.04:738][ 73]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.04:769][ 74]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=-16.579
+[2025.12.10-11.36.04:769][ 74]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.04:793][ 75]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=-12.492
+[2025.12.10-11.36.04:793][ 75]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.04:815][ 76]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=-8.702
+[2025.12.10-11.36.04:815][ 76]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.04:840][ 77]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=-4.360
+[2025.12.10-11.36.04:840][ 77]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.04:867][ 78]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.349
+[2025.12.10-11.36.04:867][ 78]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.983
+[2025.12.10-11.36.04:891][ 79]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=4.360
+[2025.12.10-11.36.04:891][ 79]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=1.122
+[2025.12.10-11.36.04:915][ 80]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=8.702
+[2025.12.10-11.36.04:915][ 80]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.530
+[2025.12.10-11.36.04:939][ 81]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=12.835
+[2025.12.10-11.36.04:939][ 81]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-0.720
+[2025.12.10-11.36.04:962][ 82]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=16.748
+[2025.12.10-11.36.04:962][ 82]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-2.550
+[2025.12.10-11.36.04:984][ 83]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=20.435
+[2025.12.10-11.36.04:984][ 83]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-4.871
+[2025.12.10-11.36.05:013][ 84]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=25.189
+[2025.12.10-11.36.05:013][ 84]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-8.765
+[2025.12.10-11.36.05:036][ 85]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=28.858
+[2025.12.10-11.36.05:036][ 85]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-12.541
+[2025.12.10-11.36.05:067][ 86]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.05:067][ 86]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-18.497
+[2025.12.10-11.36.05:094][ 87]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.05:094][ 87]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-24.421
+[2025.12.10-11.36.05:120][ 88]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.05:120][ 88]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-31.010
+[2025.12.10-11.36.05:143][ 89]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.05:143][ 89]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-35.722
+[2025.12.10-11.36.05:174][ 90]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.05:174][ 90]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-40.167
+[2025.12.10-11.36.05:222][ 91]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.05:222][ 91]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-46.519
+[2025.12.10-11.36.05:257][ 92]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.05:257][ 92]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-50.694
+[2025.12.10-11.36.05:290][ 93]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.05:290][ 93]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-54.241
+[2025.12.10-11.36.05:325][ 94]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.05:325][ 94]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-57.560
+[2025.12.10-11.36.05:357][ 95]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.05:357][ 95]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-60.172
+[2025.12.10-11.36.05:392][ 96]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.05:392][ 96]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-62.546
+[2025.12.10-11.36.05:421][ 97]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.05:421][ 97]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-64.116
+[2025.12.10-11.36.05:448][ 98]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.05:448][ 98]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-65.246
+[2025.12.10-11.36.05:470][ 99]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.05:470][ 99]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-65.926
+[2025.12.10-11.36.05:494][100]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.05:494][100]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-66.403
+[2025.12.10-11.36.05:522][101]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.05:522][101]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-66.661
+[2025.12.10-11.36.05:540][102]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.05:540][102]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-66.628
+[2025.12.10-11.36.05:565][103]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.05:565][103]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-66.337
+[2025.12.10-11.36.05:593][104]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.05:593][104]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-65.674
+[2025.12.10-11.36.05:620][105]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.05:620][105]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-64.700
+[2025.12.10-11.36.05:652][106]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.05:652][106]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-63.129
+[2025.12.10-11.36.05:675][107]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.05:675][107]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-61.725
+[2025.12.10-11.36.05:700][108]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.05:700][108]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-59.945
+[2025.12.10-11.36.05:727][109]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.05:727][109]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-57.735
+[2025.12.10-11.36.05:754][110]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.05:754][110]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-55.237
+[2025.12.10-11.36.05:773][111]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.05:773][111]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-53.312
+[2025.12.10-11.36.05:797][112]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.05:797][112]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.05:820][113]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.05:820][113]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.05:842][114]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.05:842][114]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.05:865][115]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=2.657
+[2025.12.10-11.36.05:865][115]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.05:893][116]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=4.858
+[2025.12.10-11.36.05:893][116]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.05:920][117]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=6.569
+[2025.12.10-11.36.05:920][117]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.05:944][118]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=7.190
+[2025.12.10-11.36.05:944][118]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.05:965][119]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=7.218
+[2025.12.10-11.36.05:965][119]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.05:996][120]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=6.282
+[2025.12.10-11.36.05:996][120]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.06:020][121]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=4.737
+[2025.12.10-11.36.06:020][121]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.06:045][122]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=2.384
+[2025.12.10-11.36.06:045][122]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.06:070][123]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=-0.676
+[2025.12.10-11.36.06:070][123]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.06:094][124]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=-4.338
+[2025.12.10-11.36.06:094][124]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.06:118][125]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=-8.683
+[2025.12.10-11.36.06:119][125]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.06:143][126]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=-13.519
+[2025.12.10-11.36.06:143][126]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.06:173][127]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=-18.264
+[2025.12.10-11.36.06:173][127]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.06:205][128]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=-23.891
+[2025.12.10-11.36.06:205][128]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.06:236][129]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=-28.858
+[2025.12.10-11.36.06:236][129]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.06:267][130]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=-33.635
+[2025.12.10-11.36.06:267][130]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.06:301][131]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=-38.619
+[2025.12.10-11.36.06:301][131]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.06:329][132]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=-42.495
+[2025.12.10-11.36.06:329][132]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.06:364][133]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=-47.017
+[2025.12.10-11.36.06:364][133]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.06:394][134]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=-50.580
+[2025.12.10-11.36.06:394][134]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.06:425][135]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=-53.934
+[2025.12.10-11.36.06:426][135]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.06:458][136]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=-57.024
+[2025.12.10-11.36.06:458][136]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.06:482][137]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=-59.080
+[2025.12.10-11.36.06:482][137]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.06:508][138]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=-61.044
+[2025.12.10-11.36.06:509][138]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.06:533][139]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=-62.725
+[2025.12.10-11.36.06:534][139]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.06:556][140]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=-63.971
+[2025.12.10-11.36.06:556][140]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.06:575][141]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=-64.825
+[2025.12.10-11.36.06:575][141]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.06:598][142]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=-65.644
+[2025.12.10-11.36.06:598][142]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=5.169
+[2025.12.10-11.36.06:635][143]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=-66.461
+[2025.12.10-11.36.06:635][143]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=13.767
+[2025.12.10-11.36.06:659][144]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=-66.658
+[2025.12.10-11.36.06:659][144]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=19.190
+[2025.12.10-11.36.06:683][145]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=-66.593
+[2025.12.10-11.36.06:683][145]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=24.846
+[2025.12.10-11.36.06:713][146]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=-66.141
+[2025.12.10-11.36.06:713][146]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=31.850
+[2025.12.10-11.36.06:739][147]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=-65.420
+[2025.12.10-11.36.06:739][147]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=37.962
+[2025.12.10-11.36.06:761][148]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=-64.615
+[2025.12.10-11.36.06:761][148]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=42.751
+[2025.12.10-11.36.06:787][149]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=-63.295
+[2025.12.10-11.36.06:787][149]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=48.265
+[2025.12.10-11.36.06:810][150]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=-61.921
+[2025.12.10-11.36.06:810][150]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=52.667
+[2025.12.10-11.36.06:833][151]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=-60.322
+[2025.12.10-11.36.06:834][151]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=57.162
+[2025.12.10-11.36.06:864][152]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=-57.909
+[2025.12.10-11.36.06:864][152]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=61.870
+[2025.12.10-11.36.06:886][153]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=-55.816
+[2025.12.10-11.36.06:886][153]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=60.974
+[2025.12.10-11.36.06:890][153]LogBlueprintUserMessages: [BP_animal__C_2] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.06:913][154]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=-53.102
+[2025.12.10-11.36.06:913][154]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=58.918
+[2025.12.10-11.36.06:913][154]LogBlueprintUserMessages: [BP_animal__C_2] X=0.000 Y=0.000 Z=0.328
+[2025.12.10-11.36.06:942][155]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=-49.892
+[2025.12.10-11.36.06:942][155]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=56.382
+[2025.12.10-11.36.06:942][155]LogBlueprintUserMessages: [BP_animal__C_2] X=0.000 Y=0.000 Z=1.149
+[2025.12.10-11.36.06:970][156]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.06:970][156]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=53.625
+[2025.12.10-11.36.06:970][156]LogBlueprintUserMessages: [BP_animal__C_2] X=0.000 Y=0.000 Z=2.401
+[2025.12.10-11.36.07:003][157]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.07:004][157]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=49.892
+[2025.12.10-11.36.07:004][157]LogBlueprintUserMessages: [BP_animal__C_2] X=0.000 Y=0.000 Z=4.484
+[2025.12.10-11.36.07:037][158]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.07:037][158]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=46.017
+[2025.12.10-11.36.07:037][158]LogBlueprintUserMessages: [BP_animal__C_2] X=0.000 Y=0.000 Z=7.026
+[2025.12.10-11.36.07:076][159]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.07:076][159]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=40.722
+[2025.12.10-11.36.07:076][159]LogBlueprintUserMessages: [BP_animal__C_2] X=0.000 Y=0.000 Z=10.868
+[2025.12.10-11.36.07:103][160]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.07:103][160]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=36.893
+[2025.12.10-11.36.07:103][160]LogBlueprintUserMessages: [BP_animal__C_2] X=0.000 Y=0.000 Z=13.805
+[2025.12.10-11.36.07:123][161]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.07:123][161]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=33.936
+[2025.12.10-11.36.07:123][161]LogBlueprintUserMessages: [BP_animal__C_2] X=0.000 Y=0.000 Z=16.214
+[2025.12.10-11.36.07:149][162]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.07:149][162]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=29.955
+[2025.12.10-11.36.07:149][162]LogBlueprintUserMessages: [BP_animal__C_2] X=0.000 Y=0.000 Z=19.544
+[2025.12.10-11.36.07:177][163]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.07:177][163]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=25.512
+[2025.12.10-11.36.07:177][163]LogBlueprintUserMessages: [BP_animal__C_2] X=0.000 Y=0.000 Z=23.371
+[2025.12.10-11.36.07:203][164]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.07:203][164]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=21.429
+[2025.12.10-11.36.07:203][164]LogBlueprintUserMessages: [BP_animal__C_2] X=0.000 Y=0.000 Z=27.018
+[2025.12.10-11.36.07:236][165]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.07:236][165]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=15.733
+[2025.12.10-11.36.07:236][165]LogBlueprintUserMessages: [BP_animal__C_2] X=0.000 Y=0.000 Z=31.955
+[2025.12.10-11.36.07:270][166]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.07:270][166]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=9.911
+[2025.12.10-11.36.07:270][166]LogBlueprintUserMessages: [BP_animal__C_2] X=0.000 Y=0.000 Z=37.138
+[2025.12.10-11.36.07:296][167]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.07:296][167]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=5.405
+[2025.12.10-11.36.07:296][167]LogBlueprintUserMessages: [BP_animal__C_2] X=0.000 Y=0.000 Z=41.212
+[2025.12.10-11.36.07:325][168]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.07:325][168]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.349
+[2025.12.10-11.36.07:325][168]LogBlueprintUserMessages: [BP_animal__C_2] X=0.000 Y=0.000 Z=45.504
+[2025.12.10-11.36.07:349][169]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.07:349][169]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-3.838
+[2025.12.10-11.36.07:349][169]LogBlueprintUserMessages: [BP_animal__C_2] X=0.000 Y=0.000 Z=49.321
+[2025.12.10-11.36.07:381][170]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.07:381][170]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-9.393
+[2025.12.10-11.36.07:381][170]LogBlueprintUserMessages: [BP_animal__C_2] X=0.000 Y=0.000 Z=54.208
+[2025.12.10-11.36.07:403][171]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.07:403][171]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-13.177
+[2025.12.10-11.36.07:403][171]LogBlueprintUserMessages: [BP_animal__C_2] X=0.000 Y=0.000 Z=57.331
+[2025.12.10-11.36.07:426][172]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.07:427][172]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-17.255
+[2025.12.10-11.36.07:427][172]LogBlueprintUserMessages: [BP_animal__C_2] X=0.000 Y=0.000 Z=60.471
+[2025.12.10-11.36.07:455][173]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.07:455][173]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-21.924
+[2025.12.10-11.36.07:455][173]LogBlueprintUserMessages: [BP_animal__C_2] X=0.000 Y=0.000 Z=64.115
+[2025.12.10-11.36.07:476][174]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.07:476][174]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-25.351
+[2025.12.10-11.36.07:476][174]LogBlueprintUserMessages: [BP_animal__C_2] X=0.000 Y=0.000 Z=66.638
+[2025.12.10-11.36.07:507][175]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.07:507][175]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-30.266
+[2025.12.10-11.36.07:507][175]LogBlueprintUserMessages: [BP_animal__C_2] X=0.000 Y=0.000 Z=69.875
+[2025.12.10-11.36.07:528][176]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.07:528][176]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-33.484
+[2025.12.10-11.36.07:528][176]LogBlueprintUserMessages: [BP_animal__C_2] X=0.000 Y=0.000 Z=72.069
+[2025.12.10-11.36.07:553][177]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.07:553][177]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-37.183
+[2025.12.10-11.36.07:553][177]LogBlueprintUserMessages: [BP_animal__C_2] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.07:588][178]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.07:588][178]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-42.090
+[2025.12.10-11.36.07:588][178]LogBlueprintUserMessages: [BP_animal__C_2] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.07:612][179]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.07:612][179]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-45.253
+[2025.12.10-11.36.07:612][179]LogBlueprintUserMessages: [BP_animal__C_2] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.07:636][180]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.07:636][180]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-48.238
+[2025.12.10-11.36.07:636][180]LogBlueprintUserMessages: [BP_animal__C_2] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.07:660][181]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.07:660][181]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=-51.032
+[2025.12.10-11.36.07:660][181]LogBlueprintUserMessages: [BP_animal__C_2] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.07:678][182]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.07:678][182]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.07:678][182]LogBlueprintUserMessages: [BP_animal__C_2] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.07:703][183]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.07:703][183]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.07:703][183]LogBlueprintUserMessages: [BP_animal__C_2] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.07:733][184]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.07:733][184]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.07:733][184]LogBlueprintUserMessages: [BP_animal__C_2] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.07:756][185]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.07:756][185]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.07:756][185]LogBlueprintUserMessages: [BP_animal__C_2] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.07:783][186]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=5.773
+[2025.12.10-11.36.07:783][186]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.07:783][186]LogBlueprintUserMessages: [BP_animal__C_2] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.07:805][187]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=11.137
+[2025.12.10-11.36.07:805][187]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.07:805][187]LogBlueprintUserMessages: [BP_animal__C_2] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.07:827][188]LogBlueprintUserMessages: [BP_animal__C_1] X=0.000 Y=0.000 Z=15.978
+[2025.12.10-11.36.07:827][188]LogBlueprintUserMessages: [BP_animal__C_0] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.07:827][188]LogBlueprintUserMessages: [BP_animal__C_2] X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.36.07:864][188]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.10-11.36.07:864][188]LogWorld: BeginTearingDown for /Game/main_level/UEDPIE_0_L_main
+[2025.12.10-11.36.07:864][188]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.12.10-11.36.07:864][188]LogSlate: Window 'VerticalJam2025 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.12.10-11.36.07:884][188]LogWorld: UWorld::CleanupWorld for L_main, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-11.36.07:884][188]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-11.36.07:889][188]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.10-11.36.07:903][188]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-11.36.07:944][188]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2025.12.10-11.36.07:944][188]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17, StreamState=4
+[2025.12.10-11.36.07:949][188]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17, StreamState=2
+[2025.12.10-11.36.07:964][188]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2025.12.10-11.36.08:022][189]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2025.12.10-11.36.19:855][836]LogEditorTransaction: Undo Edit Target Arm Length
+[2025.12.10-11.36.21:478][905]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.12.10-11.36.21:487][905]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-11.36.21:585][905]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDown/Blueprints/BP_TopDownCharacter] ([2] browsable assets)...
+[2025.12.10-11.36.21:600][905]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDown/Blueprints/BP_TopDownCharacter.BP_TopDownCharacter]
+[2025.12.10-11.36.21:600][905]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/BP_TopDownCharacter]
+[2025.12.10-11.36.21:641][905]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_TopDownCharacter
+[2025.12.10-11.36.21:644][905]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/BP_TopDownCharacterB31F16A74C722388580F7CA1B0F5037D.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset'
+[2025.12.10-11.36.21:665][905]LogFileHelpers: InternalPromptForCheckoutAndSave took 178.420 ms (total: 2.65 sec)
+[2025.12.10-11.36.21:736][905]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-11.36.21:736][905]LogContentValidation: Enabled validators:
+[2025.12.10-11.36.21:736][905]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-11.36.21:736][905]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-11.36.21:736][905]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-11.36.21:736][905]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-11.36.21:736][905]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-11.36.21:736][905]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-11.36.21:736][905]AssetCheck: /Game/TopDown/Blueprints/BP_TopDownCharacter Validating asset
+[2025.12.10-11.37.36:246][261]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2394.530273
+[2025.12.10-11.37.36:428][271]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-11.37.36:428][271]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2394.695312, Update Interval: 357.099518
+[2025.12.10-11.37.43:782][690]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.12.10-11.37.43:782][690]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-11.37.43:783][690]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-11.37.43:864][690]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.12.10-11.37.47:327][870]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-11.37.47:327][870]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-11.37.47:391][870]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2025.12.10-11.37.47:890][896]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.12.10-11.37.47:890][896]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-11.37.47:890][896]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-11.37.47:957][896]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.12.10-11.37.48:231][909]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.12.10-11.37.48:231][909]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-11.37.48:232][909]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-11.37.48:308][909]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2025.12.10-11.37.48:574][922]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.12.10-11.37.48:574][922]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-11.37.48:574][922]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-11.37.48:648][922]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2025.12.10-11.37.49:096][946]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.12.10-11.37.49:096][946]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-11.37.49:096][946]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-11.37.49:181][946]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2025.12.10-11.44.07:009][614]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2785.283447
+[2025.12.10-11.44.07:178][623]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-11.44.07:178][623]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2785.432617, Update Interval: 342.672211
+[2025.12.10-11.45.04:155][407]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/main_menu/UW_mainMenu.UW_mainMenu
+[2025.12.10-11.45.04:157][407]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2025.12.10-11.45.04:168][407]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2025.12.10-11.45.04:176][407]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2025.12.10-11.45.04:818][407]LogSlate: Took 0.008691 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.12.10-11.45.17:447][ 98]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/audio/Lib_audio.Lib_audio
+[2025.12.10-11.45.17:448][ 98]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2025.12.10-11.45.25:081][509]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-11.45.25:188][509]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/audio/Lib_audio] ([2] browsable assets)...
+[2025.12.10-11.45.25:188][509]OBJ SavePackage: Finished generating thumbnails for package [/Game/audio/Lib_audio]
+[2025.12.10-11.45.25:203][509]LogSavePackage: Moving output files for package: /Game/audio/Lib_audio
+[2025.12.10-11.45.25:204][509]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/Lib_audioF42D31D848CCDEB25EDC5C80E77793D1.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/audio/Lib_audio.uasset'
+[2025.12.10-11.45.25:220][509]LogFileHelpers: InternalPromptForCheckoutAndSave took 137.813 ms (total: 2.79 sec)
+[2025.12.10-11.45.25:297][509]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-11.45.25:297][509]LogContentValidation: Enabled validators:
+[2025.12.10-11.45.25:297][509]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-11.45.25:297][509]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-11.45.25:298][509]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-11.45.25:298][509]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-11.45.25:298][509]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-11.45.25:298][509]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-11.45.25:298][509]AssetCheck: /Game/audio/Lib_audio Validating asset
+[2025.12.10-11.45.25:339][509]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.10-11.45.49:375][808]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2025.12.10-11.45.49:383][808]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-11.45.49:447][808]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/audio/Lib_audio] ([2] browsable assets)...
+[2025.12.10-11.45.49:447][808]OBJ SavePackage: Finished generating thumbnails for package [/Game/audio/Lib_audio]
+[2025.12.10-11.45.49:460][808]LogSavePackage: Moving output files for package: /Game/audio/Lib_audio
+[2025.12.10-11.45.49:461][808]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/Lib_audio4B023FC14DD56667AD640B9ABB12A2F1.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/audio/Lib_audio.uasset'
+[2025.12.10-11.45.49:475][808]LogFileHelpers: InternalPromptForCheckoutAndSave took 92.044 ms (total: 2.88 sec)
+[2025.12.10-11.45.49:551][808]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-11.45.49:551][808]LogContentValidation: Enabled validators:
+[2025.12.10-11.45.49:551][808]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-11.45.49:551][808]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-11.45.49:551][808]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-11.45.49:551][808]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-11.45.49:551][808]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-11.45.49:551][808]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-11.45.49:552][808]AssetCheck: /Game/audio/Lib_audio Validating asset
+[2025.12.10-11.45.54:042][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2025.12.10-11.45.54:047][ 73]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-11.45.54:119][ 73]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/audio/Lib_audio] ([2] browsable assets)...
+[2025.12.10-11.45.54:119][ 73]OBJ SavePackage: Finished generating thumbnails for package [/Game/audio/Lib_audio]
+[2025.12.10-11.45.54:131][ 73]LogSavePackage: Moving output files for package: /Game/audio/Lib_audio
+[2025.12.10-11.45.54:132][ 73]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/Lib_audioE5E07E01411A2EE8B11C8CA5CF2A8060.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/audio/Lib_audio.uasset'
+[2025.12.10-11.45.54:146][ 73]LogFileHelpers: InternalPromptForCheckoutAndSave took 98.498 ms (total: 2.98 sec)
+[2025.12.10-11.45.54:206][ 73]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-11.45.54:206][ 73]LogContentValidation: Enabled validators:
+[2025.12.10-11.45.54:206][ 73]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-11.45.54:206][ 73]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-11.45.54:206][ 73]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-11.45.54:206][ 73]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-11.45.54:206][ 73]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-11.45.54:206][ 73]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-11.45.54:207][ 73]AssetCheck: /Game/audio/Lib_audio Validating asset
+[2025.12.10-11.45.55:908][171]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.12.10-11.45.57:215][246]LogSlate: Window 'Lib_audio' being destroyed
+[2025.12.10-11.45.57:245][246]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-11.45.57:245][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-11.45.57:320][246]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.12.10-11.46.24:042][777]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2025.12.10-11.46.24:050][777]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-11.46.24:138][777]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/main_menu/UW_mainMenu] ([2] browsable assets)...
+[2025.12.10-11.46.24:148][777]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/main_menu/UW_mainMenu.UW_mainMenu]
+[2025.12.10-11.46.24:148][777]OBJ SavePackage: Finished generating thumbnails for package [/Game/main_menu/UW_mainMenu]
+[2025.12.10-11.46.24:168][777]LogSavePackage: Moving output files for package: /Game/main_menu/UW_mainMenu
+[2025.12.10-11.46.24:169][777]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/UW_mainMenu4FC3A1164A817F9312FA5290CC51D9F7.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/main_menu/UW_mainMenu.uasset'
+[2025.12.10-11.46.24:182][777]LogFileHelpers: InternalPromptForCheckoutAndSave took 131.263 ms (total: 3.11 sec)
+[2025.12.10-11.46.24:254][777]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-11.46.24:254][777]LogContentValidation: Enabled validators:
+[2025.12.10-11.46.24:254][777]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-11.46.24:254][777]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-11.46.24:254][777]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-11.46.24:254][777]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-11.46.24:254][777]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-11.46.24:254][777]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-11.46.24:255][777]AssetCheck: /Game/main_menu/UW_mainMenu Validating asset
+[2025.12.10-11.46.24:275][777]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.10-11.47.57:381][420]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.12.10-11.48.07:644][969]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.12.10-11.48.07:647][969]Cmd: MAP LOAD FILE="../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/main_menu/L_mainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.12.10-11.48.07:680][969]LogWorld: UWorld::CleanupWorld for L_main, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-11.48.07:680][969]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.12.10-11.48.07:680][969]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-11.48.07:710][969]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.10-11.48.07:713][969]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.12.10-11.48.07:715][969]LogStreaming: Display: FlushAsyncLoading(518): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.10-11.48.07:717][969]LogAudio: Display: Audio Device (ID: 1) registered with world 'L_mainMenu'.
+[2025.12.10-11.48.07:717][969]LogChaosDD: Creating Chaos Debug Draw Scene for world L_mainMenu
+[2025.12.10-11.48.07:745][969]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.12.10-11.48.07:775][969]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2025.12.10-11.48.07:788][969]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.12.10-11.48.07:788][969]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.104ms to complete.
+[2025.12.10-11.48.07:789][969]LogSlate: Window 'Open Level' being destroyed
+[2025.12.10-11.48.07:837][969]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.12.10-11.48.38:133][318]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.12.10-11.48.38:144][318]LogPlayLevel: [PlayLevel] Compiling UW_mainMenu before play...
+[2025.12.10-11.48.38:220][318]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2025.12.10-11.48.38:228][318]LogPlayLevel: PlayLevel: Blueprint regeneration took 85 ms (1 blueprints)
+[2025.12.10-11.48.38:228][318]LogPlayLevel: Creating play world package: /Game/main_menu/UEDPIE_0_L_mainMenu
+[2025.12.10-11.48.38:229][318]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001016s)
+[2025.12.10-11.48.38:229][318]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/main_menu/L_mainMenu.L_mainMenu to /Game/main_menu/UEDPIE_0_L_mainMenu.L_mainMenu (0.001068s)
+[2025.12.10-11.48.38:265][318]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2025.12.10-11.48.38:268][318]LogChaosDD: Creating Chaos Debug Draw Scene for world L_mainMenu
+[2025.12.10-11.48.38:271][318]LogPlayLevel: PIE: World Init took: (0.002997s)
+[2025.12.10-11.48.38:272][318]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2025.12.10-11.48.38:272][318]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.10-11.48.38:272][318]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.10-11.48.38:272][318]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.10-11.48.38:272][318]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.10-11.48.38:272][318]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.10-11.48.38:272][318]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.10-11.48.38:272][318]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.10-11.48.38:272][318]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.10-11.48.38:272][318]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.10-11.48.38:272][318]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.10-11.48.38:272][318]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.10-11.48.38:274][318]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.10-11.48.38:320][318]LogAudioMixer: Display: Using Audio Hardware Device Speakers (USB Audio)
+[2025.12.10-11.48.38:321][318]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.10-11.48.38:321][318]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.10-11.48.38:321][318]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.10-11.48.38:322][318]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2025.12.10-11.48.38:322][318]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2025.12.10-11.48.38:325][318]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2025.12.10-11.48.38:325][318]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2025.12.10-11.48.38:325][318]LogInit: FAudioDevice initialized with ID 18.
+[2025.12.10-11.48.38:325][318]LogAudio: Display: Audio Device (ID: 18) registered with world 'L_mainMenu'.
+[2025.12.10-11.48.38:325][318]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2025.12.10-11.48.38:384][318]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.10-11.48.38:385][318]LogLoad: Game class is 'GM_mainMenu_C'
+[2025.12.10-11.48.38:386][318]LogWorld: Bringing World /Game/main_menu/UEDPIE_0_L_mainMenu.L_mainMenu up for play (max tick rate 60) at 2025.12.10-11.48.38
+[2025.12.10-11.48.38:386][318]LogWorld: Bringing up level for play took: 0.000534
+[2025.12.10-11.48.38:392][318]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2025.12.10-11.48.38:397][318]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.12.10-11.48.38:397][318]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2025.12.10-11.48.38:397][318]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2025.12.10-11.48.38:408][318]PIE: Server logged in
+[2025.12.10-11.48.38:415][318]PIE: Play in editor total start time 0.273 seconds.
+[2025.12.10-11.48.38:501][319]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.12.10-11.48.42:255][520]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.10-11.48.42:255][520]LogWorld: BeginTearingDown for /Game/main_menu/UEDPIE_0_L_mainMenu
+[2025.12.10-11.48.42:255][520]LogSlate: Window 'VerticalJam2025 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.12.10-11.48.42:264][520]LogWorld: UWorld::CleanupWorld for L_mainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-11.48.42:264][520]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-11.48.42:265][520]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.10-11.48.42:281][520]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-11.48.42:333][520]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2025.12.10-11.48.42:333][520]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18, StreamState=4
+[2025.12.10-11.48.42:336][520]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18, StreamState=2
+[2025.12.10-11.48.42:357][520]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2025.12.10-11.48.42:412][521]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2025.12.10-11.50.34:762][649]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3173.031250
+[2025.12.10-11.50.34:944][660]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-11.50.34:944][661]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3173.200928, Update Interval: 308.741730
+[2025.12.10-11.50.38:053][844]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_20
+[2025.12.10-11.50.47:440][362]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/pause_screen/UW_pause.UW_pause
+[2025.12.10-11.50.47:441][362]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_21
+[2025.12.10-11.50.47:452][362]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_22
+[2025.12.10-11.51.09:302][535]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.12.10-11.51.09:308][535]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-11.51.09:415][535]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/pause_screen/UW_pause] ([2] browsable assets)...
+[2025.12.10-11.51.09:432][535]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/pause_screen/UW_pause.UW_pause]
+[2025.12.10-11.51.09:432][535]OBJ SavePackage: Finished generating thumbnails for package [/Game/pause_screen/UW_pause]
+[2025.12.10-11.51.09:452][535]LogSavePackage: Moving output files for package: /Game/pause_screen/UW_pause
+[2025.12.10-11.51.09:453][535]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/UW_pause48F4997C4A3CC1B984796D89D4EBAB3D.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/pause_screen/UW_pause.uasset'
+[2025.12.10-11.51.09:468][535]LogFileHelpers: InternalPromptForCheckoutAndSave took 160.836 ms (total: 3.27 sec)
+[2025.12.10-11.51.09:554][535]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-11.51.09:554][535]LogContentValidation: Enabled validators:
+[2025.12.10-11.51.09:554][535]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-11.51.09:554][535]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-11.51.09:554][535]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-11.51.09:554][535]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-11.51.09:554][535]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-11.51.09:554][535]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-11.51.09:556][535]AssetCheck: /Game/pause_screen/UW_pause Validating asset
+[2025.12.10-11.55.29:226][592]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2025.12.10-11.55.29:685][615]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-11.55.29:817][615]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/pause_screen/UW_pause] ([2] browsable assets)...
+[2025.12.10-11.55.29:839][615]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/pause_screen/UW_pause.UW_pause]
+[2025.12.10-11.55.29:839][615]OBJ SavePackage: Finished generating thumbnails for package [/Game/pause_screen/UW_pause]
+[2025.12.10-11.55.29:859][615]LogSavePackage: Moving output files for package: /Game/pause_screen/UW_pause
+[2025.12.10-11.55.29:860][615]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/UW_pauseB48128D743742302D5CD7D8F7E4961A7.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/pause_screen/UW_pause.uasset'
+[2025.12.10-11.55.29:880][615]LogFileHelpers: InternalPromptForCheckoutAndSave took 193.901 ms (total: 3.47 sec)
+[2025.12.10-11.55.29:968][615]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-11.55.29:968][615]LogContentValidation: Enabled validators:
+[2025.12.10-11.55.29:968][615]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-11.55.29:968][615]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-11.55.29:968][615]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-11.55.29:968][615]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-11.55.29:968][615]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-11.55.29:968][615]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-11.55.29:969][615]AssetCheck: /Game/pause_screen/UW_pause Validating asset
+[2025.12.10-11.56.16:442][100]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.12.10-11.56.30:824][620]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3529.095703
+[2025.12.10-11.56.31:823][623]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-11.56.31:823][623]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3529.763672, Update Interval: 335.845825
+[2025.12.10-11.58.42:411][606]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.12.10-11.58.43:540][671]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.12.10-11.58.43:551][671]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.10-11.58.43:552][671]LogPlayLevel: Creating play world package: /Game/main_menu/UEDPIE_0_L_mainMenu
+[2025.12.10-11.58.43:552][671]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001340s)
+[2025.12.10-11.58.43:553][671]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/main_menu/L_mainMenu.L_mainMenu to /Game/main_menu/UEDPIE_0_L_mainMenu.L_mainMenu (0.001405s)
+[2025.12.10-11.58.43:593][671]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2025.12.10-11.58.43:596][671]LogChaosDD: Creating Chaos Debug Draw Scene for world L_mainMenu
+[2025.12.10-11.58.43:599][671]LogPlayLevel: PIE: World Init took: (0.002398s)
+[2025.12.10-11.58.43:600][671]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2025.12.10-11.58.43:600][671]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.10-11.58.43:600][671]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.10-11.58.43:600][671]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.10-11.58.43:600][671]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.10-11.58.43:600][671]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.10-11.58.43:600][671]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.10-11.58.43:600][671]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.10-11.58.43:600][671]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.10-11.58.43:600][671]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.10-11.58.43:600][671]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.10-11.58.43:601][671]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.10-11.58.43:604][671]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.10-11.58.43:650][671]LogAudioMixer: Display: Using Audio Hardware Device Speakers (USB Audio)
+[2025.12.10-11.58.43:650][671]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.10-11.58.43:650][671]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.10-11.58.43:650][671]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.10-11.58.43:651][671]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2025.12.10-11.58.43:651][671]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2025.12.10-11.58.43:655][671]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2025.12.10-11.58.43:655][671]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2025.12.10-11.58.43:655][671]LogInit: FAudioDevice initialized with ID 19.
+[2025.12.10-11.58.43:655][671]LogAudio: Display: Audio Device (ID: 19) registered with world 'L_mainMenu'.
+[2025.12.10-11.58.43:655][671]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2025.12.10-11.58.43:720][671]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.10-11.58.43:721][671]LogLoad: Game class is 'GM_mainMenu_C'
+[2025.12.10-11.58.43:721][671]LogWorld: Bringing World /Game/main_menu/UEDPIE_0_L_mainMenu.L_mainMenu up for play (max tick rate 60) at 2025.12.10-11.58.43
+[2025.12.10-11.58.43:721][671]LogWorld: Bringing up level for play took: 0.000579
+[2025.12.10-11.58.43:724][671]LogOnline: OSS: Created online subsystem instance for: :Context_39
+[2025.12.10-11.58.43:729][671]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.12.10-11.58.43:729][671]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2025.12.10-11.58.43:729][671]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2025.12.10-11.58.43:741][671]PIE: Server logged in
+[2025.12.10-11.58.43:750][671]PIE: Play in editor total start time 0.199 seconds.
+[2025.12.10-11.58.43:889][672]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.12.10-11.58.44:540][701]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/main_level/L_main"
+[2025.12.10-11.58.44:540][701]LogNet: Browse: /Game/main_level/L_main
+[2025.12.10-11.58.44:540][701]LogLoad: LoadMap: /Game/main_level/L_main
+[2025.12.10-11.58.44:540][701]LogWorld: BeginTearingDown for /Game/main_menu/UEDPIE_0_L_mainMenu
+[2025.12.10-11.58.44:541][701]LogWorld: UWorld::CleanupWorld for L_mainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-11.58.44:541][701]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-11.58.44:567][701]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.10-11.58.44:570][701]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2025.12.10-11.58.44:572][701]LogStreaming: Display: FlushAsyncLoading(519): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.10-11.58.44:582][701]LogAudio: Display: Audio Device (ID: 19) registered with world 'L_main'.
+[2025.12.10-11.58.44:582][701]LogChaosDD: Creating Chaos Debug Draw Scene for world L_main
+[2025.12.10-11.58.44:583][701]LogPlayLevel: PIE: World Init took: (0.001547s)
+[2025.12.10-11.58.44:583][701]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2025.12.10-11.58.44:588][701]LogWorld: Bringing World /Game/main_level/UEDPIE_0_L_main.L_main up for play (max tick rate 60) at 2025.12.10-11.58.44
+[2025.12.10-11.58.44:588][701]LogWorld: Bringing up level for play took: 0.004380
+[2025.12.10-11.58.44:591][701]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_0.groundLeaves has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.58.44:591][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_0 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_0.groundLeaves 
+[2025.12.10-11.58.44:591][701]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_0.stem has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.58.44:591][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_0 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_0.stem 
+[2025.12.10-11.58.44:591][701]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_0.flower has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.58.44:591][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_0 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_0.flower 
+[2025.12.10-11.58.44:591][701]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_0.groundLeaves has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.58.44:591][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_0 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_0.groundLeaves 
+[2025.12.10-11.58.44:591][701]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_0.stem has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.58.44:591][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_0 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_0.stem 
+[2025.12.10-11.58.44:591][701]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_0.flower has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.58.44:591][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_0 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_0.flower 
+[2025.12.10-11.58.44:591][701]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_1.groundLeaves has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.58.44:591][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_1 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_1.groundLeaves 
+[2025.12.10-11.58.44:592][701]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_1.stem has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.58.44:592][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_1 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_1.stem 
+[2025.12.10-11.58.44:592][701]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_1.flower has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.58.44:592][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_1 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_1.flower 
+[2025.12.10-11.58.44:592][701]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_1.groundLeaves has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.58.44:592][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_1 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_1.groundLeaves 
+[2025.12.10-11.58.44:592][701]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_1.stem has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.58.44:592][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_1 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_1.stem 
+[2025.12.10-11.58.44:592][701]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_1.flower has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.58.44:592][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_1 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_1.flower 
+[2025.12.10-11.58.44:592][701]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_2.groundLeaves has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.58.44:592][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_2 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_2.groundLeaves 
+[2025.12.10-11.58.44:592][701]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_2.stem has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.58.44:592][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_2 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_2.stem 
+[2025.12.10-11.58.44:592][701]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_2.flower has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.58.44:592][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_2 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_2.flower 
+[2025.12.10-11.58.44:592][701]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_2.groundLeaves has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.58.44:592][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_2 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_2.groundLeaves 
+[2025.12.10-11.58.44:592][701]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_2.stem has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.58.44:592][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_2 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_2.stem 
+[2025.12.10-11.58.44:592][701]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_2.flower has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.58.44:592][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_2 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_2.flower 
+[2025.12.10-11.58.44:592][701]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_3.groundLeaves has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.58.44:592][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_3 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_3.groundLeaves 
+[2025.12.10-11.58.44:592][701]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_3.stem has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.58.44:593][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_3 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_3.stem 
+[2025.12.10-11.58.44:593][701]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_3.flower has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.58.44:593][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_3 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_3.flower 
+[2025.12.10-11.58.44:593][701]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_3.groundLeaves has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.58.44:593][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_3 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_3.groundLeaves 
+[2025.12.10-11.58.44:593][701]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_3.stem has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.58.44:593][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_3 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_3.stem 
+[2025.12.10-11.58.44:593][701]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_3.flower has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.58.44:593][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_3 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_3.flower 
+[2025.12.10-11.58.44:593][701]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_4.groundLeaves has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.58.44:593][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_4 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_4.groundLeaves 
+[2025.12.10-11.58.44:593][701]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_4.stem has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.58.44:593][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_4 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_4.stem 
+[2025.12.10-11.58.44:593][701]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_4.flower has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.58.44:593][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_4 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_4.flower 
+[2025.12.10-11.58.44:593][701]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_4.groundLeaves has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.58.44:593][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_4 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_4.groundLeaves 
+[2025.12.10-11.58.44:593][701]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_4.stem has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.58.44:593][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_4 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_4.stem 
+[2025.12.10-11.58.44:594][701]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_4.flower has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.58.44:594][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_4 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_4.flower 
+[2025.12.10-11.58.44:594][701]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_5.groundLeaves has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.58.44:594][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_5 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_5.groundLeaves 
+[2025.12.10-11.58.44:594][701]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_5.stem has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.58.44:594][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_5 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_5.stem 
+[2025.12.10-11.58.44:594][701]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_5.flower has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.58.44:594][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_5 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_5.flower 
+[2025.12.10-11.58.44:595][701]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_5.groundLeaves has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.58.44:595][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_5 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_5.groundLeaves 
+[2025.12.10-11.58.44:595][701]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_5.stem has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.58.44:595][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_5 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_5.stem 
+[2025.12.10-11.58.44:595][701]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_5.flower has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.58.44:595][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_5 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_5.flower 
+[2025.12.10-11.58.44:595][701]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_6.groundLeaves has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.58.44:595][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_6 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_6.groundLeaves 
+[2025.12.10-11.58.44:595][701]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_6.stem has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.58.44:595][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_6 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_6.stem 
+[2025.12.10-11.58.44:595][701]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_6.flower has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.58.44:595][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_6 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_6.flower 
+[2025.12.10-11.58.44:595][701]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_6.groundLeaves has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.58.44:595][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_6 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_6.groundLeaves 
+[2025.12.10-11.58.44:595][701]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_6.stem has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.58.44:595][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_6 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_6.stem 
+[2025.12.10-11.58.44:595][701]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_6.flower has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.58.44:595][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_6 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_6.flower 
+[2025.12.10-11.58.44:595][701]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_7.groundLeaves has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.58.44:595][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_7 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_7.groundLeaves 
+[2025.12.10-11.58.44:596][701]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_7.stem has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.58.44:596][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_7 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_7.stem 
+[2025.12.10-11.58.44:596][701]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_7.flower has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.58.44:596][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_7 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_7.flower 
+[2025.12.10-11.58.44:596][701]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_7.groundLeaves has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.58.44:596][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_7 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_7.groundLeaves 
+[2025.12.10-11.58.44:596][701]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_7.stem has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.58.44:596][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_7 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_7.stem 
+[2025.12.10-11.58.44:596][701]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_7.flower has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.10-11.58.44:596][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_7 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_7.flower 
+[2025.12.10-11.58.44:597][701]LogLoad: Took 0.057607 seconds to LoadMap(/Game/main_level/L_main)
+[2025.12.10-11.58.44:597][701]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/main_level/L_main
+[2025.12.10-11.58.44:597][701]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_0.groundLeaves.
+[2025.12.10-11.58.44:597][701]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_0.stem.
+[2025.12.10-11.58.44:597][701]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_0.flower.
+[2025.12.10-11.58.44:597][701]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_1.groundLeaves.
+[2025.12.10-11.58.44:597][701]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_1.stem.
+[2025.12.10-11.58.44:598][701]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_1.flower.
+[2025.12.10-11.58.44:598][701]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_2.groundLeaves.
+[2025.12.10-11.58.44:598][701]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_2.stem.
+[2025.12.10-11.58.44:598][701]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_2.flower.
+[2025.12.10-11.58.44:598][701]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_3.groundLeaves.
+[2025.12.10-11.58.44:598][701]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_3.stem.
+[2025.12.10-11.58.44:598][701]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_3.flower.
+[2025.12.10-11.58.44:598][701]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_4.groundLeaves.
+[2025.12.10-11.58.44:598][701]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_4.stem.
+[2025.12.10-11.58.44:598][701]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_4.flower.
+[2025.12.10-11.58.44:598][701]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_5.groundLeaves.
+[2025.12.10-11.58.44:598][701]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_5.stem.
+[2025.12.10-11.58.44:598][701]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_5.flower.
+[2025.12.10-11.58.44:598][701]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_6.groundLeaves.
+[2025.12.10-11.58.44:598][701]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_6.stem.
+[2025.12.10-11.58.44:598][701]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_6.flower.
+[2025.12.10-11.58.44:598][701]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_7.groundLeaves.
+[2025.12.10-11.58.44:598][701]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_7.stem.
+[2025.12.10-11.58.44:598][701]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_7.flower.
+[2025.12.10-11.58.44:637][702]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.12.10-11.58.46:056][750]LogViewport: Display: Viewport HideCursorDuringCapture Changed, True -> False
+[2025.12.10-11.58.49:655][915]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.10-11.58.49:655][915]LogWorld: BeginTearingDown for /Game/main_level/UEDPIE_0_L_main
+[2025.12.10-11.58.49:655][915]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.12.10-11.58.49:655][915]LogSlate: Window 'VerticalJam2025 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.12.10-11.58.49:667][915]LogWorld: UWorld::CleanupWorld for L_main, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-11.58.49:667][915]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-11.58.49:669][915]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.10-11.58.49:679][915]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-11.58.49:718][915]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2025.12.10-11.58.49:719][915]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19, StreamState=4
+[2025.12.10-11.58.49:721][915]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19, StreamState=2
+[2025.12.10-11.58.49:732][915]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2025.12.10-11.58.49:776][916]LogPlayLevel: Display: Destroying online subsystem :Context_39
