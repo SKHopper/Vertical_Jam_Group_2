@@ -1682,3 +1682,631 @@ Sampler Limit: 32
 [2025.12.11-15.51.27:399][656]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
 [2025.12.11-15.51.27:399][656]LogShaderCompilers: Display: Material Cache Hits: 20 (10%)
 [2025.12.11-15.51.27:399][656]LogShaderCompilers: Display: ================================================
+[2025.12.11-15.52.31:595][222]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.12.11-15.53.47:469][763]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 687.427490
+[2025.12.11-15.53.48:472][766]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.11-15.53.48:472][767]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 688.124817, Update Interval: 359.483643
+[2025.12.11-15.54.06:590][880]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2025.12.11-15.54.12:538][124]LogStreaming: Display: FlushAsyncLoading(379): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.11-15.54.12:542][124]LogInterchangeEngine: [Pending] Importing
+[2025.12.11-15.54.12:542][124]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/Asset Files/Textures/lamp/GardenLamp_Model_MS_2_standardSurface1_BaseColor.png]
+[2025.12.11-15.54.12:542][124]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.12.11-15.54.12:542][124]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/Asset Files/Textures/lamp/GardenLamp_Model_MS_2_standardSurface1_Emissive.png]
+[2025.12.11-15.54.12:543][124]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.12.11-15.54.12:543][124]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/Asset Files/Textures/lamp/GardenLamp_Model_MS_2_standardSurface1_Normal.png]
+[2025.12.11-15.54.12:544][124]LogInterchangeEngine: [Pending] Importing -  (4)
+[2025.12.11-15.54.12:544][124]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/Asset Files/Textures/lamp/GardenLamp_Model_MS_2_standardSurface1_OcclusionRoughnessMetallic.png]
+[2025.12.11-15.54.13:237][126]LogStreaming: Display: FlushAsyncLoading(383): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.11-15.54.13:264][127]LogInterchangeImport: Display: Auto-detected grayscale, image changed to G8
+[2025.12.11-15.54.13:615][127]LogInterchangePipeline: Display: Auto-detected normal map
+[2025.12.11-15.54.13:971][128]LogInterchangeEngine: Display: Interchange import completed [C:/Users/skojo/OneDr... Files/Textures/lamp/GardenLamp_Model_MS_2_standardSurface1_BaseColor.png]
+[2025.12.11-15.54.13:971][128]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.12.11-15.54.13:972][128]LogInterchangeEngine: Display: Interchange import completed [C:/Users/skojo/OneDr... Files/Textures/lamp/GardenLamp_Model_MS_2_standardSurface1_Emissive.png]
+[2025.12.11-15.54.13:972][128]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.12.11-15.54.13:972][128]LogInterchangeEngine: Display: Interchange import completed [C:/Users/skojo/OneDr... Files/Textures/lamp/GardenLamp_Model_MS_2_standardSurface1_Normal.png]
+[2025.12.11-15.54.13:972][128]LogInterchangeEngine: [Pending] Importing -  (1)
+[2025.12.11-15.54.13:972][128]LogInterchangeEngine: Display: Interchange import completed [C:/Users/skojo/OneDr... Files/Textures/lamp/GardenLamp_Model_MS_2_standardSurface1_OcclusionRoughnessMetallic.png]
+[2025.12.11-15.54.13:987][128]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.12.11-15.54.13:987][128]LogInterchangeEngine: [Success] Import Done
+[2025.12.11-15.54.18:614][142]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/animalBPs/assets/frog/M_frog.M_frog
+[2025.12.11-15.54.18:617][142]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2025.12.11-15.54.19:147][142]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.11-15.54.19:147][142]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.12.11-15.54.19:147][142]MaterialEditorStats: Shader Count: 0
+[2025.12.11-15.54.19:147][142]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.11-15.54.19:254][144]MaterialEditorStats: Base pass shader: 175 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.12.11-15.54.19:254][144]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.11-15.54.19:254][144]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.11-15.54.19:254][144]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.12.11-15.54.19:254][144]MaterialEditorStats: Shader Count: 5
+[2025.12.11-15.54.19:255][144]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.11-15.54.21:700][282]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.12.11-15.54.21:700][282]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.11-15.54.21:749][282]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.12.11-15.54.23:028][355]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.12.11-15.54.23:028][355]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.11-15.54.23:063][355]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.12.11-15.54.26:262][522]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.11-15.54.26:262][522]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.12.11-15.54.26:262][522]MaterialEditorStats: Shader Count: 0
+[2025.12.11-15.54.26:262][522]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.11-15.54.26:313][523]MaterialEditorStats: Base pass shader: 175 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.12.11-15.54.26:314][523]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.11-15.54.26:314][523]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.11-15.54.26:314][523]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.12.11-15.54.26:314][523]MaterialEditorStats: Shader Count: 4
+[2025.12.11-15.54.26:314][523]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.11-15.54.28:208][631]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.11-15.54.28:208][631]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.12.11-15.54.28:208][631]MaterialEditorStats: Shader Count: 0
+[2025.12.11-15.54.28:208][631]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.11-15.54.28:275][633]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.11-15.54.28:276][633]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.11-15.54.28:276][633]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.12.11-15.54.28:276][633]MaterialEditorStats: Shader Count: 2
+[2025.12.11-15.54.28:276][633]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.11-15.54.28:991][676]MaterialEditorStats: Base pass shader: 174 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.12.11-15.54.28:991][676]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.11-15.54.28:992][676]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.11-15.54.28:992][676]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.12.11-15.54.28:992][676]MaterialEditorStats: Shader Count: 4
+[2025.12.11-15.54.28:992][676]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.11-15.54.32:828][892]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.11-15.54.32:828][892]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.12.11-15.54.32:828][892]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.11-15.54.32:828][892]MaterialEditorStats: Shader Count: 0
+[2025.12.11-15.54.32:828][892]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.11-15.54.32:991][894]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.11-15.54.32:992][894]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.11-15.54.32:992][894]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.12.11-15.54.32:992][894]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.11-15.54.32:992][894]MaterialEditorStats: Shader Count: 2
+[2025.12.11-15.54.32:992][894]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.11-15.54.33:507][925]MaterialEditorStats: Base pass shader: 177 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2025.12.11-15.54.33:508][925]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.11-15.54.33:508][925]MaterialEditorStats: Texture samplers: 2/16
+[2025.12.11-15.54.33:508][925]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.12.11-15.54.33:508][925]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.11-15.54.33:508][925]MaterialEditorStats: Shader Count: 4
+[2025.12.11-15.54.33:508][925]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.11-15.54.36:166][ 75]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.11-15.54.36:166][ 75]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.12.11-15.54.36:166][ 75]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.11-15.54.36:166][ 75]MaterialEditorStats: Shader Count: 0
+[2025.12.11-15.54.36:166][ 75]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.11-15.54.36:335][ 77]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.11-15.54.36:335][ 77]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.11-15.54.36:335][ 77]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.12.11-15.54.36:335][ 77]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.11-15.54.36:335][ 77]MaterialEditorStats: Shader Count: 2
+[2025.12.11-15.54.36:335][ 77]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.11-15.54.36:777][103]MaterialEditorStats: Base pass shader: 177 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2025.12.11-15.54.36:777][103]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.11-15.54.36:777][103]MaterialEditorStats: Texture samplers: 2/16
+[2025.12.11-15.54.36:777][103]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.12.11-15.54.36:777][103]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.11-15.54.36:777][103]MaterialEditorStats: Shader Count: 4
+[2025.12.11-15.54.36:777][103]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.11-15.54.37:687][152]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.11-15.54.37:687][152]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.12.11-15.54.37:687][152]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.11-15.54.37:687][152]MaterialEditorStats: Shader Count: 0
+[2025.12.11-15.54.37:687][152]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.11-15.54.37:790][155]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.11-15.54.37:790][155]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.11-15.54.37:790][155]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.12.11-15.54.37:790][155]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.11-15.54.37:790][155]MaterialEditorStats: Shader Count: 2
+[2025.12.11-15.54.37:790][155]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.11-15.54.38:324][184]MaterialEditorStats: Base pass shader: 178 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2025.12.11-15.54.38:324][184]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.11-15.54.38:324][184]MaterialEditorStats: Texture samplers: 2/16
+[2025.12.11-15.54.38:324][184]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.12.11-15.54.38:325][184]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.11-15.54.38:325][184]MaterialEditorStats: Shader Count: 4
+[2025.12.11-15.54.38:325][184]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.11-15.54.44:013][520]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.11-15.54.44:013][520]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.12.11-15.54.44:013][520]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.11-15.54.44:013][520]MaterialEditorStats: Shader Count: 0
+[2025.12.11-15.54.44:013][520]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.11-15.54.44:159][523]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.11-15.54.44:159][523]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.11-15.54.44:159][523]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.12.11-15.54.44:159][523]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.11-15.54.44:159][523]MaterialEditorStats: Shader Count: 2
+[2025.12.11-15.54.44:159][523]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.11-15.54.44:508][544]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.11-15.54.44:508][544]MaterialEditorStats: Texture samplers: 2/16
+[2025.12.11-15.54.44:508][544]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.12.11-15.54.44:508][544]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.11-15.54.44:508][544]MaterialEditorStats: Shader Count: 3
+[2025.12.11-15.54.44:508][544]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.11-15.54.45:123][576]MaterialEditorStats: Base pass shader: 186 instructions
+Stats: Resources Used: 6
+Resource Limit: 64
+Samplers Used: 3
+Sampler Limit: 32
+
+[2025.12.11-15.54.45:123][576]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.11-15.54.45:123][576]MaterialEditorStats: Texture samplers: 3/16
+[2025.12.11-15.54.45:123][576]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.12.11-15.54.45:123][576]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.11-15.54.45:123][576]MaterialEditorStats: Shader Count: 5
+[2025.12.11-15.54.45:123][576]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.11-15.54.55:854][208]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.11-15.54.55:854][208]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.12.11-15.54.55:854][208]MaterialEditorStats: Shader Count: 0
+[2025.12.11-15.54.55:854][208]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.11-15.54.55:910][210]MaterialEditorStats: Base pass shader: 174 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.12.11-15.54.55:911][210]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.11-15.54.55:911][210]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.11-15.54.55:911][210]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.12.11-15.54.55:911][210]MaterialEditorStats: Shader Count: 5
+[2025.12.11-15.54.55:911][210]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.11-15.54.56:279][231]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.12.11-15.54.56:285][231]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.11-15.54.56:334][231]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/animalBPs/assets/frog/GardenLamp_Model_MS_2_standardSurface1_BaseColor] ([1] browsable assets)...
+[2025.12.11-15.54.56:337][231]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/animalBPs/assets/frog/GardenLamp_Model_MS_2_standardSurface1_BaseColor.GardenLamp_Model_MS_2_standardSurface1_BaseColor]
+[2025.12.11-15.54.56:337][231]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/assets/frog/GardenLamp_Model_MS_2_standardSurface1_BaseColor]
+[2025.12.11-15.54.56:359][231]LogSavePackage: Moving output files for package: /Game/animalBPs/assets/frog/GardenLamp_Model_MS_2_standardSurface1_BaseColor
+[2025.12.11-15.54.56:359][231]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/GardenLamp_Model_MS_2_standardSu985FAAC3401175D6F25296980D958D9C.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/assets/frog/GardenLamp_Model_MS_2_standardSurface1_BaseColor.uasset'
+[2025.12.11-15.54.56:360][231]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/animalBPs/assets/frog/GardenLamp_Model_MS_2_standardSurface1_Emissive] ([1] browsable assets)...
+[2025.12.11-15.54.56:363][231]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/animalBPs/assets/frog/GardenLamp_Model_MS_2_standardSurface1_Emissive.GardenLamp_Model_MS_2_standardSurface1_Emissive]
+[2025.12.11-15.54.56:363][231]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/assets/frog/GardenLamp_Model_MS_2_standardSurface1_Emissive]
+[2025.12.11-15.54.56:409][231]LogSavePackage: Moving output files for package: /Game/animalBPs/assets/frog/GardenLamp_Model_MS_2_standardSurface1_Emissive
+[2025.12.11-15.54.56:409][231]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/GardenLamp_Model_MS_2_standardSuDBDA2B6747F294B56C9395919CE0A5BB.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/assets/frog/GardenLamp_Model_MS_2_standardSurface1_Emissive.uasset'
+[2025.12.11-15.54.56:410][231]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/animalBPs/assets/frog/GardenLamp_Model_MS_2_standardSurface1_Normal] ([1] browsable assets)...
+[2025.12.11-15.54.56:413][231]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/animalBPs/assets/frog/GardenLamp_Model_MS_2_standardSurface1_Normal.GardenLamp_Model_MS_2_standardSurface1_Normal]
+[2025.12.11-15.54.56:413][231]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/assets/frog/GardenLamp_Model_MS_2_standardSurface1_Normal]
+[2025.12.11-15.54.56:456][231]LogSavePackage: Moving output files for package: /Game/animalBPs/assets/frog/GardenLamp_Model_MS_2_standardSurface1_Normal
+[2025.12.11-15.54.56:456][231]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/GardenLamp_Model_MS_2_standardSu9B47B90F4B957FDF3D0CF3BC45B7A0B1.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/assets/frog/GardenLamp_Model_MS_2_standardSurface1_Normal.uasset'
+[2025.12.11-15.54.56:457][231]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/animalBPs/assets/frog/GardenLamp_Model_MS_2_standardSurface1_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2025.12.11-15.54.56:460][231]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/animalBPs/assets/frog/GardenLamp_Model_MS_2_standardSurface1_OcclusionRoughnessMetallic.GardenLamp_Model_MS_2_standardSurface1_OcclusionRoughnessMetallic]
+[2025.12.11-15.54.56:460][231]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/assets/frog/GardenLamp_Model_MS_2_standardSurface1_OcclusionRoughnessMetallic]
+[2025.12.11-15.54.56:505][231]LogSavePackage: Moving output files for package: /Game/animalBPs/assets/frog/GardenLamp_Model_MS_2_standardSurface1_OcclusionRoughnessMetallic
+[2025.12.11-15.54.56:505][231]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/GardenLamp_Model_MS_2_standardSu5B462DDC4FB6A7C8DABE4CAA8730432A.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/assets/frog/GardenLamp_Model_MS_2_standardSurface1_OcclusionRoughnessMetallic.uasset'
+[2025.12.11-15.54.56:519][231]LogFileHelpers: InternalPromptForCheckoutAndSave took 232.745 ms (total: 1.54 sec)
+[2025.12.11-15.54.56:575][231]LogContentValidation: Display: Starting to validate 4 assets
+[2025.12.11-15.54.56:575][231]LogContentValidation: Enabled validators:
+[2025.12.11-15.54.56:575][231]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.11-15.54.56:575][231]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.11-15.54.56:575][231]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.11-15.54.56:575][231]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.11-15.54.56:575][231]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.11-15.54.56:575][231]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.11-15.54.56:575][231]AssetCheck: /Game/animalBPs/assets/frog/GardenLamp_Model_MS_2_standardSurface1_BaseColor Validating asset
+[2025.12.11-15.54.56:575][231]AssetCheck: /Game/animalBPs/assets/frog/GardenLamp_Model_MS_2_standardSurface1_Emissive Validating asset
+[2025.12.11-15.54.56:575][231]AssetCheck: /Game/animalBPs/assets/frog/GardenLamp_Model_MS_2_standardSurface1_Normal Validating asset
+[2025.12.11-15.54.56:575][231]AssetCheck: /Game/animalBPs/assets/frog/GardenLamp_Model_MS_2_standardSurface1_OcclusionRoughnessMetallic Validating asset
+[2025.12.11-15.54.56:593][231]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.11-15.55.14:699][252]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.12.11-15.55.14:846][252]LogSlate: Last resort fallback font was requested. Font: '<unknown>', Character: '<unknown>'
+[2025.12.11-15.55.14:852][252]LogSlate: Took 0.004583 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2025.12.11-15.55.15:845][252]LogSlate: Window 'Delete Assets' being destroyed
+[2025.12.11-15.55.15:888][252]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.12.11-15.55.15:908][252]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.12.11-15.55.15:928][252]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.12.11-15.55.26:333][325]LogStreaming: Display: FlushAsyncLoading(387): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.11-15.55.26:340][325]LogInterchangeEngine: [Pending] Importing
+[2025.12.11-15.55.26:340][325]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/Asset Files/Textures/frog/Frog_Model_MS_standardSurface1_BaseColor.png]
+[2025.12.11-15.55.26:341][325]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.12.11-15.55.26:341][325]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/Asset Files/Textures/frog/Frog_Model_MS_standardSurface1_Normal.png]
+[2025.12.11-15.55.26:341][325]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.12.11-15.55.26:341][325]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/Asset Files/Textures/frog/Frog_Model_MS_standardSurface1_OcclusionRoughnessMetallic.png]
+[2025.12.11-15.55.27:030][327]LogStreaming: Display: FlushAsyncLoading(390): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.11-15.55.27:374][328]LogTexture: Display: Building textures: /Game/animalBPs/assets/frog/Frog_Model_MS_standardSurface1_BaseColor.Frog_Model_MS_standardSurface1_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 280.999983 MB), EncodeSpeed: Fast
+[2025.12.11-15.55.27:382][328]LogInterchangePipeline: Display: Auto-detected normal map
+[2025.12.11-15.55.27:403][329]LogTexture: Display: Building textures: /Game/animalBPs/assets/frog/Frog_Model_MS_standardSurface1_Normal.Frog_Model_MS_standardSurface1_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 353.499988 MB), EncodeSpeed: Fast
+[2025.12.11-15.55.27:407][329]LogTexture: Display: Building textures: /Game/animalBPs/assets/frog/Frog_Model_MS_standardSurface1_OcclusionRoughnessMetallic.Frog_Model_MS_standardSurface1_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 296.999983 MB), EncodeSpeed: Fast
+[2025.12.11-15.55.27:760][329]LogInterchangeEngine: Display: Interchange import completed [C:/Users/skojo/OneDr... Files/Textures/frog/Frog_Model_MS_standardSurface1_BaseColor.png]
+[2025.12.11-15.55.27:760][329]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.12.11-15.55.27:761][329]LogInterchangeEngine: Display: Interchange import completed [C:/Users/skojo/OneDr... Files/Textures/frog/Frog_Model_MS_standardSurface1_Normal.png]
+[2025.12.11-15.55.27:761][329]LogInterchangeEngine: [Pending] Importing -  (1)
+[2025.12.11-15.55.27:761][329]LogInterchangeEngine: Display: Interchange import completed [C:/Users/skojo/OneDr... Files/Textures/frog/Frog_Model_MS_standardSurface1_OcclusionRoughnessMetallic.png]
+[2025.12.11-15.55.27:777][329]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.12.11-15.55.27:777][329]LogInterchangeEngine: [Success] Import Done
+[2025.12.11-15.55.49:563][480]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.11-15.55.49:564][480]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.12.11-15.55.49:564][480]MaterialEditorStats: Shader Count: 0
+[2025.12.11-15.55.49:564][480]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.11-15.55.49:667][482]MaterialEditorStats: Base pass shader: 174 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.12.11-15.55.49:667][482]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.11-15.55.49:667][482]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.11-15.55.49:667][482]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.12.11-15.55.49:667][482]MaterialEditorStats: Shader Count: 5
+[2025.12.11-15.55.49:667][482]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.11-15.55.55:866][839]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.11-15.55.55:866][839]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.12.11-15.55.55:866][839]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.11-15.55.55:866][839]MaterialEditorStats: Shader Count: 0
+[2025.12.11-15.55.55:866][839]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.11-15.55.55:990][842]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.11-15.55.55:990][842]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.11-15.55.55:990][842]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.12.11-15.55.55:990][842]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.11-15.55.55:990][842]MaterialEditorStats: Shader Count: 2
+[2025.12.11-15.55.55:990][842]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.11-15.55.57:403][916]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.11-15.55.57:403][916]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.12.11-15.55.57:403][916]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.11-15.55.57:403][916]MaterialEditorStats: Shader Count: 0
+[2025.12.11-15.55.57:403][916]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.11-15.55.57:483][919]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.11-15.55.57:483][919]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.11-15.55.57:483][919]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.12.11-15.55.57:483][919]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.11-15.55.57:483][919]MaterialEditorStats: Shader Count: 2
+[2025.12.11-15.55.57:483][919]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.11-15.55.57:915][945]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.11-15.55.57:916][945]MaterialEditorStats: Texture samplers: 2/16
+[2025.12.11-15.55.57:916][945]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.12.11-15.55.57:916][945]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.11-15.55.57:916][945]MaterialEditorStats: Shader Count: 3
+[2025.12.11-15.55.57:916][945]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.11-15.55.58:032][952]MaterialEditorStats: Base pass shader: 187 instructions
+Stats: Resources Used: 6
+Resource Limit: 64
+Samplers Used: 3
+Sampler Limit: 32
+
+[2025.12.11-15.55.58:032][952]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.11-15.55.58:032][952]MaterialEditorStats: Texture samplers: 3/16
+[2025.12.11-15.55.58:032][952]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.12.11-15.55.58:032][952]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.11-15.55.58:032][952]MaterialEditorStats: Shader Count: 4
+[2025.12.11-15.55.58:032][952]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.11-15.55.59:717][ 50]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.11-15.55.59:718][ 50]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.12.11-15.55.59:718][ 50]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.11-15.55.59:718][ 50]MaterialEditorStats: Shader Count: 0
+[2025.12.11-15.55.59:718][ 50]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.11-15.55.59:818][ 53]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.11-15.55.59:818][ 53]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.11-15.55.59:818][ 53]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.12.11-15.55.59:818][ 53]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.11-15.55.59:818][ 53]MaterialEditorStats: Shader Count: 2
+[2025.12.11-15.55.59:818][ 53]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.11-15.56.00:201][ 76]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.11-15.56.00:201][ 76]MaterialEditorStats: Texture samplers: 2/16
+[2025.12.11-15.56.00:201][ 76]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.12.11-15.56.00:202][ 76]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.11-15.56.00:202][ 76]MaterialEditorStats: Shader Count: 3
+[2025.12.11-15.56.00:202][ 76]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.11-15.56.00:418][ 89]MaterialEditorStats: Base pass shader: 189 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2025.12.11-15.56.00:418][ 89]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.11-15.56.00:418][ 89]MaterialEditorStats: Texture samplers: 4/16
+[2025.12.11-15.56.00:418][ 89]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.12.11-15.56.00:418][ 89]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.11-15.56.00:418][ 89]MaterialEditorStats: Shader Count: 4
+[2025.12.11-15.56.00:418][ 89]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.11-15.56.01:274][132]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.11-15.56.01:274][132]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.12.11-15.56.01:274][132]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.11-15.56.01:274][132]MaterialEditorStats: Shader Count: 0
+[2025.12.11-15.56.01:274][132]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.11-15.56.01:376][134]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.11-15.56.01:376][134]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.11-15.56.01:376][134]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.12.11-15.56.01:376][134]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.11-15.56.01:376][134]MaterialEditorStats: Shader Count: 2
+[2025.12.11-15.56.01:376][134]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.11-15.56.02:658][199]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.11-15.56.02:658][199]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.12.11-15.56.02:658][199]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.11-15.56.02:658][199]MaterialEditorStats: Shader Count: 0
+[2025.12.11-15.56.02:658][199]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.11-15.56.02:789][202]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.11-15.56.02:789][202]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.11-15.56.02:789][202]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.12.11-15.56.02:789][202]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.11-15.56.02:789][202]MaterialEditorStats: Shader Count: 2
+[2025.12.11-15.56.02:789][202]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.11-15.56.03:169][223]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.11-15.56.03:169][223]MaterialEditorStats: Texture samplers: 3/16
+[2025.12.11-15.56.03:169][223]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.12.11-15.56.03:169][223]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.11-15.56.03:169][223]MaterialEditorStats: Shader Count: 3
+[2025.12.11-15.56.03:169][223]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.11-15.56.03:241][226]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.12.11-15.56.03:247][226]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.11-15.56.03:310][226]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/animalBPs/assets/frog/Frog_Model_MS_standardSurface1_BaseColor] ([1] browsable assets)...
+[2025.12.11-15.56.03:314][226]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/animalBPs/assets/frog/Frog_Model_MS_standardSurface1_BaseColor.Frog_Model_MS_standardSurface1_BaseColor]
+[2025.12.11-15.56.03:314][226]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/assets/frog/Frog_Model_MS_standardSurface1_BaseColor]
+[2025.12.11-15.56.03:343][226]LogSavePackage: Moving output files for package: /Game/animalBPs/assets/frog/Frog_Model_MS_standardSurface1_BaseColor
+[2025.12.11-15.56.03:343][226]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/Frog_Model_MS_standardSurface1_BF85D148B413448FB2A88DBB49D476436.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/assets/frog/Frog_Model_MS_standardSurface1_BaseColor.uasset'
+[2025.12.11-15.56.03:344][226]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/animalBPs/assets/frog/Frog_Model_MS_standardSurface1_Normal] ([1] browsable assets)...
+[2025.12.11-15.56.03:348][226]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/animalBPs/assets/frog/Frog_Model_MS_standardSurface1_Normal.Frog_Model_MS_standardSurface1_Normal]
+[2025.12.11-15.56.03:348][226]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/assets/frog/Frog_Model_MS_standardSurface1_Normal]
+[2025.12.11-15.56.03:402][226]LogSavePackage: Moving output files for package: /Game/animalBPs/assets/frog/Frog_Model_MS_standardSurface1_Normal
+[2025.12.11-15.56.03:402][226]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/Frog_Model_MS_standardSurface1_N336EEA2541C54B06CCB762A33F479B22.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/assets/frog/Frog_Model_MS_standardSurface1_Normal.uasset'
+[2025.12.11-15.56.03:403][226]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/animalBPs/assets/frog/Frog_Model_MS_standardSurface1_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2025.12.11-15.56.03:406][226]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/animalBPs/assets/frog/Frog_Model_MS_standardSurface1_OcclusionRoughnessMetallic.Frog_Model_MS_standardSurface1_OcclusionRoughnessMetallic]
+[2025.12.11-15.56.03:406][226]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/assets/frog/Frog_Model_MS_standardSurface1_OcclusionRoughnessMetallic]
+[2025.12.11-15.56.03:463][226]LogSavePackage: Moving output files for package: /Game/animalBPs/assets/frog/Frog_Model_MS_standardSurface1_OcclusionRoughnessMetallic
+[2025.12.11-15.56.03:463][226]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/Frog_Model_MS_standardSurface1_O7FFB1FAF44BE40898095E1A551317696.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/assets/frog/Frog_Model_MS_standardSurface1_OcclusionRoughnessMetallic.uasset'
+[2025.12.11-15.56.03:476][226]LogFileHelpers: InternalPromptForCheckoutAndSave took 228.931 ms (total: 1.77 sec)
+[2025.12.11-15.56.03:534][226]LogContentValidation: Display: Starting to validate 3 assets
+[2025.12.11-15.56.03:535][226]LogContentValidation: Enabled validators:
+[2025.12.11-15.56.03:535][226]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.11-15.56.03:535][226]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.11-15.56.03:535][226]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.11-15.56.03:535][226]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.11-15.56.03:535][226]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.11-15.56.03:535][226]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.11-15.56.03:535][226]AssetCheck: /Game/animalBPs/assets/frog/Frog_Model_MS_standardSurface1_BaseColor Validating asset
+[2025.12.11-15.56.03:535][226]AssetCheck: /Game/animalBPs/assets/frog/Frog_Model_MS_standardSurface1_Normal Validating asset
+[2025.12.11-15.56.03:535][226]AssetCheck: /Game/animalBPs/assets/frog/Frog_Model_MS_standardSurface1_OcclusionRoughnessMetallic Validating asset
+[2025.12.11-15.56.03:554][226]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.11-15.56.03:557][227]MaterialEditorStats: Base pass shader: 191 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2025.12.11-15.56.03:557][227]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.11-15.56.03:557][227]MaterialEditorStats: Texture samplers: 4/16
+[2025.12.11-15.56.03:557][227]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.12.11-15.56.03:557][227]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.11-15.56.03:557][227]MaterialEditorStats: Shader Count: 4
+[2025.12.11-15.56.03:557][227]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.11-15.56.05:862][358]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/animalBPs/assets/frog/Frog_Model_MS.Frog_Model_MS
+[2025.12.11-15.56.05:869][358]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2025.12.11-15.56.08:324][445]LogMaterialEditor: Saving and Compiling material M_frog
+[2025.12.11-15.56.08:436][445]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.12.11-15.56.10:854][445]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.12.11-15.56.10:868][445]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.11-15.56.10:928][445]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/animalBPs/assets/frog/M_frog] ([1] browsable assets)...
+[2025.12.11-15.56.11:029][445]OBJ SavePackage:     Rendered thumbnail for [Material /Game/animalBPs/assets/frog/M_frog.M_frog]
+[2025.12.11-15.56.11:029][445]OBJ SavePackage: Finished generating thumbnails for package [/Game/animalBPs/assets/frog/M_frog]
+[2025.12.11-15.56.11:040][445]LogSavePackage: Moving output files for package: /Game/animalBPs/assets/frog/M_frog
+[2025.12.11-15.56.11:040][445]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/M_frog1C6B56474529E440EC8B0BA22623FB9F.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/animalBPs/assets/frog/M_frog.uasset'
+[2025.12.11-15.56.11:059][445]LogFileHelpers: InternalPromptForCheckoutAndSave took 191.561 ms (total: 1.97 sec)
+[2025.12.11-15.56.11:128][445]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.11-15.56.11:128][445]LogContentValidation: Enabled validators:
+[2025.12.11-15.56.11:128][445]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.11-15.56.11:128][445]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.11-15.56.11:128][445]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.11-15.56.11:128][445]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.11-15.56.11:128][445]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.11-15.56.11:128][445]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.11-15.56.11:128][445]AssetCheck: /Game/animalBPs/assets/frog/M_frog Validating asset
+[2025.12.11-15.56.11:144][445]MaterialEditorStats: Base pass shader: 191 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2025.12.11-15.56.11:144][445]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.11-15.56.11:144][445]MaterialEditorStats: Nanite Compute Shader: 849 instructions
+Stats: Resources Used: 12
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2025.12.11-15.56.11:144][445]MaterialEditorStats: Texture samplers: 4/16
+[2025.12.11-15.56.11:144][445]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.12.11-15.56.11:144][445]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.11-15.56.11:144][445]MaterialEditorStats: Shader Count: 19
+[2025.12.11-15.56.11:144][445]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.11-15.57.27:662][970]LogShaderCompilers: Display: ================================================
+[2025.12.11-15.57.27:662][970]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.12.11-15.57.27:662][970]LogShaderCompilers: Display: Total job queries 791, among them cache hits 329 (41.59%), DDC hits 319 (40.33%), Duplicates 81 (10.24%)
+[2025.12.11-15.57.27:662][970]LogShaderCompilers: Display: Tracking 381 distinct input hashes that result in 266 distinct outputs (69.82%)
+[2025.12.11-15.57.27:662][970]LogShaderCompilers: Display: RAM used: 2.38 MiB of 819.20 MiB budget. Usage: 0.29%
+[2025.12.11-15.57.27:662][970]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.12.11-15.57.27:662][970]LogShaderCompilers: Display: Shaders Compiled: 62
+[2025.12.11-15.57.27:662][970]LogShaderCompilers: Display: Jobs assigned 62, completed 62 (100%)
+[2025.12.11-15.57.27:662][970]LogShaderCompilers: Display: Average time worker was idle: 29.64 s
+[2025.12.11-15.57.27:662][970]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.12 s
+[2025.12.11-15.57.27:662][970]LogShaderCompilers: Display: Job execution time: average 0.97 s, max 2.75 s
+[2025.12.11-15.57.27:662][970]LogShaderCompilers: Display: Job life time (pending + execution): average 1.01 s, max 2.87
+[2025.12.11-15.57.27:662][970]LogShaderCompilers: Display: Shader code size: total 652 KiB, numShaders 62, average 10.516 KiB, min 4.277 KiB, max 20.98 KiB
+[2025.12.11-15.57.27:662][970]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 21.78 s
+[2025.12.11-15.57.27:662][970]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.12.11-15.57.27:662][970]LogShaderCompilers: Display: Jobs were issued in 62 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.12.11-15.57.27:662][970]LogShaderCompilers: Display: Average processing rate: 2.85 jobs/sec
+[2025.12.11-15.57.27:662][970]LogShaderCompilers: Display: Total thread time: 51.755 s
+[2025.12.11-15.57.27:662][970]LogShaderCompilers: Display: Total thread preprocess time: 14.435 s
+[2025.12.11-15.57.27:662][970]LogShaderCompilers: Display: Percentage time preprocessing: 27.89%
+[2025.12.11-15.57.27:662][970]LogShaderCompilers: Display: Effective parallelization: 2.38 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.297037
+[2025.12.11-15.57.27:662][970]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.12.11-15.57.27:662][970]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    2 times, average 2.35 sec, max 2.67 sec, min 2.04 sec)
+[2025.12.11-15.57.27:662][970]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    2 times, average 2.32 sec, max 2.70 sec, min 1.95 sec)
+[2025.12.11-15.57.27:662][970]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    2 times, average 2.00 sec, max 2.25 sec, min 1.75 sec)
+[2025.12.11-15.57.27:662][970]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    4 times, average 1.38 sec, max 2.10 sec, min 0.69 sec)
+[2025.12.11-15.57.27:662][970]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    2 times, average 1.28 sec, max 1.61 sec, min 0.96 sec)
+[2025.12.11-15.57.27:662][970]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.12.11-15.57.27:662][970]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 32.17% of total time (compiled   17 times, average 0.98 sec, max 2.15 sec, min 0.82 sec)
+[2025.12.11-15.57.27:662][970]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 14.03% of total time (compiled   15 times, average 0.48 sec, max 0.54 sec, min 0.46 sec)
+[2025.12.11-15.57.27:662][970]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 10.69% of total time (compiled    4 times, average 1.38 sec, max 2.10 sec, min 0.69 sec)
+[2025.12.11-15.57.27:662][970]LogShaderCompilers: Display:                                                 FLumenCardPS - 9.86% of total time (compiled   15 times, average 0.34 sec, max 0.37 sec, min 0.32 sec)
+[2025.12.11-15.57.27:662][970]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 9.09% of total time (compiled    2 times, average 2.35 sec, max 2.67 sec, min 2.04 sec)
+[2025.12.11-15.57.27:662][970]LogShaderCompilers: Display: === Material stats ===
+[2025.12.11-15.57.27:662][970]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.12.11-15.57.27:663][970]LogShaderCompilers: Display: Materials Translated:    264
+[2025.12.11-15.57.27:663][970]LogShaderCompilers: Display: Material Total Translate Time: 0.17 s
+[2025.12.11-15.57.27:663][970]LogShaderCompilers: Display: Material Translation Only: 0.06 s (34%)
+[2025.12.11-15.57.27:663][970]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.12.11-15.57.27:663][970]LogShaderCompilers: Display: Material Cache Hits: 20 (8%)
+[2025.12.11-15.57.27:663][970]LogShaderCompilers: Display: ================================================
