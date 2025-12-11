@@ -6969,3 +6969,380 @@ System max path length: 260.
 [2025.12.11-14.23.44:705][723]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2484.680176
 [2025.12.11-14.23.45:704][725]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.12.11-14.23.45:704][725]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2485.344238, Update Interval: 313.017365
+[2025.12.11-14.24.34:448][121]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.12.11-14.24.36:338][214]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.11-14.24.36:354][214]LogPlayLevel: [PlayLevel] Compiling BP_ResourceManager before play...
+[2025.12.11-14.24.36:373][214]LogScript: Warning: Script Msg: The widget 'WID_Resource_C_3' does not have a World.
+[2025.12.11-14.24.36:373][214]LogScript: Warning: Script Msg called by: BP_ResourceManager_C /Engine/Transient.World_40:PersistentLevel.BP_ResourceManager_C_0
+[2025.12.11-14.24.36:399][214]LogScript: Warning: Script Msg: The widget 'WID_Resource_C_4' does not have a World.
+[2025.12.11-14.24.36:399][214]LogScript: Warning: Script Msg called by: BP_ResourceManager_C /Engine/Transient.World_40:PersistentLevel.BP_ResourceManager_C_0
+[2025.12.11-14.24.36:408][214]LogScript: Warning: Script Msg: The widget 'WID_Resource_C_5' does not have a World.
+[2025.12.11-14.24.36:410][214]LogScript: Warning: Script Msg called by: BP_ResourceManager_C /Engine/Transient.World_40:PersistentLevel.BP_ResourceManager_C_0
+[2025.12.11-14.24.36:414][214]LogPlayLevel: [PlayLevel] Compiling AC_attackHive before play...
+[2025.12.11-14.24.36:428][214]LogPlayLevel: [PlayLevel] Compiling L_main before play...
+[2025.12.11-14.24.36:491][214]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.12.11-14.24.36:493][214]LogPlayLevel: PlayLevel: Blueprint regeneration took 145 ms (3 blueprints)
+[2025.12.11-14.24.36:493][214]LogPlayLevel: Creating play world package: /Game/main_level/UEDPIE_0_L_main
+[2025.12.11-14.24.36:506][214]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012469s)
+[2025.12.11-14.24.36:506][214]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/main_level/L_main.L_main to /Game/main_level/UEDPIE_0_L_main.L_main (0.012510s)
+[2025.12.11-14.24.36:532][214]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.12.11-14.24.36:533][214]LogChaosDD: Creating Chaos Debug Draw Scene for world L_main
+[2025.12.11-14.24.36:535][214]LogPlayLevel: PIE: World Init took: (0.001797s)
+[2025.12.11-14.24.36:536][214]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2025.12.11-14.24.36:536][214]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.11-14.24.36:536][214]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.11-14.24.36:536][214]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.11-14.24.36:536][214]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.11-14.24.36:536][214]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.11-14.24.36:536][214]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.11-14.24.36:536][214]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.11-14.24.36:536][214]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.11-14.24.36:536][214]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.11-14.24.36:536][214]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.11-14.24.36:536][214]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.11-14.24.36:538][214]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.11-14.24.36:656][214]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.12.11-14.24.36:656][214]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.11-14.24.36:656][214]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.11-14.24.36:656][214]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.11-14.24.36:657][214]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2025.12.11-14.24.36:657][214]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2025.12.11-14.24.36:661][214]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2025.12.11-14.24.36:661][214]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2025.12.11-14.24.36:661][214]LogInit: FAudioDevice initialized with ID 21.
+[2025.12.11-14.24.36:661][214]LogAudio: Display: Audio Device (ID: 21) registered with world 'L_main'.
+[2025.12.11-14.24.36:661][214]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2025.12.11-14.24.36:665][214]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2025.12.11-14.24.36:668][214]LogWorld: Bringing World /Game/main_level/UEDPIE_0_L_main.L_main up for play (max tick rate 60) at 2025.12.11-14.24.36
+[2025.12.11-14.24.36:668][214]LogWorld: Bringing up level for play took: 0.003172
+[2025.12.11-14.24.36:683][214]LogOnline: OSS: Created online subsystem instance for: :Context_41
+[2025.12.11-14.24.36:686][214]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_0.groundLeaves has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.11-14.24.36:686][214]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_0 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_0.groundLeaves 
+[2025.12.11-14.24.36:686][214]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_0.stem has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.11-14.24.36:686][214]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_0 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_0.stem 
+[2025.12.11-14.24.36:686][214]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_0.flower has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.11-14.24.36:687][214]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_0 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_0.flower 
+[2025.12.11-14.24.36:687][214]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_0.groundLeaves has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.11-14.24.36:687][214]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_0 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_0.groundLeaves 
+[2025.12.11-14.24.36:687][214]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_0.stem has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.11-14.24.36:687][214]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_0 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_0.stem 
+[2025.12.11-14.24.36:687][214]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_0.flower has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.11-14.24.36:687][214]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_0 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_0.flower 
+[2025.12.11-14.24.36:687][214]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_1.groundLeaves has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.11-14.24.36:687][214]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_1 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_1.groundLeaves 
+[2025.12.11-14.24.36:687][214]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_1.stem has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.11-14.24.36:688][214]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_1 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_1.stem 
+[2025.12.11-14.24.36:688][214]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_1.flower has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.11-14.24.36:688][214]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_1 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_1.flower 
+[2025.12.11-14.24.36:688][214]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_1.groundLeaves has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.11-14.24.36:688][214]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_1 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_1.groundLeaves 
+[2025.12.11-14.24.36:688][214]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_1.stem has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.11-14.24.36:688][214]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_1 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_1.stem 
+[2025.12.11-14.24.36:688][214]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_1.flower has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.11-14.24.36:688][214]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_1 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_1.flower 
+[2025.12.11-14.24.36:688][214]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_2.groundLeaves has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.11-14.24.36:688][214]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_2 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_2.groundLeaves 
+[2025.12.11-14.24.36:688][214]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_2.stem has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.11-14.24.36:688][214]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_2 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_2.stem 
+[2025.12.11-14.24.36:689][214]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_2.flower has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.11-14.24.36:689][214]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_2 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_2.flower 
+[2025.12.11-14.24.36:689][214]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_2.groundLeaves has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.11-14.24.36:689][214]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_2 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_2.groundLeaves 
+[2025.12.11-14.24.36:689][214]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_2.stem has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.11-14.24.36:689][214]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_2 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_2.stem 
+[2025.12.11-14.24.36:689][214]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_2.flower has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.11-14.24.36:689][214]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_2 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_2.flower 
+[2025.12.11-14.24.36:689][214]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_3.groundLeaves has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.11-14.24.36:689][214]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_3 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_3.groundLeaves 
+[2025.12.11-14.24.36:689][214]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_3.stem has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.11-14.24.36:689][214]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_3 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_3.stem 
+[2025.12.11-14.24.36:689][214]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_3.flower has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.11-14.24.36:689][214]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_3 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_3.flower 
+[2025.12.11-14.24.36:690][214]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_3.groundLeaves has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.11-14.24.36:690][214]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_3 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_3.groundLeaves 
+[2025.12.11-14.24.36:690][214]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_3.stem has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.11-14.24.36:690][214]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_3 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_3.stem 
+[2025.12.11-14.24.36:690][214]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_3.flower has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.11-14.24.36:690][214]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_3 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_3.flower 
+[2025.12.11-14.24.36:690][214]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_4.groundLeaves has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.11-14.24.36:690][214]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_4 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_4.groundLeaves 
+[2025.12.11-14.24.36:690][214]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_4.stem has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.11-14.24.36:690][214]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_4 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_4.stem 
+[2025.12.11-14.24.36:690][214]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_4.flower has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.11-14.24.36:690][214]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_4 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_4.flower 
+[2025.12.11-14.24.36:690][214]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_4.groundLeaves has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.11-14.24.36:690][214]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_4 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_4.groundLeaves 
+[2025.12.11-14.24.36:690][214]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_4.stem has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.11-14.24.36:690][214]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_4 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_4.stem 
+[2025.12.11-14.24.36:690][214]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_4.flower has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.11-14.24.36:690][214]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_4 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_4.flower 
+[2025.12.11-14.24.36:692][214]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_5.groundLeaves has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.11-14.24.36:692][214]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_5 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_5.groundLeaves 
+[2025.12.11-14.24.36:692][214]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_5.stem has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.11-14.24.36:692][214]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_5 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_5.stem 
+[2025.12.11-14.24.36:692][214]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_5.flower has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.11-14.24.36:692][214]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_5 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_5.flower 
+[2025.12.11-14.24.36:692][214]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_5.groundLeaves has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.11-14.24.36:692][214]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_5 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_5.groundLeaves 
+[2025.12.11-14.24.36:692][214]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_5.stem has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.11-14.24.36:692][214]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_5 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_5.stem 
+[2025.12.11-14.24.36:692][214]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_5.flower has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.11-14.24.36:692][214]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_5 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_5.flower 
+[2025.12.11-14.24.36:692][214]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_6.groundLeaves has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.11-14.24.36:692][214]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_6 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_6.groundLeaves 
+[2025.12.11-14.24.36:692][214]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_6.stem has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.11-14.24.36:692][214]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_6 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_6.stem 
+[2025.12.11-14.24.36:692][214]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_6.flower has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.11-14.24.36:692][214]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_6 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_6.flower 
+[2025.12.11-14.24.36:692][214]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_6.groundLeaves has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.11-14.24.36:692][214]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_6 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_6.groundLeaves 
+[2025.12.11-14.24.36:692][214]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_6.stem has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.11-14.24.36:692][214]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_6 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_6.stem 
+[2025.12.11-14.24.36:692][214]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_6.flower has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.11-14.24.36:692][214]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_6 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_6.flower 
+[2025.12.11-14.24.36:693][214]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_7.groundLeaves has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.11-14.24.36:693][214]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_7 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_7.groundLeaves 
+[2025.12.11-14.24.36:693][214]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_7.stem has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.11-14.24.36:693][214]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_7 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_7.stem 
+[2025.12.11-14.24.36:693][214]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_7.flower has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.11-14.24.36:693][214]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_7 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_7.flower 
+[2025.12.11-14.24.36:693][214]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_7.groundLeaves has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.11-14.24.36:693][214]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_7 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_7.groundLeaves 
+[2025.12.11-14.24.36:693][214]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_7.stem has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.11-14.24.36:693][214]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_7 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_7.stem 
+[2025.12.11-14.24.36:693][214]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_7.flower has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.11-14.24.36:693][214]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_7 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_7.flower 
+[2025.12.11-14.24.36:696][214]PIE: Server logged in
+[2025.12.11-14.24.36:698][214]PIE: Play in editor total start time 0.351 seconds.
+[2025.12.11-14.24.36:699][214]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_0.groundLeaves.
+[2025.12.11-14.24.36:699][214]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_0.stem.
+[2025.12.11-14.24.36:699][214]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_0.flower.
+[2025.12.11-14.24.36:699][214]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_1.groundLeaves.
+[2025.12.11-14.24.36:699][214]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_1.stem.
+[2025.12.11-14.24.36:699][214]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_1.flower.
+[2025.12.11-14.24.36:699][214]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_2.groundLeaves.
+[2025.12.11-14.24.36:699][214]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_2.stem.
+[2025.12.11-14.24.36:699][214]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_2.flower.
+[2025.12.11-14.24.36:699][214]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_3.groundLeaves.
+[2025.12.11-14.24.36:699][214]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_3.stem.
+[2025.12.11-14.24.36:699][214]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_3.flower.
+[2025.12.11-14.24.36:699][214]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_4.groundLeaves.
+[2025.12.11-14.24.36:699][214]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_4.stem.
+[2025.12.11-14.24.36:699][214]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_4.flower.
+[2025.12.11-14.24.36:699][214]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_5.groundLeaves.
+[2025.12.11-14.24.36:700][214]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_5.stem.
+[2025.12.11-14.24.36:700][214]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_5.flower.
+[2025.12.11-14.24.36:700][214]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_6.groundLeaves.
+[2025.12.11-14.24.36:700][214]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_6.stem.
+[2025.12.11-14.24.36:700][214]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_6.flower.
+[2025.12.11-14.24.36:700][214]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_7.groundLeaves.
+[2025.12.11-14.24.36:700][214]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_7.stem.
+[2025.12.11-14.24.36:700][214]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_7.flower.
+[2025.12.11-14.24.36:753][215]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.12.11-14.24.42:811][523]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.11-14.24.42:811][523]LogWorld: BeginTearingDown for /Game/main_level/UEDPIE_0_L_main
+[2025.12.11-14.24.42:811][523]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.12.11-14.24.42:812][523]LogWorld: UWorld::CleanupWorld for L_main, bSessionEnded=true, bCleanupResources=true
+[2025.12.11-14.24.42:813][523]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.11-14.24.42:814][523]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.11-14.24.42:820][523]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.11-14.24.42:849][523]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.11-14.24.42:849][523]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2025.12.11-14.24.42:849][523]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21, StreamState=4
+[2025.12.11-14.24.42:852][523]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21, StreamState=2
+[2025.12.11-14.24.42:862][523]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2025.12.11-14.24.42:928][524]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2025.12.11-14.25.02:744][674]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.12.11-14.25.02:750][674]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.11-14.25.02:878][674]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.12.11-14.25.02:965][674]LogSavePackage: Moving output files for package: /Game/main_level/L_main
+[2025.12.11-14.25.02:966][674]LogSavePackage: Moving '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Saved/L_mainDD948FCE4C39E0FEAD0616B3E0ECE52A.tmp' to '../../../../../../Users/skojo/OneDrive/Documents/GitHub/Verticle_Jam_Group_2/UProject Files/VerticalJam2025/Content/main_level/L_main.umap'
+[2025.12.11-14.25.02:982][674]LogFileHelpers: Saving map 'L_main' took 0.158
+[2025.12.11-14.25.02:993][674]LogFileHelpers: InternalPromptForCheckoutAndSave took 243.297 ms (total: 9.68 sec)
+[2025.12.11-14.25.03:062][674]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.11-14.25.03:062][674]LogContentValidation: Enabled validators:
+[2025.12.11-14.25.03:062][674]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.11-14.25.03:062][674]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.11-14.25.03:062][674]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.11-14.25.03:062][674]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.11-14.25.03:062][674]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.11-14.25.03:062][674]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.11-14.25.03:062][674]AssetCheck: /Game/main_level/L_main Validating asset
+[2025.12.11-14.25.03:792][701]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.11-14.25.03:802][701]LogPlayLevel: [PlayLevel] Compiling L_main before play...
+[2025.12.11-14.25.03:861][701]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.12.11-14.25.03:863][701]LogPlayLevel: PlayLevel: Blueprint regeneration took 61 ms (1 blueprints)
+[2025.12.11-14.25.03:891][701]LogPlayLevel: Creating play world package: /Game/main_level/UEDPIE_0_L_main
+[2025.12.11-14.25.03:911][701]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020073s)
+[2025.12.11-14.25.03:911][701]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/main_level/L_main.L_main to /Game/main_level/UEDPIE_0_L_main.L_main (0.020133s)
+[2025.12.11-14.25.03:954][701]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.12.11-14.25.03:956][701]LogChaosDD: Creating Chaos Debug Draw Scene for world L_main
+[2025.12.11-14.25.03:957][701]LogPlayLevel: PIE: World Init took: (0.001732s)
+[2025.12.11-14.25.03:958][701]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2025.12.11-14.25.03:958][701]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.11-14.25.03:958][701]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.11-14.25.03:958][701]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.11-14.25.03:958][701]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.11-14.25.03:958][701]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.11-14.25.03:958][701]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.11-14.25.03:958][701]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.11-14.25.03:958][701]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.11-14.25.03:958][701]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.11-14.25.03:958][701]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.11-14.25.03:958][701]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.11-14.25.03:961][701]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.11-14.25.04:065][701]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.12.11-14.25.04:065][701]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.11-14.25.04:065][701]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.11-14.25.04:065][701]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.11-14.25.04:066][701]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2025.12.11-14.25.04:066][701]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2025.12.11-14.25.04:068][701]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2025.12.11-14.25.04:068][701]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2025.12.11-14.25.04:068][701]LogInit: FAudioDevice initialized with ID 22.
+[2025.12.11-14.25.04:068][701]LogAudio: Display: Audio Device (ID: 22) registered with world 'L_main'.
+[2025.12.11-14.25.04:068][701]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2025.12.11-14.25.04:073][701]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2025.12.11-14.25.04:076][701]LogWorld: Bringing World /Game/main_level/UEDPIE_0_L_main.L_main up for play (max tick rate 60) at 2025.12.11-14.25.04
+[2025.12.11-14.25.04:076][701]LogWorld: Bringing up level for play took: 0.003231
+[2025.12.11-14.25.04:090][701]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2025.12.11-14.25.04:092][701]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_0.groundLeaves has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.11-14.25.04:092][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_0 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_0.groundLeaves 
+[2025.12.11-14.25.04:092][701]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_0.stem has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.11-14.25.04:092][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_0 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_0.stem 
+[2025.12.11-14.25.04:092][701]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_0.flower has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.11-14.25.04:092][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_0 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_0.flower 
+[2025.12.11-14.25.04:093][701]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_0.groundLeaves has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.11-14.25.04:093][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_0 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_0.groundLeaves 
+[2025.12.11-14.25.04:093][701]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_0.stem has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.11-14.25.04:093][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_0 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_0.stem 
+[2025.12.11-14.25.04:093][701]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_0.flower has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.11-14.25.04:093][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_0 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_0.flower 
+[2025.12.11-14.25.04:093][701]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_1.groundLeaves has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.11-14.25.04:093][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_1 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_1.groundLeaves 
+[2025.12.11-14.25.04:093][701]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_1.stem has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.11-14.25.04:093][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_1 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_1.stem 
+[2025.12.11-14.25.04:093][701]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_1.flower has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.11-14.25.04:093][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_1 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_1.flower 
+[2025.12.11-14.25.04:094][701]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_1.groundLeaves has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.11-14.25.04:094][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_1 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_1.groundLeaves 
+[2025.12.11-14.25.04:094][701]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_1.stem has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.11-14.25.04:094][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_1 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_1.stem 
+[2025.12.11-14.25.04:094][701]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_1.flower has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.11-14.25.04:094][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_1 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_1.flower 
+[2025.12.11-14.25.04:094][701]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_2.groundLeaves has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.11-14.25.04:094][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_2 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_2.groundLeaves 
+[2025.12.11-14.25.04:094][701]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_2.stem has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.11-14.25.04:094][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_2 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_2.stem 
+[2025.12.11-14.25.04:094][701]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_2.flower has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.11-14.25.04:094][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_2 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_2.flower 
+[2025.12.11-14.25.04:095][701]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_2.groundLeaves has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.11-14.25.04:095][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_2 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_2.groundLeaves 
+[2025.12.11-14.25.04:095][701]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_2.stem has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.11-14.25.04:095][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_2 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_2.stem 
+[2025.12.11-14.25.04:095][701]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_2.flower has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.11-14.25.04:095][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_2 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_2.flower 
+[2025.12.11-14.25.04:095][701]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_3.groundLeaves has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.11-14.25.04:095][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_3 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_3.groundLeaves 
+[2025.12.11-14.25.04:095][701]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_3.stem has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.11-14.25.04:095][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_3 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_3.stem 
+[2025.12.11-14.25.04:095][701]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_3.flower has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.11-14.25.04:095][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_3 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_3.flower 
+[2025.12.11-14.25.04:095][701]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_3.groundLeaves has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.11-14.25.04:095][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_3 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_3.groundLeaves 
+[2025.12.11-14.25.04:095][701]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_3.stem has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.11-14.25.04:095][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_3 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_3.stem 
+[2025.12.11-14.25.04:095][701]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_3.flower has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.11-14.25.04:095][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_3 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_3.flower 
+[2025.12.11-14.25.04:096][701]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_4.groundLeaves has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.11-14.25.04:096][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_4 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_4.groundLeaves 
+[2025.12.11-14.25.04:096][701]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_4.stem has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.11-14.25.04:096][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_4 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_4.stem 
+[2025.12.11-14.25.04:096][701]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_4.flower has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.11-14.25.04:096][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_4 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_4.flower 
+[2025.12.11-14.25.04:096][701]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_4.groundLeaves has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.11-14.25.04:096][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_4 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_4.groundLeaves 
+[2025.12.11-14.25.04:096][701]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_4.stem has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.11-14.25.04:096][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_4 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_4.stem 
+[2025.12.11-14.25.04:096][701]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_4.flower has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.11-14.25.04:096][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_4 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_4.flower 
+[2025.12.11-14.25.04:096][701]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_5.groundLeaves has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.11-14.25.04:097][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_5 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_5.groundLeaves 
+[2025.12.11-14.25.04:097][701]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_5.stem has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.11-14.25.04:097][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_5 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_5.stem 
+[2025.12.11-14.25.04:097][701]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_5.flower has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.11-14.25.04:097][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_5 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_5.flower 
+[2025.12.11-14.25.04:097][701]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_5.groundLeaves has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.11-14.25.04:097][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_5 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_5.groundLeaves 
+[2025.12.11-14.25.04:097][701]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_5.stem has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.11-14.25.04:097][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_5 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_5.stem 
+[2025.12.11-14.25.04:097][701]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_5.flower has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.11-14.25.04:097][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_5 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_5.flower 
+[2025.12.11-14.25.04:097][701]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_6.groundLeaves has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.11-14.25.04:097][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_6 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_6.groundLeaves 
+[2025.12.11-14.25.04:097][701]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_6.stem has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.11-14.25.04:097][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_6 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_6.stem 
+[2025.12.11-14.25.04:097][701]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_6.flower has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.11-14.25.04:097][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_6 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_6.flower 
+[2025.12.11-14.25.04:098][701]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_6.groundLeaves has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.11-14.25.04:098][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_6 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_6.groundLeaves 
+[2025.12.11-14.25.04:098][701]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_6.stem has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.11-14.25.04:098][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_6 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_6.stem 
+[2025.12.11-14.25.04:098][701]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_6.flower has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.11-14.25.04:098][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_6 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_6.flower 
+[2025.12.11-14.25.04:098][701]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_7.groundLeaves has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.11-14.25.04:098][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_7 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_7.groundLeaves 
+[2025.12.11-14.25.04:098][701]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_7.stem has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.11-14.25.04:098][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_7 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_7.stem 
+[2025.12.11-14.25.04:098][701]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_7.flower has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.11-14.25.04:098][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_7 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_7.flower 
+[2025.12.11-14.25.04:098][701]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_7.groundLeaves has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.11-14.25.04:098][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_7 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_7.groundLeaves 
+[2025.12.11-14.25.04:098][701]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_7.stem has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.11-14.25.04:098][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_7 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_7.stem 
+[2025.12.11-14.25.04:098][701]LogPhysics: Warning: Scale for /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_7.flower has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.11-14.25.04:098][701]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_plant_C_7 /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_7.flower 
+[2025.12.11-14.25.04:102][701]PIE: Server logged in
+[2025.12.11-14.25.04:104][701]PIE: Play in editor total start time 0.302 seconds.
+[2025.12.11-14.25.04:105][701]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_0.groundLeaves.
+[2025.12.11-14.25.04:105][701]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_0.stem.
+[2025.12.11-14.25.04:105][701]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_0.flower.
+[2025.12.11-14.25.04:105][701]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_1.groundLeaves.
+[2025.12.11-14.25.04:105][701]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_1.stem.
+[2025.12.11-14.25.04:105][701]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_1.flower.
+[2025.12.11-14.25.04:105][701]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_2.groundLeaves.
+[2025.12.11-14.25.04:105][701]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_2.stem.
+[2025.12.11-14.25.04:105][701]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_2.flower.
+[2025.12.11-14.25.04:105][701]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_3.groundLeaves.
+[2025.12.11-14.25.04:105][701]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_3.stem.
+[2025.12.11-14.25.04:105][701]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_3.flower.
+[2025.12.11-14.25.04:105][701]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_4.groundLeaves.
+[2025.12.11-14.25.04:105][701]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_4.stem.
+[2025.12.11-14.25.04:105][701]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_4.flower.
+[2025.12.11-14.25.04:105][701]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_5.groundLeaves.
+[2025.12.11-14.25.04:105][701]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_5.stem.
+[2025.12.11-14.25.04:105][701]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_5.flower.
+[2025.12.11-14.25.04:105][701]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_6.groundLeaves.
+[2025.12.11-14.25.04:105][701]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_6.stem.
+[2025.12.11-14.25.04:105][701]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_6.flower.
+[2025.12.11-14.25.04:105][701]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_7.groundLeaves.
+[2025.12.11-14.25.04:105][701]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_7.stem.
+[2025.12.11-14.25.04:105][701]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/main_level/UEDPIE_0_L_main.L_main:PersistentLevel.BP_plant_C_7.flower.
+[2025.12.11-14.25.04:153][702]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.12.11-14.25.05:152][751]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.11-14.25.05:152][751]LogWorld: BeginTearingDown for /Game/main_level/UEDPIE_0_L_main
+[2025.12.11-14.25.05:152][751]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.12.11-14.25.05:153][751]LogWorld: UWorld::CleanupWorld for L_main, bSessionEnded=true, bCleanupResources=true
+[2025.12.11-14.25.05:154][751]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.11-14.25.05:155][751]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.11-14.25.05:160][751]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.11-14.25.05:188][751]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.11-14.25.05:188][751]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2025.12.11-14.25.05:188][751]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22, StreamState=4
+[2025.12.11-14.25.05:190][751]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22, StreamState=2
+[2025.12.11-14.25.05:202][751]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.12.11-14.25.05:270][752]LogPlayLevel: Display: Destroying online subsystem :Context_42
